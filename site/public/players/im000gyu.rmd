@@ -1,0 +1,13 @@
+---
+title: Im Gyu-bin | 임규빈
+subtitle: Kiwoom Heroes | RHP
+---
+```{r pressure, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+d <- pitchers %>% subset(ID == "im000gyu") %>% select(-Name, -Name.mykbo, -KName, -Position, -ID)
+d <- d[order(-d$Season),]
+kable(d, digits = c(0,0,0,0,0,0,1,1,1,3,2,2,2), col.names = c("Season","Team","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
+```

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Teams"
-subtitle = "Batting & Pitching Statistics"
+title = "Stats by Team"
+#subtitle = "Batting & Pitching Statistics"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = "Batting & Pitching Statistics"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,7 +45,7 @@ subtitle = "Batting & Pitching Statistics"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

@@ -9,9 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Teams"
+  name = "Stats by Team"
   url = "teams/"
   weight = 20
+
+[[main]]
+  name = "Elo Ratings"
+  url = "elo/"
+  weight = 30
+
+#[[main]]
+#  name = "Glossary"
+#  url = "glossary/"
+#  weight = 40
 
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,0 +1,24 @@
+---
+date: "2020-03-31"
+title: 'Elo Ratings'
+---
+
+```{r pressure, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+library(knitr)
+library(kableExtra)
+d <- read_csv("~/Google Drive/KBO/predictions.csv")
+kable(d, digits = c(0,0,0,0,0,0,0,0,0), col.names = c("Rank","Team","Elo Rating","1st","2nd","3rd","4th","5th","6th+")) %>%
+  add_header_above(c("Current" = 3, "2020 Projected Finish" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T)
+```
+## Elo Ratings, Ten Team Era
+```{r, echo=F,warning=FALSE,message=FALSE}
+tenteam <- read_csv("~/Google Drive/KBO/elohistory.csv")
+plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team))
+plot <- config(plot, displayModeBar = FALSE)
+plot2 <- ggplotly(plot)
+plot2 <- config(plot2, displayModeBar = FALSE)
+plot2
+```

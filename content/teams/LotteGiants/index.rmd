@@ -1,0 +1,32 @@
+---
+date: "2020-03-31"
+summary: 'WAR Leader | Jeon Jun-woo, LF: 3.95'
+title: 'Lotte Giants'
+subtitle: 'Current Elo: 1346 | Elo Rank: 10'
+image:
+  preview_only: true
+---
+## 2019 Batting Stats
+```{r pressure, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+batters <- batters[complete.cases(batters),]
+batters$Age <- as.numeric(batters$Age)
+d <- batters %>% subset(Team == "Lotte Giants") %>% subset(Season == "2019") %>% select(-Team, -Season, -KName)
+d <- d[order(-d$WAR),]
+d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
+d <- d %>% select(-ID, -Name)
+kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Pos","Age","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%column_spec(1, bold = T, border_right = F)
+```
+## 2019 Pitching Stats
+```{r, echo=F,warning=FALSE,message=FALSE}
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+pitchers <- pitchers[complete.cases(pitchers),]
+d <- pitchers %>% subset(Team == "Lotte Giants") %>% subset(Season == "2019") %>% select(-Team, -Season, -KName, -Position)
+d <- d[order(-d$WAR),]
+d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
+d <- d %>% select(-ID, -Name)
+kable(d, digits = c(0,0,0,0,0,1,1,1,3,2,2,2), col.names = c("Name","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
+```

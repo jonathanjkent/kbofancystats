@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Academia"
+title = "KBO Fancy Stats"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "kbo.png"
@@ -17,18 +17,20 @@ hero_media = "kbo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#fff"
+  color = "#0f1b34"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "hero.jpg"  # Name of image in `static/img/`.
+  #image_position = "left"
+  #image_size = "actual"
+  #image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -36,6 +38,6 @@ hero_media = "kbo.png"
 
 
 +++
-## **KBO Fancy Stats**
-
-Advanced analytics for the Korean Baseball Organization
+Advanced analytics for the Korean Baseball Organization.
+Data scraped from Baseball Reference and MyKBOStats.com with
+stats based on FanGraphs' methodology. See the glossary for more.

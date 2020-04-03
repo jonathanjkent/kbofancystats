@@ -40,4 +40,4 @@ hero_media = "kbo.png"
 +++
 Advanced analytics for the Korean Baseball Organization.
 Data scraped from Baseball Reference and MyKBOStats.com with
-stats based on FanGraphs' methodology. See the glossary for more.
+stats based on FanGraphs' methodology.

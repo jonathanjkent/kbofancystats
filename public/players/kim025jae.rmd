@@ -1,6 +1,7 @@
 ---
 title: Kim Jae-seong | 김재성
 subtitle: LG Twins | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

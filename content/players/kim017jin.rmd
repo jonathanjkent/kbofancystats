@@ -1,6 +1,7 @@
 ---
 title: Kim Jin-gon | 김진곤
 subtitle: KT Wiz | CF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

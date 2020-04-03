@@ -1,6 +1,7 @@
 ---
 title: Ahn Chi-young | 안치영
 subtitle: KT Wiz | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

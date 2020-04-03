@@ -1,6 +1,7 @@
 ---
 title: Baek Dong-hoon | 백동훈
 subtitle: Doosan Bears | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

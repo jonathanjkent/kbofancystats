@@ -1,6 +1,7 @@
 ---
 title: Moon Kyu-hyun | 문규현
 subtitle: Lotte Giants | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

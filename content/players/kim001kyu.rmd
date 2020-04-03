@@ -1,6 +1,7 @@
 ---
 title: Kim Gyu-min | 김규민
 subtitle: Kiwoom Heroes | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

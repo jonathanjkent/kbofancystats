@@ -1,6 +1,7 @@
 ---
 title: Choi Kyung-mo | 최경모
 subtitle: SK Wyverns | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

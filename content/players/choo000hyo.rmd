@@ -1,6 +1,7 @@
 ---
 title: Ju Hyo-sang | 주효상
 subtitle: Kiwoom Heroes | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

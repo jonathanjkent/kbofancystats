@@ -1,6 +1,7 @@
 ---
 title: Chae Eun-sung | 채은성
 subtitle: LG Twins | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

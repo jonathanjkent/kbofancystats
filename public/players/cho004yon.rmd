@@ -1,6 +1,7 @@
 ---
 title: Jo Yong-ho | 조용호
 subtitle: KT Wiz | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Park Kyung-soo | 박경수
 subtitle: KT Wiz | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

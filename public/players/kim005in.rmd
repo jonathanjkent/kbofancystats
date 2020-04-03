@@ -1,6 +1,7 @@
 ---
 title: Kim In-tae | 김인태
 subtitle: Doosan Bears | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

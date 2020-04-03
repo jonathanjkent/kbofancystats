@@ -1,6 +1,7 @@
 ---
 title: Park Gye-beom | 박계범
 subtitle: Samsung Lions | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Choi Joon-woo | 최준우
 subtitle: SK Wyverns | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Na Joo-hwan | 나주환
 subtitle: SK Wyverns | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Kim Sung-hoon | 김성훈
 subtitle: Samsung Lions | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

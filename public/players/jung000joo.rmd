@@ -1,6 +1,7 @@
 ---
 title: Jung Joon-hyuk | 정준혁
 subtitle: Lotte Giants | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

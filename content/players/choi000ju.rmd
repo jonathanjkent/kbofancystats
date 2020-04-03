@@ -1,6 +1,7 @@
 ---
 title: Choi Joo-hwan | 최주환
 subtitle: Doosan Bears | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

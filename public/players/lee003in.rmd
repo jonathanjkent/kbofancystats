@@ -1,6 +1,7 @@
 ---
 title: Lee In-hyuk | 이인혁
 subtitle: NC Dinos | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Carlos Peguero | 페게로
 subtitle: LG Twins | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Heo Jeong-hyeop | 허정협
 subtitle: Kiwoom Heroes | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

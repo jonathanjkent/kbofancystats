@@ -1,6 +1,7 @@
 ---
 title: Kim Jae-ho | 김재호
 subtitle: Doosan Bears | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

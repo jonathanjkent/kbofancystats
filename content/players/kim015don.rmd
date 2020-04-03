@@ -1,6 +1,7 @@
 ---
 title: Kim Dong-han | 김동한
 subtitle: Lotte Giants | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Hwang Yoon-ho | 황윤호
 subtitle: Kia Tigers | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Baek Seung-min | 백승민
 subtitle: Samsung Lions | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Kim Tae-geun | 김태근
 subtitle: Doosan Bears | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

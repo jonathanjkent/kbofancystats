@@ -1,6 +1,7 @@
 ---
 title: Park Suk-min | 박석민
 subtitle: NC Dinos | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

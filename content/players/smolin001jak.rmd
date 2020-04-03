@@ -1,6 +1,7 @@
 ---
 title: Jake Smolinski | 스몰린스키
 subtitle: NC Dinos | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

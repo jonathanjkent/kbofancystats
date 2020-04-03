@@ -1,6 +1,7 @@
 ---
 title: Chung Sang-ho | 정상호
 subtitle: LG Twins | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

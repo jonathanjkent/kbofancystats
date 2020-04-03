@@ -1,6 +1,7 @@
 ---
 title: Song Kwang-min | 송광민
 subtitle: Hanwha Eagles | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

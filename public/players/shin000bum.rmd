@@ -1,6 +1,7 @@
 ---
 title: Shin Bum-soo | 신범수
 subtitle: Kia Tigers | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

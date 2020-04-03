@@ -1,6 +1,7 @@
 ---
 title: Kim Hye-sung | 김혜성
 subtitle: Kiwoom Heroes | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

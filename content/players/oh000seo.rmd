@@ -1,6 +1,7 @@
 ---
 title: Oh Sun-jin | 오선진
 subtitle: Hanwha Eagles | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Lee Chang-yeol | 이창열
 subtitle: Hanwha Eagles | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Mel Rojas Jr. | 로하스
 subtitle: KT Wiz | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

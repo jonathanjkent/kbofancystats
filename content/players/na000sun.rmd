@@ -1,6 +1,7 @@
 ---
 title: Na Sung-bum | 나성범
 subtitle: NC Dinos | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

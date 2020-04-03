@@ -1,6 +1,7 @@
 ---
 title: Choi Jeong | 최정
 subtitle: SK Wyverns | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

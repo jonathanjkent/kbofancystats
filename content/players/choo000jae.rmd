@@ -1,6 +1,7 @@
 ---
 title: Choo Jae-hyun | 추재현
 subtitle: Kiwoom Heroes | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

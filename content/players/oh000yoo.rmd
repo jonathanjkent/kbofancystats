@@ -1,6 +1,7 @@
 ---
 title: Oh Yoon-suk | 오윤석
 subtitle: Lotte Giants | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

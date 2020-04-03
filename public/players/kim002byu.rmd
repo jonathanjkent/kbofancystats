@@ -1,6 +1,7 @@
 ---
 title: Kim Byung-hee | 김병희
 subtitle: KT Wiz | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

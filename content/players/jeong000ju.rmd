@@ -1,6 +1,7 @@
 ---
 title: Jung Ju-hyeon | 정주현
 subtitle: LG Twins | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

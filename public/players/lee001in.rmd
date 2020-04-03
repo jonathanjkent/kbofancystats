@@ -1,6 +1,7 @@
 ---
 title: Lee In-haeng | 이인행
 subtitle: Kia Tigers | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

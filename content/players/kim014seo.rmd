@@ -1,6 +1,7 @@
 ---
 title: Kim Sung-hyun | 김성현
 subtitle: SK Wyverns | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

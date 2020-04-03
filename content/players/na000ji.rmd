@@ -1,6 +1,7 @@
 ---
 title: Na Ji-wan | 나지완
 subtitle: Kia Tigers | DH
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

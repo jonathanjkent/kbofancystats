@@ -1,6 +1,7 @@
 ---
 title: Park Yong-taik | 박용택
 subtitle: LG Twins | DH
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

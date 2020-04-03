@@ -1,6 +1,7 @@
 ---
 title: Kim Joon-wan | 김준완
 subtitle: NC Dinos | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

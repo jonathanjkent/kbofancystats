@@ -1,6 +1,7 @@
 ---
 title: Kim Chan-hyung | 김찬형
 subtitle: NC Dinos | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

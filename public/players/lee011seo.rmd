@@ -1,6 +1,7 @@
 ---
 title: Lee Sung-gon | 이성곤
 subtitle: Samsung Lions | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

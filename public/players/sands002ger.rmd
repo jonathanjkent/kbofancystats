@@ -1,6 +1,7 @@
 ---
 title: Jerry Sands | 샌즈
 subtitle: Kiwoom Heroes | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

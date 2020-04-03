@@ -1,6 +1,7 @@
 ---
 title: Kim Jong-min | 김종민
 subtitle: Hanwha Eagles | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

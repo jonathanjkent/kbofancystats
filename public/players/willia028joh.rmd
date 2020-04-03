@@ -1,6 +1,7 @@
 ---
 title: Mac Williamson | 윌리엄슨
 subtitle: Samsung Lions | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

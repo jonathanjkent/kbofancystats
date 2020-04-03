@@ -1,6 +1,7 @@
 ---
 title: Ryu Ji-hyeok | 류지혁
 subtitle: Doosan Bears | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

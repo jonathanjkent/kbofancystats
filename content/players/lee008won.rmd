@@ -1,6 +1,7 @@
 ---
 title: Lee Won-jae | 이원재
 subtitle: NC Dinos | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

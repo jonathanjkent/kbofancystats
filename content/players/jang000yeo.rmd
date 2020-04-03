@@ -1,6 +1,7 @@
 ---
 title: Jang Yeong-seok | 장영석
 subtitle: Kiwoom Heroes | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Lee Joon-soo | 이준수
 subtitle: KT Wiz | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

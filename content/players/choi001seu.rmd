@@ -1,6 +1,7 @@
 ---
 title: Choi Seung-joon | 최승준
 subtitle: SK Wyverns | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

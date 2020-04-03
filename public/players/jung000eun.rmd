@@ -1,6 +1,7 @@
 ---
 title: Jung Eun-won | 정은원
 subtitle: Hanwha Eagles | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

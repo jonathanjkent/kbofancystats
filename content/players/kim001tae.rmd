@@ -1,6 +1,7 @@
 ---
 title: Kim Tae-kyun | 김태균
 subtitle: Hanwha Eagles | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

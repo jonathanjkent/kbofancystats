@@ -1,6 +1,7 @@
 ---
 title: Yang Jong-min | 양종민
 subtitle: LG Twins | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

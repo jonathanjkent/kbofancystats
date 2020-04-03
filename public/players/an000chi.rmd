@@ -1,6 +1,7 @@
 ---
 title: An Chi-hong | 안치홍
 subtitle: Kia Tigers | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

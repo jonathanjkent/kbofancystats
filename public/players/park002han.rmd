@@ -1,6 +1,7 @@
 ---
 title: Park Han-gyul | 박한결
 subtitle: Hanwha Eagles | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

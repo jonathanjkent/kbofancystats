@@ -1,6 +1,7 @@
 ---
 title: Yang Sung-woo | 양성우
 subtitle: Hanwha Eagles | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

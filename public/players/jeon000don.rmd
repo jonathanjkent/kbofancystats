@@ -1,6 +1,7 @@
 ---
 title: Jeon Min-su | 전민수
 subtitle: LG Twins | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

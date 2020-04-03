@@ -1,6 +1,7 @@
 ---
 title: Oh Jung-hwan | 오정환
 subtitle: Kia Tigers | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

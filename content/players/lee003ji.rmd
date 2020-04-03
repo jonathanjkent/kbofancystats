@@ -1,6 +1,7 @@
 ---
 title: Lee Ji-young | 이지영
 subtitle: Kiwoom Heroes | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

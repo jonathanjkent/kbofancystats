@@ -1,6 +1,7 @@
 ---
 title: Kang Min-gook | 강민국
 subtitle: KT Wiz | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

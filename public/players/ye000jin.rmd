@@ -1,6 +1,7 @@
 ---
 title: Yeh Jin-won | 예진원
 subtitle: Kiwoom Heroes | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

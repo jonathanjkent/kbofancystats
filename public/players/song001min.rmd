@@ -1,6 +1,7 @@
 ---
 title: Song Min-seop | 송민섭
 subtitle: KT Wiz | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

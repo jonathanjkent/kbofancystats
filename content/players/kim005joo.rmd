@@ -1,6 +1,7 @@
 ---
 title: Kim Joo-hyung | 김주형
 subtitle: Kiwoom Heroes | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

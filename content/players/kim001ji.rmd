@@ -1,6 +1,7 @@
 ---
 title: Kim Ji-soo | 김지수
 subtitle: Kiwoom Heroes | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

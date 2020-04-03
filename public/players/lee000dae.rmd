@@ -1,6 +1,7 @@
 ---
 title: Lee Dae-ho | 이대호
 subtitle: Lotte Giants | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

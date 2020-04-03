@@ -1,6 +1,7 @@
 ---
 title: Kong Min-gyu | 공민규
 subtitle: Samsung Lions | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

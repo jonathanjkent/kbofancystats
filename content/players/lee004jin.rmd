@@ -1,6 +1,7 @@
 ---
 title: Lee Jin-young | 이진영
 subtitle: Kia Tigers | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

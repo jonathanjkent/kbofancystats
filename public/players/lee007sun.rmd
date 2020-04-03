@@ -1,6 +1,7 @@
 ---
 title: Lee Sung-gyu | 이성규
 subtitle: Samsung Lions | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

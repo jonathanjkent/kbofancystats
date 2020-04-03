@@ -1,6 +1,7 @@
 ---
 title: No Jin-hyuk | 노진혁
 subtitle: NC Dinos | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Son Joo-in | 손주인
 subtitle: Samsung Lions | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

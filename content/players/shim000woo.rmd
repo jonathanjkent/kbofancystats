@@ -1,6 +1,7 @@
 ---
 title: Sim Woo-jun | 심우준
 subtitle: KT Wiz | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

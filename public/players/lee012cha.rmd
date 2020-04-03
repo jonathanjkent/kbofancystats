@@ -1,6 +1,7 @@
 ---
 title: Lee Chang-jin | 이창진
 subtitle: Kia Tigers | CF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

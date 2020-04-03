@@ -1,6 +1,7 @@
 ---
 title: Park Jun-hyuk | 박준혁
 subtitle: Hanwha Eagles | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

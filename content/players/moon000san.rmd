@@ -1,6 +1,7 @@
 ---
 title: Moon Sang-cheol | 문상철
 subtitle: KT Wiz | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

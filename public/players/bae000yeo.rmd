@@ -1,6 +1,7 @@
 ---
 title: Bae Young-seop | 배영섭
 subtitle: SK Wyverns | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

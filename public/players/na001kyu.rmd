@@ -1,6 +1,7 @@
 ---
 title: Na Kyung-min | 나경민
 subtitle: Lotte Giants | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

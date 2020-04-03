@@ -1,6 +1,7 @@
 ---
 title: Ahn Seung-han | 안승한
 subtitle: KT Wiz | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

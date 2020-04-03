@@ -1,6 +1,7 @@
 ---
 title: Kang Kyung-hak | 강경학
 subtitle: Hanwha Eagles | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

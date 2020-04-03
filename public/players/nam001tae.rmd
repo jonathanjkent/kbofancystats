@@ -1,6 +1,7 @@
 ---
 title: Nam Tae-hyuk | 남태혁
 subtitle: SK Wyverns | DH
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

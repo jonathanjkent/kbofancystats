@@ -1,6 +1,7 @@
 ---
 title: Choi Jae-hoon | 최재훈
 subtitle: Hanwha Eagles | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

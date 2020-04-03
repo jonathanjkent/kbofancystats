@@ -1,6 +1,7 @@
 ---
 title: Kim Sun-bin | 김선빈
 subtitle: Kia Tigers | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

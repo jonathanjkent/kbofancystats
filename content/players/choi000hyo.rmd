@@ -1,6 +1,7 @@
 ---
 title: Choi Hyung-woo | 최형우
 subtitle: Kia Tigers | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

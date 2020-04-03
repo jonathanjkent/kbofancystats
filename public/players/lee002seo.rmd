@@ -1,6 +1,7 @@
 ---
 title: Lee Sung-woo | 이성우
 subtitle: LG Twins | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

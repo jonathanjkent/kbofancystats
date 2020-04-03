@@ -1,6 +1,7 @@
 ---
 title: Kim Tae-yeon | 김태연
 subtitle: Hanwha Eagles | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

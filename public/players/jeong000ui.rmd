@@ -1,6 +1,7 @@
 ---
 title: Jeong Eui-yoon | 정의윤
 subtitle: SK Wyverns | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

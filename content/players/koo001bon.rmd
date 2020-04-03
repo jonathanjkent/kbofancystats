@@ -1,6 +1,7 @@
 ---
 title: Koo Bon-hyeok | 구본혁
 subtitle: LG Twins | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

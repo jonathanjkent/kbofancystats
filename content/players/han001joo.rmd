@@ -1,6 +1,7 @@
 ---
 title: Han Joon-soo | 한준수
 subtitle: Kia Tigers | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

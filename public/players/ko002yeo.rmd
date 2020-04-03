@@ -1,6 +1,7 @@
 ---
 title: Ko Chang-hyuk | 고장혁
 subtitle: Kia Tigers | 3B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

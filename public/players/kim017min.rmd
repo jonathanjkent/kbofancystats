@@ -1,6 +1,7 @@
 ---
 title: Kim Min-hyeok | 김민혁
 subtitle: KT Wiz | CF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

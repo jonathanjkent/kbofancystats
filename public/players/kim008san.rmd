@@ -1,6 +1,7 @@
 ---
 title: Kim Sang-su | 김상수
 subtitle: Samsung Lions | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

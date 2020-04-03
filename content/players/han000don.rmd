@@ -1,6 +1,7 @@
 ---
 title: Han Dong-min | 한동민
 subtitle: SK Wyverns | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

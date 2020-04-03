@@ -1,6 +1,7 @@
 ---
 title: Ha Ju-suk | 하주석
 subtitle: Hanwha Eagles | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

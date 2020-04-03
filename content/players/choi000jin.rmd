@@ -1,6 +1,7 @@
 ---
 title: Choi Jin-haeng | 최진행
 subtitle: Hanwha Eagles | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Kim Dong-yeop | 김동엽
 subtitle: Samsung Lions | DH
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

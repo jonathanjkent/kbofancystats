@@ -1,6 +1,7 @@
 ---
 title: Oh Ji-hwan | 오지환
 subtitle: LG Twins | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

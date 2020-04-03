@@ -1,6 +1,7 @@
 ---
 title: Ryu Seung-hyun | 류승현
 subtitle: Kia Tigers | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

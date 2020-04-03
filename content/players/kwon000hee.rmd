@@ -1,6 +1,7 @@
 ---
 title: Kwon Hee-dong | 권희동
 subtitle: NC Dinos | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

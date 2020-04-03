@@ -1,6 +1,7 @@
 ---
 title: Chae Hyun-woo | 채현우
 subtitle: SK Wyverns | OF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

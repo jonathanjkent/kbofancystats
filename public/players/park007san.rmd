@@ -1,6 +1,7 @@
 ---
 title: Park Sang-eon | 박상언
 subtitle: Hanwha Eagles | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

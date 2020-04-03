@@ -1,6 +1,7 @@
 ---
 title: Lee Hae-chang | 이해창
 subtitle: KT Wiz | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

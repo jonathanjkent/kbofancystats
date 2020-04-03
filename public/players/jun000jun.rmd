@@ -1,6 +1,7 @@
 ---
 title: Jeon Jun-woo | 전준우
 subtitle: Lotte Giants | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

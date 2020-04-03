@@ -1,6 +1,7 @@
 ---
 title: Kang Lo-han | 강로한
 subtitle: Lotte Giants | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Lee Chan-geon | 이찬건
 subtitle: Lotte Giants | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

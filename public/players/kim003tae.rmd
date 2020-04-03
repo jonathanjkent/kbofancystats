@@ -1,6 +1,7 @@
 ---
 title: Kim Tae-goon | 김태군
 subtitle: NC Dinos | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

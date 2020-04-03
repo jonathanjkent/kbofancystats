@@ -1,6 +1,7 @@
 ---
 title: Kim Jae-hyun | 김재현
 subtitle: Samsung Lions | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Lee Sang-ho | 이상호
 subtitle: NC Dinos | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

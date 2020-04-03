@@ -1,6 +1,7 @@
 ---
 title: Park Hae-min | 박해민
 subtitle: Samsung Lions | CF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

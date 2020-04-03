@@ -1,6 +1,7 @@
 ---
 title: Byun Woo-hyuk | 변우혁
 subtitle: Hanwha Eagles | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

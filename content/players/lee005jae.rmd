@@ -1,6 +1,7 @@
 ---
 title: Lee Jae-won | 이재원
 subtitle: SK Wyverns | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Baek Yong-hwan | 백용환
 subtitle: Kia Tigers | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

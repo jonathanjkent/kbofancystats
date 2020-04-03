@@ -1,6 +1,7 @@
 ---
 title: Yoon Soo-gang | 윤수강
 subtitle: NC Dinos | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Kim Eung-min | 김응민
 subtitle: Samsung Lions | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

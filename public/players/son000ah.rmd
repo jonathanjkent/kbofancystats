@@ -1,6 +1,7 @@
 ---
 title: Son Ah-seop | 손아섭
 subtitle: Lotte Giants | RF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

@@ -1,6 +1,7 @@
 ---
 title: Jang Sung-woo | 장성우
 subtitle: KT Wiz | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

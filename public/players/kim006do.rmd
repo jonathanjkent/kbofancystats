@@ -1,6 +1,7 @@
 ---
 title: Kim Do-hwan | 김도환
 subtitle: Samsung Lions | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

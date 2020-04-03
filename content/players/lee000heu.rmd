@@ -1,6 +1,7 @@
 ---
 title: Lee Heung-ryun | 이흥련
 subtitle: Doosan Bears | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

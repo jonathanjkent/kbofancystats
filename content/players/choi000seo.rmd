@@ -1,6 +1,7 @@
 ---
 title: Choi Seon-ho | 최선호
 subtitle: Samsung Lions | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

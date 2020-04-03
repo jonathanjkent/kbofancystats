@@ -1,6 +1,7 @@
 ---
 title: José Miguel Fernández | 페르난데스
 subtitle: Doosan Bears | DH
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

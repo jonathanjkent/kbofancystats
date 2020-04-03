@@ -1,6 +1,7 @@
 ---
 title: Ko Jong-wook | 고종욱
 subtitle: SK Wyverns | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

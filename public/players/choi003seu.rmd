@@ -1,6 +1,7 @@
 ---
 title: Choi Seung-min | 최승민
 subtitle: NC Dinos | CF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

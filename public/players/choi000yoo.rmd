@@ -1,6 +1,7 @@
 ---
 title: Choi Yoon-seok | 최윤석
 subtitle: Hanwha Eagles | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

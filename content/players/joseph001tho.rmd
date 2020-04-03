@@ -1,6 +1,7 @@
 ---
 title: Tommy Joseph | 조셉
 subtitle: LG Twins | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

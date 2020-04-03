@@ -1,6 +1,7 @@
 ---
 title: Han Seung-taek | 한승택
 subtitle: Kia Tigers | C
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

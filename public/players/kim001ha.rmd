@@ -1,6 +1,7 @@
 ---
 title: Kim Ha-seong | 김하성
 subtitle: Kiwoom Heroes | SS
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

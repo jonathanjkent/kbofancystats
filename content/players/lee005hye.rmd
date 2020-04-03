@@ -1,6 +1,7 @@
 ---
 title: Lee Hyung-jong | 이형종
 subtitle: LG Twins | LF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

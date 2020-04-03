@@ -1,6 +1,7 @@
 ---
 title: Yoo Young-jun | 유영준
 subtitle: NC Dinos | IF
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

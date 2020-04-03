@@ -1,6 +1,7 @@
 ---
 title: Mo Chang-min | 모창민
 subtitle: NC Dinos | 1B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

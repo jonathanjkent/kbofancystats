@@ -1,6 +1,7 @@
 ---
 title: Yoon Jin-ho | 윤진호
 subtitle: LG Twins | 2B
+summary: "Career Stats"
 ---
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)

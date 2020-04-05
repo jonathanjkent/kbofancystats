@@ -3,11 +3,12 @@ date: "2020-03-31"
 title: 'Elo Ratings'
 subtitle: 'Projections Based on 100,000 Monte Carlo Simulations & Regressed 2019 Ratings'
 ---
-
+| [Historical Elo Ratings](/elohistory/) |
+<br>
+<br>
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(ggplot2)
-library(plotly)
 library(knitr)
 library(kableExtra)
 d <- read_csv("~/Google Drive/KBO/predictions.csv")
@@ -15,12 +16,4 @@ d <- d %>% arrange(Rank)
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")")
 kable(d, digits = c(0,0,0,1,2,0,0,0,0,0,0), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","6th+")) %>%
   add_header_above(c("2019 Season End" = 5, "2020 Projected Finish" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
-```
-## Elo Ratings, Ten Team Era
-```{r, echo=F,warning=FALSE,message=FALSE}
-tenteam <- read_csv("~/Google Drive/KBO/elohistory.csv")
-plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team))
-plot2 <- ggplotly(plot, width=875, height=600)
-plot2 <- config(plot2, displayModeBar = FALSE)
-plot2
 ```

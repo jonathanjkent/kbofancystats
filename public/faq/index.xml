@@ -6,7 +6,7 @@
     <description>Recent content in FAQ on KBO Fancy Stats</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>KBOFancyStats.com is not affiliated with the KBO or any of its teams. All logos are the property of their respective organizations.</copyright>
+    <copyright>All logos are the property of their respective organizations.</copyright>
     <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/faq/index.xml" rel="self" type="application/rss+xml" />
@@ -40,7 +40,8 @@
 
 
 &lt;p&gt;What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend &lt;a href=&#34;https://library.fangraphs.com/&#34;&gt;FanGraphs’ library&lt;/a&gt;. Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the &lt;a href=&#34;#quartiles&#34;&gt;quartiles&lt;/a&gt; at the end.&lt;/p&gt;
-&lt;div style=&#34;white-space: pre-line;&#34;&gt;&lt;a href=&#34;#babip&#34;&gt;BABIP&lt;/a&gt; | &lt;a href=&#34;#bbso&#34;&gt;BB% &amp;amp; SO%&lt;/a&gt; | &lt;a href=&#34;#bbkhr&#34;&gt;BB/9, K/9 &amp;amp; HR/9&lt;/a&gt; | &lt;a href=&#34;#iso&#34;&gt;ISO&lt;/a&gt; | &lt;a href=&#34;#fip&#34;&gt;FIP&lt;/a&gt; | &lt;a href=&#34;#ops&#34;&gt;OPS&lt;/a&gt; | &lt;a href=&#34;#wrc&#34;&gt;wRC+&lt;/a&gt; | &lt;a href=&#34;#war&#34;&gt;WAR&lt;/a&gt; |&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Stats&lt;/strong&gt; | &lt;a href=&#34;#babip&#34;&gt;BABIP&lt;/a&gt; | &lt;a href=&#34;#bbso&#34;&gt;BB% &amp;amp; SO%&lt;/a&gt; | &lt;a href=&#34;#bbkhr&#34;&gt;BB/9, K/9 &amp;amp; HR/9&lt;/a&gt; | &lt;a href=&#34;#iso&#34;&gt;ISO&lt;/a&gt; | &lt;a href=&#34;#fip&#34;&gt;FIP&lt;/a&gt; | &lt;a href=&#34;#ops&#34;&gt;OPS&lt;/a&gt; | &lt;a href=&#34;#wrc&#34;&gt;wRC+&lt;/a&gt; | &lt;a href=&#34;#war&#34;&gt;WAR&lt;/a&gt; |&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More Context&lt;/strong&gt; | &lt;a href=&#34;#quartiles&#34;&gt;Quartiles&lt;/a&gt; | &lt;a href=&#34;#dist&#34;&gt;WAR Distribution&lt;/a&gt; |&lt;/p&gt;
 &lt;div id=&#34;babip&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;BABIP&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Batting Average on Balls In Play.&lt;/em&gt; The concept of BABIP is simple, it is just batting average but with home runs and strikeouts removed from the equation. But why should we care? As it turns out, hitters don’t have much control over whether a batted ball falls in for a hit or not, and pitchers have even less control. Instead, it is mostly a product of defense or luck, though hitting the ball hard does help. This means that BABIP tends to regress toward the league average of .300, especially for pitchers. A higher BABIP early in a season probably means that a hitter has been a bit lucky or a pitcher has been a bit unlucky. BABIP is especially useful for assessing whether hot or cold streaks are for real or likely to evaporate.&lt;/p&gt;
@@ -371,7 +372,7 @@ WAR
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;war-distribution&#34; class=&#34;section level3&#34;&gt;
+&lt;div id=&#34;dist&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;WAR Distribution&lt;/h3&gt;
 &lt;p&gt;Distribution of WAR for all qualifying batters and pitchers since 1999. &lt;img src=&#34;/faq/stats_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;

@@ -5,8 +5,10 @@ summary: "WAR? wRC+? FIP?"
 ---
 What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the [quartiles](#quartiles) at the end.
 
-| [BABIP](#babip) | [BB% & SO%](#bbso) | [BB/9, K/9 & HR/9](#bbkhr) | [ISO](#iso) | [FIP](#fip) | [OPS](#ops) | [wRC+](#wrc) | [WAR](#war) |
+**Stats** | [BABIP](#babip) | [BB% & SO%](#bbso) | [BB/9, K/9 & HR/9](#bbkhr) | [ISO](#iso) | [FIP](#fip) | [OPS](#ops) | [wRC+](#wrc) | [WAR](#war) |
 
+**More Context** | [Quartiles](#quartiles) | [WAR Distribution](#dist) |
+ 
 ### BABIP {#babip}
 *Batting Average on Balls In Play.* The concept of BABIP is simple, it is just batting average but with home runs and strikeouts removed from the equation. But why should we care? As it turns out, hitters don't have much control over whether a batted ball falls in for a hit or not, and pitchers have even less control. Instead, it is mostly a product of defense or luck, though hitting the ball hard does help. This means that BABIP tends to regress toward the league average of .300, especially for pitchers. A higher BABIP early in a season probably means that a hitter has been a bit lucky or a pitcher has been a bit unlucky. BABIP is especially useful for assessing whether hot or cold streaks are for real or likely to evaporate.
 
@@ -88,7 +90,7 @@ kable(pit.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), f
   column_spec(1, bold = T, border_right = F)
 ```
 
-### WAR Distribution
+### WAR Distribution {#dist}
 
 Distribution of WAR for all qualifying batters and pitchers since 1999.
 ```{r, echo=F,warning=FALSE,message=FALSE}

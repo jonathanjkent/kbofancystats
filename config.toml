@@ -13,7 +13,7 @@ baseURL = "https://kbofancystats.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "KBOFancyStats.com is not affiliated with the KBO or any of its teams. All logos are the property of their respective organizations."
+copyright = "All logos are the property of their respective organizations."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-158945576-2"

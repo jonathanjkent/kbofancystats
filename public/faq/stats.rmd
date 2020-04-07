@@ -79,6 +79,12 @@ colnames(pit.quarts) <- c("BABIP", "BB/9", "SO/9", "HR/9", "FIP", "WAR")
 pit.quarts <- as.data.frame(t(pit.quarts))
 pit.quarts <- rownames_to_column(pit.quarts, "Stat")
 colnames(pit.quarts) <- c("Stat", "Lowest", "25%", "Median", "75%", "Highest")
+bat.quarts$Highest <- as.character(bat.quarts$Highest) 
+bat.quarts$`25%` <- as.character(bat.quarts$`25%`) 
+bat.quarts[4,6] <- "0.280"
+bat.quarts[4,3] <- "0.090"
+pit.quarts$Highest <- as.character(pit.quarts$Highest) 
+pit.quarts[4,6] <- "1.0"
 
 kable(bat.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%
   column_spec(1, bold = T, border_right = F)

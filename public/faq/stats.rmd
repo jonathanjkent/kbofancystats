@@ -3,30 +3,100 @@ date: "2020-03-02"
 title: What do these fancy stats mean?
 summary: "WAR? wRC+? FIP?"
 ---
-What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the quartiles at the end.
+What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the [quartiles](#quartiles) at the end.
 
-### BABIP
+| [BABIP](#babip) | [BB% & SO%](#bbso) | [BB/9, K/9 & HR/9](#bbkhr) | [ISO](#iso) | [FIP](#fip) | [OPS](#ops) | [wRC+](#wrc) | [WAR](#war) |
+
+### BABIP {#babip}
 *Batting Average on Balls In Play.* The concept of BABIP is simple, it is just batting average but with home runs and strikeouts removed from the equation. But why should we care? As it turns out, hitters don't have much control over whether a batted ball falls in for a hit or not, and pitchers have even less control. Instead, it is mostly a product of defense or luck, though hitting the ball hard does help. This means that BABIP tends to regress toward the league average of .300, especially for pitchers. A higher BABIP early in a season probably means that a hitter has been a bit lucky or a pitcher has been a bit unlucky. BABIP is especially useful for assessing whether hot or cold streaks are for real or likely to evaporate.
 
-### BB% & SO%
+### BB% & SO% {#bbso}
 Our batting stats include walk rate and strikeout rate, to give an idea of a hitters general skill set. Check out the quartiles below for helpful context. 
 
-### BB/9, K/9 & HR/9
+### BB/9, K/9 & HR/9 {#bbkhr}
 For pitchers, we include rate stats for each of the "three true outcomes," the name given to walks, strikeouts, and home runs, because they are the three things a pitcher can control himself—the defense plays a role in everything else.
 
-### ISO
+### ISO {#iso}
 *Isolated Power.* ISO is simply slugging percentage minus batting average. It is a quick way to identify a slugger. For example, a high strikeout rate might not look so bad if paired with an elite ISO.
 
-### FIP
+### FIP {#fip}
 *Fielding Independent Pitching.* FIP attempts to recalculate ERA with the influence of defense removed. It is based on the three true outcomes (see above) and scaled to look just like ERA. In fact, FIP is usually a better predictor of future ERA than ERA itself. Even better than FIP is xFIP, which observes that pitchers have more control over fly balls than home runs and is calculated using *expected* home runs, based on flyball rate. Unfortunately, we do not have access to fly ball rate for KBO pitchers yet.
 
-### OPS
+### OPS {#ops}
 *On-base Plus Slugging.* OPS is a classic of the earlier days of advanced stats in baseball. While we now have more theoretically thoughtful measures, adding OBP to SLG still gives a decent measure of a hitters performance. Best of all, 1.000 just happens to be a nice round beachmark of elite status. 
 
-### wRC+
+### wRC+ {#wrc}
 *Weighted Runs Created Plus*. Here is where things get complicated, but the result is a beautifully scaled measure of a batter's contribution to his team so bear with us. The starting point is Runs Created, an innovation of the founder of advanced sports stats, Bill James. The idea is to determine how many runs each event (walks, doubles, etc.) is worth on average, and then calculate how many runs each hitter is responsible for. We take RC and adjust it by year, league, and ballpark so that the average wRC+ is 100 and each point above or below that is equal to a 1% difference. That means that in 2019, Kim Hyun-soo (wRC+: 118.5) created 18.5% more runs than the average hitter, holding plate appearances equal.
 
-### WAR
+### WAR {#war}
 *Wins Above Replacement*. WAR is simpler in concept than in calculation. A player's WAR is the number of games his team won thanks to him. For example, if the Doosan Bears didn't have Kim Jae-ho (WAR: 3.01) in 2019—and instead had a freely available, replacement-level player—they would have won three fewer games. How do we know that? For hitters, we base WAR on the same concept as wRC+. We determine how many runs that player is responsible for and compare it to the number of runs a team needs, on average, to win. That number is then scaled to replacement level. Baseball Reference and FanGraphs have agreed that a team of replacement-level players should win about 30% of their games, and we set replacement level using their method. Ideally, a batter's WAR should also include his defensive and baserunning contributions, but modern WAR uses radar and video analysis data which is not publically available for the KBO. Our WAR, then, is only their contributions at the plate, with an adjustment for stolen bases and caught stealings. For pitchers, WAR is more straightforward. It is essentially FIP adjusted for park factor and rescaled so that it is equivalent to hitters' WAR. For all players, WAR is cumulative, so when comparing two players, one of whom was injured for a long period or arrived mid-season, other stats are probably more useful.
 
-### Quartiles
+### Quartiles {#quartiles}
+
+Yeah alright, but how many WAR is good? What does a big slugger's ISO look like? Should I be concerned about our shortstop's strikeout rate? It's never quite so straightforward to interpret any stat, but hopefully this table helps contextualize the fancy stats. We've left out wRC+, which has its context built in.
+
+**2019 Qualified Batters**
+```{r pressure, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+
+setwd("~/Google Drive/KBO")
+quants <- c(0,.25,.5,.75,1)
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+batters <- batters %>% subset(Season == "2019") %>% subset(PA > 446) %>% select(BABIP, BBpct, SOpct, ISO, OPS, WAR)
+pitchers <- pitchers %>% subset(Season == "2019") %>% subset(IP2 > 144) %>% select(BABIP, BB9, SO9, HR9, FIP, WAR)
+
+bat.quarts <- as.data.frame(sapply(batters, quantile, probs = quants))
+
+bat.quarts$BABIP <- as.character(round(bat.quarts$BABIP, digits=3))
+bat.quarts$BBpct <- as.character(round(bat.quarts$BBpct, digits=1))
+bat.quarts$SOpct <- as.character(round(bat.quarts$SOpct, digits=1))
+bat.quarts$ISO <- as.character(round(bat.quarts$ISO, digits=3))
+bat.quarts$OPS <- as.character(round(bat.quarts$OPS, digits=3))
+bat.quarts$WAR <- as.character(round(bat.quarts$WAR, digits=2))
+
+colnames(bat.quarts) <- c("BABIP", "BB%", "SO%", "ISO", "OPS", "WAR")
+bat.quarts <- as.data.frame(t(bat.quarts))
+bat.quarts <- rownames_to_column(bat.quarts, "Stat")
+
+colnames(bat.quarts) <- c("Stat", "Lowest", "25%", "Median", "75%", "Highest")
+
+pit.quarts <- as.data.frame(sapply(pitchers, quantile, probs = quants))
+pit.quarts$BABIP <- as.character(round(pit.quarts$BABIP, digits=3))
+pit.quarts$BB9 <- as.character(round(pit.quarts$BB9, digits=1))
+pit.quarts$SO9 <- as.character(round(pit.quarts$SO9, digits=1))
+pit.quarts$HR9 <- as.character(round(pit.quarts$HR9, digits=1))
+pit.quarts$FIP <- as.character(round(pit.quarts$FIP, digits=2))
+pit.quarts$WAR <- as.character(round(pit.quarts$WAR, digits=2))
+
+colnames(pit.quarts) <- c("BABIP", "BB/9", "SO/9", "HR/9", "FIP", "WAR")
+
+pit.quarts <- as.data.frame(t(pit.quarts))
+pit.quarts <- rownames_to_column(pit.quarts, "Stat")
+colnames(pit.quarts) <- c("Stat", "Lowest", "25%", "Median", "75%", "Highest")
+
+kable(bat.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%
+  column_spec(1, bold = T, border_right = F)
+```
+
+**2019 Qualified Pitchers**
+```{r, echo=F,warning=FALSE,message=FALSE}
+kable(pit.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%
+  column_spec(1, bold = T, border_right = F)
+```
+
+### WAR Distribution
+
+Distribution of WAR for all qualifying batters and pitchers since 1999.
+```{r, echo=F,warning=FALSE,message=FALSE}
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+batters <- batters %>% subset(PA > 446) %>% select(WAR)
+pitchers <- pitchers %>% subset(IP2 > 144) %>% select(WAR)
+data <- rbind(batters, pitchers)
+p <- ggplot(data=data, aes(x = WAR)) + geom_density(size = 2)
+p + theme_minimal() + labs(color = "Proportion of Players", x = "WAR", y = "")
+```

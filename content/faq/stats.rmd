@@ -3,7 +3,7 @@ date: "2020-03-02"
 title: What do these fancy stats mean?
 summary: "WAR? wRC+? FIP?"
 ---
-What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the [quartiles](#quartiles) at the end.
+Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the [quartiles](#quartiles) at the end.
 
 **Stats** | [BABIP](#babip) | [BB% & SO%](#bbso) | [BB/9, K/9 & HR/9](#bbkhr) | [ISO](#iso) | [FIP](#fip) | [OPS](#ops) | [wRC+](#wrc) | [WAR](#war) |
 

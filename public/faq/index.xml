@@ -39,7 +39,7 @@
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;What follows are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend &lt;a href=&#34;https://library.fangraphs.com/&#34;&gt;FanGraphs’ library&lt;/a&gt;. Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the &lt;a href=&#34;#quartiles&#34;&gt;quartiles&lt;/a&gt; at the end.&lt;/p&gt;
+&lt;p&gt;Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend &lt;a href=&#34;https://library.fangraphs.com/&#34;&gt;FanGraphs’ library&lt;/a&gt;. Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the &lt;a href=&#34;#quartiles&#34;&gt;quartiles&lt;/a&gt; at the end.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Stats&lt;/strong&gt; | &lt;a href=&#34;#babip&#34;&gt;BABIP&lt;/a&gt; | &lt;a href=&#34;#bbso&#34;&gt;BB% &amp;amp; SO%&lt;/a&gt; | &lt;a href=&#34;#bbkhr&#34;&gt;BB/9, K/9 &amp;amp; HR/9&lt;/a&gt; | &lt;a href=&#34;#iso&#34;&gt;ISO&lt;/a&gt; | &lt;a href=&#34;#fip&#34;&gt;FIP&lt;/a&gt; | &lt;a href=&#34;#ops&#34;&gt;OPS&lt;/a&gt; | &lt;a href=&#34;#wrc&#34;&gt;wRC+&lt;/a&gt; | &lt;a href=&#34;#war&#34;&gt;WAR&lt;/a&gt; |&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;More Context&lt;/strong&gt; | &lt;a href=&#34;#quartiles&#34;&gt;Quartiles&lt;/a&gt; | &lt;a href=&#34;#dist&#34;&gt;WAR Distribution&lt;/a&gt; |&lt;/p&gt;
 &lt;div id=&#34;babip&#34; class=&#34;section level3&#34;&gt;

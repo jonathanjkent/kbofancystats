@@ -100,5 +100,5 @@ batters <- batters %>% subset(PA > 446) %>% select(WAR)
 pitchers <- pitchers %>% subset(IP2 > 144) %>% select(WAR)
 data <- rbind(batters, pitchers)
 p <- ggplot(data=data, aes(x = WAR)) + geom_density(size = 2)
-p + theme_minimal() + labs(color = "Proportion of Players", x = "WAR", y = "")
+p + theme_minimal() + labs(x = "WAR", y = "Proportion of Players")
 ```

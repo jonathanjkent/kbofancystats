@@ -4,7 +4,7 @@ title: 'Elo Ratings'
 subtitle: 'Projections Based on 100,000 Monte Carlo Simulations & Regressed 2019 Ratings'
 ---
 | [Historical Elo Ratings](/elohistory/) |
-<br>
+<br> 
 <br>
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
@@ -13,7 +13,7 @@ library(knitr)
 library(kableExtra)
 d <- read_csv("~/Google Drive/KBO/predictions.csv")
 d <- d %>% arrange(Rank)
-d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")")
+d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
 kable(d, digits = c(0,0,0,1,2,0,0,0,0,0,0), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
-  add_header_above(c("2019 Season End" = 5, "2020 Projected Finish (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
+  add_header_above(c("2019 Season End" = 5, "2020 Projected Finish" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
 ```

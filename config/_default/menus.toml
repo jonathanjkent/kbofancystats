@@ -18,10 +18,10 @@
   url = "elo/"
   weight = 30
 
-#[[main]]
-#  name = "Glossary"
-#  url = "glossary/"
-#  weight = 40
+[[main]]
+  name = "FAQ"
+  url = "faq/"
+  weight = 40
 
 
 # Link to a PDF of your resume/CV from the menu.

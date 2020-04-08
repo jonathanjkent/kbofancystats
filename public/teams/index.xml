@@ -22,8 +22,8 @@
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1056,8 +1056,8 @@ OF
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1876,8 +1876,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3197,8 +3197,8 @@ OF
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -4283,8 +4283,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -5686,8 +5686,8 @@ DH
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -6696,8 +6696,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7648,8 +7648,8 @@ OF
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -8582,8 +8582,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -9657,8 +9657,8 @@ OF
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -10705,8 +10705,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -11862,8 +11862,8 @@ DH
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -12910,8 +12910,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -14231,8 +14231,8 @@ DH
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -15393,8 +15393,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -16632,8 +16632,8 @@ OF
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -17794,8 +17794,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -19074,8 +19074,8 @@ DH
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -19932,8 +19932,8 @@ WAR
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;batting-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Batting Stats&lt;/h2&gt;
+&lt;div id=&#34;batting-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Batting Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -21089,8 +21089,8 @@ DH
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div id=&#34;pitching-stats&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2019 Pitching Stats&lt;/h2&gt;
+&lt;div id=&#34;pitching-stats&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2019 Pitching Stats&lt;/h3&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;

@@ -14,7 +14,7 @@ library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 batters <- batters[complete.cases(batters),]
 batters$Age <- as.numeric(batters$Age)
-d <- batters %>% subset(Team == "SK Wyverns") %>% subset(Season == "2019") %>% select(-Team, -Season, -KName)
+d <- batters %>% filter(Team == "SK Wyverns") %>% filter(Season == "2019") %>% select(-Team, -Season, -KName)
 d <- d[order(-d$WAR),]
 d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
 d <- d %>% select(-ID, -Name)
@@ -24,7 +24,7 @@ kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Pos","Age"
 ```{r, echo=F,warning=FALSE,message=FALSE}
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
 pitchers <- pitchers[complete.cases(pitchers),]
-d <- pitchers %>% subset(Team == "SK Wyverns") %>% subset(Season == "2019") %>% select(-Team, -Season, -KName, -Position)
+d <- pitchers %>% filter(Team == "SK Wyverns") %>% filter(Season == "2019") %>% select(-Team, -Season, -KName, -Position)
 d <- d[order(-d$WAR),]
 d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
 d <- d %>% select(-ID, -Name)

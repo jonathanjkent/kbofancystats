@@ -8,7 +8,7 @@ library(tidyverse)
 library(knitr)
 library(kableExtra)
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
-d <- pitchers %>% subset(ID == "baek000seu") %>% select(-Name, -Name.mykbo, -KName, -Position, -ID)
+d <- pitchers %>% filter(ID == "baek000seu") %>% select(-Name, -Name.mykbo, -KName, -Position, -ID)
 d <- d[order(-d$Season),]
 kable(d, digits = c(0,0,0,0,0,0,1,1,1,3,2,2,2), col.names = c("Season","Team","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```

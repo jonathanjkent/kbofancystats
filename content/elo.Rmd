@@ -3,7 +3,7 @@ date: "2020-03-31"
 title: 'Elo Ratings'
 subtitle: 'Projections Based on 100,000 Monte Carlo Simulations & Regressed 2019 Ratings'
 ---
-| [Historical Elo Ratings](/elohistory/) |
+ | [Historical Elo Ratings](/elohistory/) |
 <br> 
 <br>
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}

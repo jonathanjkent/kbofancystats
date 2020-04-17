@@ -401,9 +401,10 @@
 <script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
 
 
-<p>Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they calculated, and the cutting edge of baseball analytics, we recommend <a href="https://library.fangraphs.com/">FanGraphs’ library</a>. Just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the <a href="#quartiles">quartiles</a> at the end.</p>
+<p>Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they are calculated, and the cutting edge of baseball analytics, we recommend <a href="https://library.fangraphs.com/">FanGraphs’ library</a>. Are you just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the <a href="#quartiles">quartiles</a> at the end.</p>
 <p><strong>Stats</strong> | <a href="#babip">BABIP</a> | <a href="#bbso">BB% &amp; SO%</a> | <a href="#bbkhr">BB/9, K/9 &amp; HR/9</a> | <a href="#iso">ISO</a> | <a href="#fip">FIP</a> | <a href="#ops">OPS</a> | <a href="#wrc">wRC+</a> | <a href="#war">WAR</a> |</p>
 <p><strong>More Context</strong> | <a href="#quartiles">Quartiles</a> | <a href="#dist">WAR Distribution</a> |</p>
+<hr />
 <div id="babip" class="section level3">
 <h3>BABIP</h3>
 <p><em>Batting Average on Balls In Play.</em> The concept of BABIP is simple, it is just batting average but with home runs and strikeouts removed from the equation. But why should we care? As it turns out, hitters don’t have much control over whether a batted ball falls in for a hit or not, and pitchers have even less control. Instead, it is mostly a product of defense or luck, though hitting the ball hard does help. This means that BABIP tends to regress toward the league average of .300, especially for pitchers. A higher BABIP early in a season probably means that a hitter has been a bit lucky or a pitcher has been a bit unlucky. BABIP is especially useful for assessing whether hot or cold streaks are for real or likely to evaporate.</p>
@@ -435,10 +436,11 @@
 <div id="war" class="section level3">
 <h3>WAR</h3>
 <p><em>Wins Above Replacement</em>. WAR is simpler in concept than in calculation. A player’s WAR is the number of games his team won thanks to him. For example, if the Doosan Bears didn’t have Kim Jae-ho (WAR: 3.01) in 2019—and instead had a freely available, replacement-level player—they would have won three fewer games. How do we know that? For hitters, we base WAR on the same concept as wRC+. We determine how many runs that player is responsible for and compare it to the number of runs a team needs, on average, to win. That number is then scaled to replacement level. Baseball Reference and FanGraphs have agreed that a team of replacement-level players should win about 30% of their games, and we set replacement level using their method. Ideally, a batter’s WAR should also include his defensive and baserunning contributions, but modern WAR uses radar and video analysis data which is not publically available for the KBO. Our WAR, then, is only their contributions at the plate, with an adjustment for stolen bases and caught stealings. For pitchers, WAR is more straightforward. It is essentially FIP adjusted for park factor and rescaled so that it is equivalent to hitters’ WAR. For all players, WAR is cumulative, so when comparing two players, one of whom was injured for a long period or arrived mid-season, other stats are probably more useful.</p>
+<hr />
 </div>
 <div id="quartiles" class="section level3">
 <h3>Quartiles</h3>
-<p>Yeah alright, but how many WAR is good? What does a big slugger’s ISO look like? Should I be concerned about our shortstop’s strikeout rate? It’s never quite so straightforward to interpret any stat, but hopefully this table helps contextualize the fancy stats. We’ve left out wRC+, which has its context built in.</p>
+<p>Yeah alright, but how many WAR is good? What does a big slugger’s ISO look like? Should I be concerned about our shortstop’s strikeout rate? Unfortunately, interpretation often isn’t so straightforward, but hopefully these tables help contextualize the fancy stats. We’ve left out wRC+, which has its context built in.</p>
 <strong>2019 Qualified Batters</strong>
 <table class="table table-striped table-hover" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -736,7 +738,8 @@ WAR
 </div>
 <div id="dist" class="section level3">
 <h3>WAR Distribution</h3>
-<p>Distribution of WAR for all qualifying batters and pitchers since 1999. <img src="/faq/stats_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p>Distribution of single-season WAR for all qualifying batters and pitchers since 1999.
+<img src="/faq/stats_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 </div>
 
     </div>

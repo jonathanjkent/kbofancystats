@@ -1,0 +1,22 @@
+---
+date: "2020-03-31"
+title: 'WAR Leaders'
+---
+
+```{r, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+batters <- batters %>% filter(Season == 2020) %>% select(ID,Name,Team,Position,WAR)
+pitchers <- pitchers %>% filter(Season == 2020) %>% select(ID,Name,Team,Position,WAR)
+all <- rbind(batters,pitchers)
+all <- all %>% arrange(desc(WAR))
+all <- all[1:25,]
+all$Name <- paste0("[", all$Name, "](/players/", all$ID, ")")
+all$Team <- paste0("[", all$Team, "](/teams/", gsub("[[:space:]]", "", all$Team), ")")
+all$Rank <- 1:25
+all <- all %>% select(Rank, Name, Team, Position, WAR)
+kable(all, digits = c(0,0,0,0,2)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) 
+```

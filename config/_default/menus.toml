@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "WAR Leaders"
+  url = "leaders/"
+  weight = 15
+
+[[main]]
   name = "Stats by Team"
   url = "teams/"
   weight = 20

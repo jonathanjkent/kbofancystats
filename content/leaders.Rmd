@@ -19,5 +19,5 @@ all$Name <- paste0("[", all$Name, "](/players/", all$ID, ")")
 all$Team <- paste0("[", all$Team, "](/teams/", gsub("[[:space:]]", "", all$Team), ")")
 all$Rank <- 1:25
 all <- all %>% select(Rank, Name, Team, Position, WAR)
-kable(all, digits = c(0,0,0,0,2)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) 
+kable(all, digits = c(0,0,0,0,2)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```

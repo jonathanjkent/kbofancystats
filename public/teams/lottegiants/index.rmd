@@ -1,36 +1,36 @@
 ---
 date: "2020-03-31"
-summary: '2019 WAR Leader | Brooks Raley, LHP: 3.38'
+summary: '2020 WAR Leader | Dixon Machado, IF: 0.18'
 title: 'Lotte Giants'
-subtitle: 'Busan | Current Elo: 1422 (10)'
+subtitle: 'Busan | Current Elo: 1439 (10)'
 image:
   preview_only: true
 ---
-**2019** | [Batting](#batting) | [Pitching](#pitching) | 
+**2020** | [Batting](#batting) | [Pitching](#pitching) | 
  
 ***
-### 2019 Batting Stats {#batting}
+### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(knitr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 batters <- batters[complete.cases(batters),]
-batters$Age <- as.numeric(batters$Age)
-d <- batters %>% filter(Team == "Lotte Giants") %>% filter(Season == "2019") %>% select(-Team, -Season, -KName)
+#batters$Age <- as.numeric(batters$Age)
+d <- batters %>% filter(Team == "Lotte Giants") %>% select(-Team, -KName)
 d <- d[order(-d$WAR),]
-d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
-d <- d %>% select(-ID, -Name)
-kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Pos","Age","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%column_spec(1, bold = T, border_right = F)
+#d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
+#d <- d %>% select(-ID, -Name)
+kable(d, digits = c(0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Pos","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%column_spec(1, bold = T, border_right = F)
 ```
 ***
-### 2019 Pitching Stats {#pitching}
+### 2020 Pitching Stats {#pitching}
 ```{r, echo=F,warning=FALSE,message=FALSE}
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
 pitchers <- pitchers[complete.cases(pitchers),]
-d <- pitchers %>% filter(Team == "Lotte Giants") %>% filter(Season == "2019") %>% select(-Team, -Season, -KName, -Position)
+d <- pitchers %>% filter(Team == "Lotte Giants") %>% select(-Team, -KName)
 d <- d[order(-d$WAR),]
-d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
-d <- d %>% select(-ID, -Name)
-kable(d, digits = c(0,0,0,0,0,1,1,1,3,2,2,2), col.names = c("Name","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
+#d$Name.mykbo <- paste0("[", d$Name.mykbo, "](/players/", d$ID, ")")
+#d <- d %>% select(-ID, -Name)
+kable(d, digits = c(0,0,0,0,1,1,1,1,3,2,2), col.names = c("Name","Pos","G","GS","IP","K/9","BB/9","HR/9","BABIP","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
 ```

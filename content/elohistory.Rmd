@@ -1,7 +1,7 @@
 ---
 date: "2020-03-31"
 title: 'Historical Elo Ratings'
-subtitle: 'Since the Beginning of the Ten Team Era'
+subtitle: 'Since the Beginning of the Ten Team Era (2013)'
 ---
 
 ```{r, echo=F,warning=FALSE,message=FALSE}

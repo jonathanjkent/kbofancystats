@@ -15,5 +15,5 @@ d <- read_csv("~/Google Drive/KBO/predictions.csv")
 d <- d %>% arrange(Rank)
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
 kable(d, digits = c(0,0,0,1,2,0,0,0,0,0,0), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
-  add_header_above(c("2019 Season End" = 5, "2020 Projected Finish" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
+  add_header_above(c("2020" = 3, "2019" = 2, "Playoff Seed Likelihood" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
 ```

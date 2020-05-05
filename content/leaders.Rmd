@@ -9,11 +9,12 @@ library(knitr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
-batters <- batters %>% filter(Season == 2020) %>% select(ID,Name,Team,Position,WAR)
-pitchers <- pitchers %>% filter(Season == 2020) %>% select(ID,Name,Team,Position,WAR)
+batters <- batters %>% filter(Season == 2020) %>% select(ID,Name.mykbo,Team,Position,WAR)
+pitchers <- pitchers %>% filter(Season == 2020) %>% select(ID,Name.mykbo,Team,Position,WAR)
 all <- rbind(batters,pitchers)
 all <- all %>% arrange(desc(WAR))
 all <- all[1:25,]
+names(all)[2] <- "Name"
 all$Name <- paste0("[", all$Name, "](/players/", all$ID, ")")
 all$Team <- paste0("[", all$Team, "](/teams/", gsub("[[:space:]]", "", all$Team), ")")
 all$Rank <- 1:25

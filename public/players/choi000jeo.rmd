@@ -7,9 +7,8 @@ summary: "Career Stats"
 library(tidyverse)
 library(knitr)
 library(kableExtra)
-batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
-batters$Age <- as.numeric(batters$Age)
-d <- batters %>% filter(ID == "choi000jeo") %>% select(-Name, -Name.mykbo, -KName, -Position, -ID)
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+d <- pitchers %>% filter(ID == "choi000jeo") %>% select(-Name, -Name.mykbo, -KName, -Position, -ID)
 d <- d[order(-d$Season),]
-kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Season","Team","Age","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
+kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), col.names = c("Season","Team","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```

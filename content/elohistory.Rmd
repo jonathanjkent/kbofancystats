@@ -3,7 +3,7 @@ date: "2020-03-31"
 title: 'Historical Elo Ratings'
 subtitle: 'Since the Beginning of the Ten Team Era (2013)'
 ---
-
+Click team names to remove or double-click to isolate. Drag with cursor to zoom.
 ```{r, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(ggplot2)

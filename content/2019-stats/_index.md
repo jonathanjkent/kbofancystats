@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: "2019 Stats by Team"
+title: "Stats by Team, 2019"
 view: 3
 ---

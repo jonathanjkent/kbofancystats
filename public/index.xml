@@ -22,9 +22,8 @@
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-| &lt;a href=&#34;/elohistory/&#34;&gt;Historical Elo Ratings&lt;/a&gt; |
-&lt;br&gt;
-&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Progression Charts&lt;/strong&gt; | &lt;a href=&#34;/elohistory/&#34;&gt;Daily Ratings Since 2013&lt;/a&gt; |
+&lt;br&gt;&lt;/p&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -433,6 +432,7 @@ Out
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;Projections based on 100,000 Monte Carlo simulations. See the &lt;a href=&#34;https://www.kbofancystats.com/faq/eloratings/&#34;&gt;FAQ&lt;/a&gt; for more details on Elo ratings.&lt;/p&gt;
 </description>
     </item>
     

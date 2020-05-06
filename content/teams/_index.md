@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: 
+title: "Stats by Team"
 view: 3
 ---

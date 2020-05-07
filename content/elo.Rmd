@@ -3,7 +3,7 @@ date: "2020-03-31"
 title: 'Elo Ratings'
 subtitle: Current Ratings, Predictions & Team Stats
 ---
-**Progression Charts** | [Daily Ratings Since 2013](/elohistory/) |
+**Progression Charts** | [2020 Season](/elo2020/) || [Daily Ratings Since 2013](/elohistory/) |
  <br>
 
 ```{r, echo=F,warning=FALSE,message=FALSE}

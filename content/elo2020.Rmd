@@ -1,0 +1,16 @@
+---
+date: "2020-03-31"
+title: 'Elo Ratings, 2020 Season'
+---
+Click team names to remove or double-click to isolate. Drag with cursor to zoom.
+```{r, echo=F,warning=FALSE,message=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+tenteam <- read_csv("~/Google Drive/KBO/elohistory.csv")
+tenteam <- tenteam %>% subset(Date > ISOdate(2020,5,4))
+plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team)) + theme_minimal()
+plot2 <- ggplotly(plot, width=875, height=600)
+plot2 <- config(plot2, displayModeBar = FALSE)
+plot2
+```

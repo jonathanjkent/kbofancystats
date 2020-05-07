@@ -3,7 +3,7 @@ date: "2020-03-31"
 title: 'Elo Ratings'
 subtitle: Current Ratings, Predictions & Team Stats
 ---
-**Progression Charts** | [2020 Season](/elo2020/) || [Daily Ratings Since 2013](/elohistory/) |
+**Progression Charts** | [2020 Season](/elo2020/) | [Daily Ratings Since 2013](/elohistory/) |
  <br>
 
 ```{r, echo=F,warning=FALSE,message=FALSE}
@@ -12,9 +12,12 @@ library(ggplot2)
 library(knitr)
 library(kableExtra)
 d <- read_csv("~/Google Drive/KBO/predictions.csv")
+teamstats <- read_csv("~/Google Drive/KBO/teamstats.csv")
+d <- d %>% left_join(teamstats, by = "Team")
+d <- d %>% select(Rank, Team, Elo, wOBA, FIP, First, Second, Third, Fourth, Fifth, Out)
 d <- d %>% arrange(Rank)
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
-kable(d, digits = c(0,0,0,1,2,0,0,0,0,0,0), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
+kable(d, digits = c(0,0,0,3,2,0,0,0,0,0,0), col.names = c("Rank","Team","Elo", "wOBA", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
   add_header_above(c("2020 Season To-Date" = 5, "Playoff Seed Likelihood" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
 ```
 Projections based on 100,000 Monte Carlo simulations. See the [FAQ](https://www.kbofancystats.com/faq/eloratings/) for more details on Elo ratings.

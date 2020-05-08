@@ -1,8 +1,8 @@
 ---
 date: "2020-03-31"
-summary: 'WAR Leader | José Miguel Fernández, DH: 0.27'
+summary: 'WAR Leader | José Miguel Fernández, DH: 0.33'
 title: 'Doosan Bears'
-subtitle: 'Seoul | Current Elo: 1542 (1)'
+subtitle: 'Seoul | Current Elo: 1538 (1)'
 image:
   preview_only: true
 ---
@@ -13,7 +13,6 @@ image:
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
-library(knitr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 batters <- batters[complete.cases(batters),]

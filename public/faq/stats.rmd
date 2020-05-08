@@ -52,8 +52,8 @@ setwd("~/Google Drive/KBO")
 quants <- c(0,.25,.5,.75,1)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
-batters <- batters %>% subset(Season == "2019") %>% subset(PA > 446) %>% select(BABIP, BBpct, SOpct, ISO, OPS, WAR)
-pitchers <- pitchers %>% subset(Season == "2019") %>% subset(IP2 > 144) %>% select(BABIP, BB9, SO9, HR9, FIP, WAR)
+batters <- batters %>% subset(Year == "2019") %>% subset(PA > 446) %>% select(BABIP, BBpct, SOpct, ISO, OPS, WAR)
+pitchers <- pitchers %>% subset(Year == "2019") %>% subset(IP2 > 144) %>% select(BABIP, BB9, SO9, HR9, FIP, WAR)
 
 bat.quarts <- as.data.frame(sapply(batters, quantile, probs = quants))
 
@@ -102,7 +102,7 @@ kable(pit.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), f
 
 ### WAR Distribution {#dist}
 
-Distribution of single-season WAR for all qualifying batters and pitchers since 1999.
+Distribution of single-season WAR for all qualifying batters and pitchers.
 ```{r, echo=F,warning=FALSE,message=FALSE}
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")

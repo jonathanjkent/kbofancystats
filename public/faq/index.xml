@@ -135,10 +135,10 @@ BB%
 7.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-9.4
+9.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-11.1
+11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 15.3
@@ -155,10 +155,10 @@ SO%
 11.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-14.6
+14.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-17.5
+17.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23.9
@@ -178,7 +178,7 @@ ISO
 0.126
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.179
+0.178
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0.280
@@ -189,16 +189,16 @@ ISO
 OPS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.595
+0.588
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.723
+0.718
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.772
+0.771
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.841
+0.84
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 1.012
@@ -209,19 +209,19 @@ OPS
 WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
--1.52
+-0.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.44
+1.58
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-2.58
+2.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.53
+4.05
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-6.73
+6.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -262,10 +262,10 @@ BABIP
 0.285
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.302
+0.303
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.315
+0.317
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0.343
@@ -299,13 +299,13 @@ SO/9
 3.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.8
+6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 6.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-7.2
+7.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 8.7
@@ -348,7 +348,7 @@ FIP
 4.26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-4.91
+4.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -356,19 +356,19 @@ FIP
 WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
--1.18
+0.84
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.43
+1.87
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.01
+2.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.71
+3.92
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-6.64
+5.97
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -376,7 +376,7 @@ WAR
 &lt;/div&gt;
 &lt;div id=&#34;dist&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;WAR Distribution&lt;/h3&gt;
-&lt;p&gt;Distribution of single-season WAR for all qualifying batters and pitchers since 1999.
+&lt;p&gt;Distribution of single-season WAR for all qualifying batters and pitchers.
 &lt;img src=&#34;/faq/stats_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>

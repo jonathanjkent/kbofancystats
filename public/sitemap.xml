@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019-stats/doosanbears/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/doosanbears/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +14,6 @@
   
   <url>
     <loc>/elo2020/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019-stats/hanwhaeagles/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +58,7 @@
   </url>
   
   <url>
-    <loc>/2019-stats/kiatigers/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/kiatigers/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019-stats/kiwoomheroes/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,17 +68,7 @@
   </url>
   
   <url>
-    <loc>/2019-stats/ktwiz/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/ktwiz/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019-stats/lgtwins/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,17 +78,7 @@
   </url>
   
   <url>
-    <loc>/2019-stats/lottegiants/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/lottegiants/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019-stats/ncdinos/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,27 +88,12 @@
   </url>
   
   <url>
-    <loc>/2019-stats/samsunglions/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/samsunglions/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019-stats/skwyverns/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/teams/skwyverns/</loc>
-    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019-stats/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,19 +123,62 @@
   </url>
   
   <url>
+    <loc>/2019-stats/doosanbears/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/hanwhaeagles/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/kiatigers/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/kiwoomheroes/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/ktwiz/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/lgtwins/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/lottegiants/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/ncdinos/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/samsunglions/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/skwyverns/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019-stats/</loc>
+    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/players/9301/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13900/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13760/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3834/</loc>
   </url>
   
   <url>
@@ -198,15 +186,7 @@
   </url>
   
   <url>
-    <loc>/players/2952/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10988/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13578/</loc>
   </url>
   
   <url>
@@ -215,10 +195,6 @@
   
   <url>
     <loc>/players/208/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2945/</loc>
   </url>
   
   <url>
@@ -242,15 +218,7 @@
   </url>
   
   <url>
-    <loc>/players/1566/</loc>
-  </url>
-  
-  <url>
     <loc>/players/6865/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3477/</loc>
   </url>
   
   <url>
@@ -270,10 +238,6 @@
   </url>
   
   <url>
-    <loc>/players/7859/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9315/</loc>
   </url>
   
@@ -290,18 +254,6 @@
   </url>
   
   <url>
-    <loc>/players/4534/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/7439/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8216/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10561/</loc>
   </url>
   
@@ -314,23 +266,11 @@
   </url>
   
   <url>
-    <loc>/players/1041/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11709/</loc>
   </url>
   
   <url>
-    <loc>/players/2084/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10708/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8811/</loc>
   </url>
   
   <url>
@@ -422,10 +362,6 @@
   </url>
   
   <url>
-    <loc>/players/1510/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2000/</loc>
   </url>
   
@@ -434,23 +370,11 @@
   </url>
   
   <url>
-    <loc>/players/2686/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2427/</loc>
   </url>
   
   <url>
     <loc>/players/7432/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6326/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3323/</loc>
   </url>
   
   <url>
@@ -478,14 +402,6 @@
   </url>
   
   <url>
-    <loc>/players/649/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4982/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12563/</loc>
   </url>
   
@@ -503,10 +419,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4044/</loc>
   </url>
   
   <url>
@@ -546,14 +458,6 @@
   </url>
   
   <url>
-    <loc>/players/7887/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1328/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10029/</loc>
   </url>
   
@@ -566,19 +470,11 @@
   </url>
   
   <url>
-    <loc>/players/4051/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1300/</loc>
   </url>
   
   <url>
     <loc>/players/3127/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4947/</loc>
   </url>
   
   <url>
@@ -602,10 +498,6 @@
   </url>
   
   <url>
-    <loc>/players/2700/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11905/</loc>
   </url>
   
@@ -622,31 +514,7 @@
   </url>
   
   <url>
-    <loc>/players/2273/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2266/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2259/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6340/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4975/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1349/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4968/</loc>
   </url>
   
   <url>
@@ -662,19 +530,11 @@
   </url>
   
   <url>
-    <loc>/players/13431/</loc>
-  </url>
-  
-  <url>
     <loc>/players/7845/</loc>
   </url>
   
   <url>
     <loc>/players/10722/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13844/</loc>
   </url>
   
   <url>
@@ -726,10 +586,6 @@
   </url>
   
   <url>
-    <loc>/players/1797/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2721/</loc>
   </url>
   
@@ -739,10 +595,6 @@
   
   <url>
     <loc>/players/2714/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8678/</loc>
   </url>
   
   <url>
@@ -767,14 +619,6 @@
   
   <url>
     <loc>/players/7677/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8622/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6368/</loc>
   </url>
   
   <url>
@@ -806,23 +650,7 @@
   </url>
   
   <url>
-    <loc>/players/1811/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13613/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/698/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2931/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4464/</loc>
   </url>
   
   <url>
@@ -846,22 +674,6 @@
   </url>
   
   <url>
-    <loc>/players/4303/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8790/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13648/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1636/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9245/</loc>
   </url>
   
@@ -871,10 +683,6 @@
   
   <url>
     <loc>/players/10701/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13683/</loc>
   </url>
   
   <url>
@@ -890,22 +698,6 @@
   </url>
   
   <url>
-    <loc>/players/8797/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1475/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/446/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13620/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9882/</loc>
   </url>
   
@@ -915,10 +707,6 @@
   
   <url>
     <loc>/players/12920/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2007/</loc>
   </url>
   
   <url>
@@ -950,27 +738,11 @@
   </url>
   
   <url>
-    <loc>/players/8839/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6298/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10225/</loc>
   </url>
   
   <url>
     <loc>/players/11499/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6249/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/271/</loc>
   </url>
   
   <url>
@@ -1006,10 +778,6 @@
   </url>
   
   <url>
-    <loc>/players/2735/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3624/</loc>
   </url>
   
@@ -1026,15 +794,7 @@
   </url>
   
   <url>
-    <loc>/players/1825/</loc>
-  </url>
-  
-  <url>
     <loc>/players/13333/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2287/</loc>
   </url>
   
   <url>
@@ -1043,10 +803,6 @@
   
   <url>
     <loc>/players/1832/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8524/</loc>
   </url>
   
   <url>
@@ -1070,31 +826,11 @@
   </url>
   
   <url>
-    <loc>/players/4079/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3190/</loc>
   </url>
   
   <url>
-    <loc>/players/887/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3176/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1363/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3183/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5003/</loc>
   </url>
   
   <url>
@@ -1115,10 +851,6 @@
   
   <url>
     <loc>/players/7873/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3197/</loc>
   </url>
   
   <url>
@@ -1162,10 +894,6 @@
   </url>
   
   <url>
-    <loc>/players/901/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4086/</loc>
   </url>
   
@@ -1186,10 +914,6 @@
   </url>
   
   <url>
-    <loc>/players/2308/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8930/</loc>
   </url>
   
@@ -1199,14 +923,6 @@
   
   <url>
     <loc>/players/8755/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5808/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2749/</loc>
   </url>
   
   <url>
@@ -1226,10 +942,6 @@
   </url>
   
   <url>
-    <loc>/players/2742/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3995/</loc>
   </url>
   
@@ -1239,10 +951,6 @@
   
   <url>
     <loc>/players/7642/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8643/</loc>
   </url>
   
   <url>
@@ -1259,10 +967,6 @@
   
   <url>
     <loc>/players/6914/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/796/</loc>
   </url>
   
   <url>
@@ -1290,35 +994,11 @@
   </url>
   
   <url>
-    <loc>/players/3043/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1706/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9189/</loc>
   </url>
   
   <url>
     <loc>/players/9385/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/369/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3547/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4310/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/7943/</loc>
   </url>
   
   <url>
@@ -1330,19 +1010,7 @@
   </url>
   
   <url>
-    <loc>/players/3106/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4541/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11373/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8776/</loc>
   </url>
   
   <url>
@@ -1382,10 +1050,6 @@
   </url>
   
   <url>
-    <loc>/players/8426/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5675/</loc>
   </url>
   
@@ -1415,10 +1079,6 @@
   
   <url>
     <loc>/players/5668/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/803/</loc>
   </url>
   
   <url>
@@ -1462,10 +1122,6 @@
   </url>
   
   <url>
-    <loc>/players/1741/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4856/</loc>
   </url>
   
@@ -1491,10 +1147,6 @@
   
   <url>
     <loc>/players/9623/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2238/</loc>
   </url>
   
   <url>
@@ -1566,10 +1218,6 @@
   </url>
   
   <url>
-    <loc>/players/1314/</loc>
-  </url>
-  
-  <url>
     <loc>/players/866/</loc>
   </url>
   
@@ -1602,19 +1250,7 @@
   </url>
   
   <url>
-    <loc>/players/1790/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3603/</loc>
-  </url>
-  
-  <url>
     <loc>/players/852/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1783/</loc>
   </url>
   
   <url>
@@ -1646,15 +1282,7 @@
   </url>
   
   <url>
-    <loc>/players/845/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5717/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3120/</loc>
   </url>
   
   <url>
@@ -1682,10 +1310,6 @@
   </url>
   
   <url>
-    <loc>/players/2840/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12738/</loc>
   </url>
   
@@ -1694,27 +1318,11 @@
   </url>
   
   <url>
-    <loc>/players/5766/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5528/</loc>
-  </url>
-  
-  <url>
     <loc>/players/6627/</loc>
   </url>
   
   <url>
     <loc>/players/10260/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/7159/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/125117522/</loc>
   </url>
   
   <url>
@@ -1734,15 +1342,7 @@
   </url>
   
   <url>
-    <loc>/players/5696/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11996/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/824/</loc>
   </url>
   
   <url>
@@ -1794,23 +1394,11 @@
   </url>
   
   <url>
-    <loc>/players/1293/</loc>
-  </url>
-  
-  <url>
     <loc>/players/7824/</loc>
   </url>
   
   <url>
-    <loc>/players/2644/</loc>
-  </url>
-  
-  <url>
     <loc>/players/397/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4016/</loc>
   </url>
   
   <url>
@@ -1830,31 +1418,11 @@
   </url>
   
   <url>
-    <loc>/players/4863/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3078/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1755/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/9630/</loc>
-  </url>
-  
-  <url>
     <loc>/players/390/</loc>
   </url>
   
   <url>
     <loc>/players/9196/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3575/</loc>
   </url>
   
   <url>
@@ -1890,10 +1458,6 @@
   </url>
   
   <url>
-    <loc>/players/8832/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12647/</loc>
   </url>
   
@@ -1902,23 +1466,11 @@
   </url>
   
   <url>
-    <loc>/players/6354/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11863/</loc>
   </url>
   
   <url>
-    <loc>/players/929/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5276/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5829/</loc>
   </url>
   
   <url>
@@ -1930,10 +1482,6 @@
   </url>
   
   <url>
-    <loc>/players/1377/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12/</loc>
   </url>
   
@@ -1942,15 +1490,7 @@
   </url>
   
   <url>
-    <loc>/players/1846/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5283/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13921/</loc>
   </url>
   
   <url>
@@ -1963,10 +1503,6 @@
   
   <url>
     <loc>/players/3645/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3211/</loc>
   </url>
   
   <url>
@@ -1987,10 +1523,6 @@
   
   <url>
     <loc>/players/474/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/922/</loc>
   </url>
   
   <url>
@@ -2042,19 +1574,11 @@
   </url>
   
   <url>
-    <loc>/players/3267/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10134/</loc>
   </url>
   
   <url>
     <loc>/players/9161/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/110/</loc>
   </url>
   
   <url>
@@ -2102,19 +1626,7 @@
   </url>
   
   <url>
-    <loc>/players/2784/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9651/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3666/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/40/</loc>
   </url>
   
   <url>
@@ -2123,10 +1635,6 @@
   
   <url>
     <loc>/players/6788/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/47/</loc>
   </url>
   
   <url>
@@ -2182,10 +1690,6 @@
   </url>
   
   <url>
-    <loc>/players/5094/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1006/</loc>
   </url>
   
@@ -2210,14 +1714,6 @@
   </url>
   
   <url>
-    <loc>/players/2378/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1454/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8972/</loc>
   </url>
   
@@ -2235,14 +1731,6 @@
   
   <url>
     <loc>/players/11828/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2364/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1426/</loc>
   </url>
   
   <url>
@@ -2278,15 +1766,7 @@
   </url>
   
   <url>
-    <loc>/players/2371/</loc>
-  </url>
-  
-  <url>
     <loc>/players/7243/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/11135/</loc>
   </url>
   
   <url>
@@ -2307,14 +1787,6 @@
   
   <url>
     <loc>/players/2770/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13676/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4268/</loc>
   </url>
   
   <url>
@@ -2359,10 +1831,6 @@
   
   <url>
     <loc>/players/10372/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3687/</loc>
   </url>
   
   <url>
@@ -2414,10 +1882,6 @@
   </url>
   
   <url>
-    <loc>/players/2826/</loc>
-  </url>
-  
-  <url>
     <loc>/players/579/</loc>
   </url>
   
@@ -2426,15 +1890,7 @@
   </url>
   
   <url>
-    <loc>/players/6816/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4247/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2819/</loc>
   </url>
   
   <url>
@@ -2450,10 +1906,6 @@
   </url>
   
   <url>
-    <loc>/players/5290/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2763/</loc>
   </url>
   
@@ -2462,23 +1914,11 @@
   </url>
   
   <url>
-    <loc>/players/1391/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12717/</loc>
   </url>
   
   <url>
-    <loc>/players/4170/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5892/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2336/</loc>
   </url>
   
   <url>
@@ -2494,15 +1934,7 @@
   </url>
   
   <url>
-    <loc>/players/2329/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1412/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1867/</loc>
   </url>
   
   <url>
@@ -2511,10 +1943,6 @@
   
   <url>
     <loc>/players/5878/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/957/</loc>
   </url>
   
   <url>
@@ -2590,14 +2018,6 @@
   </url>
   
   <url>
-    <loc>/players/61/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3225/</loc>
-  </url>
-  
-  <url>
     <loc>/players/537/</loc>
   </url>
   
@@ -2607,10 +2027,6 @@
   
   <url>
     <loc>/players/544/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1874/</loc>
   </url>
   
   <url>
@@ -2654,10 +2070,6 @@
   </url>
   
   <url>
-    <loc>/players/565/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1881/</loc>
   </url>
   
@@ -2666,19 +2078,7 @@
   </url>
   
   <url>
-    <loc>/players/75/</loc>
-  </url>
-  
-  <url>
     <loc>/players/551/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1888/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/558/</loc>
   </url>
   
   <url>
@@ -2706,14 +2106,6 @@
   </url>
   
   <url>
-    <loc>/players/985/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3288/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3680/</loc>
   </url>
   
@@ -2727,10 +2119,6 @@
   
   <url>
     <loc>/players/3715/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8118/</loc>
   </url>
   
   <url>
@@ -2771,10 +2159,6 @@
   
   <url>
     <loc>/players/9476/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/68/</loc>
   </url>
   
   <url>
@@ -2846,23 +2230,11 @@
   </url>
   
   <url>
-    <loc>/players/13788/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8881/</loc>
   </url>
   
   <url>
     <loc>/players/3652/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/495/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1384/</loc>
   </url>
   
   <url>
@@ -2910,15 +2282,7 @@
   </url>
   
   <url>
-    <loc>/players/4107/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12780/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4121/</loc>
   </url>
   
   <url>
@@ -2966,10 +2330,6 @@
   </url>
   
   <url>
-    <loc>/players/509/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4660/</loc>
   </url>
   
@@ -3002,14 +2362,6 @@
   </url>
   
   <url>
-    <loc>/players/3939/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4772/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5619/</loc>
   </url>
   
@@ -3030,10 +2382,6 @@
   </url>
   
   <url>
-    <loc>/players/2147/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2518/</loc>
   </url>
   
@@ -3050,27 +2398,11 @@
   </url>
   
   <url>
-    <loc>/players/2525/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2154/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8965/</loc>
   </url>
   
   <url>
     <loc>/players/2532/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/9420/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6165/</loc>
   </url>
   
   <url>
@@ -3086,23 +2418,7 @@
   </url>
   
   <url>
-    <loc>/players/355/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12633/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3036/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5185/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2588/</loc>
   </url>
   
   <url>
@@ -3123,10 +2439,6 @@
   
   <url>
     <loc>/players/1251/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3967/</loc>
   </url>
   
   <url>
@@ -3151,10 +2463,6 @@
   
   <url>
     <loc>/players/4716/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/754/</loc>
   </url>
   
   <url>
@@ -3186,10 +2494,6 @@
   </url>
   
   <url>
-    <loc>/players/3022/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9182/</loc>
   </url>
   
@@ -3198,19 +2502,7 @@
   </url>
   
   <url>
-    <loc>/players/2182/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3526/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8398/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/789/</loc>
   </url>
   
   <url>
@@ -3230,10 +2522,6 @@
   </url>
   
   <url>
-    <loc>/players/11345/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2189/</loc>
   </url>
   
@@ -3242,15 +2530,7 @@
   </url>
   
   <url>
-    <loc>/players/7194/</loc>
-  </url>
-  
-  <url>
     <loc>/players/348/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2196/</loc>
   </url>
   
   <url>
@@ -3270,10 +2550,6 @@
   </url>
   
   <url>
-    <loc>/players/341/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10673/</loc>
   </url>
   
@@ -3290,15 +2566,7 @@
   </url>
   
   <url>
-    <loc>/players/13809/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3897/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8671/</loc>
   </url>
   
   <url>
@@ -3310,15 +2578,7 @@
   </url>
   
   <url>
-    <loc>/players/3890/</loc>
-  </url>
-  
-  <url>
     <loc>/players/719/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4667/</loc>
   </url>
   
   <url>
@@ -3346,10 +2606,6 @@
   </url>
   
   <url>
-    <loc>/players/2553/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12787/</loc>
   </url>
   
@@ -3362,19 +2618,7 @@
   </url>
   
   <url>
-    <loc>/players/3008/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3925/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4695/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5150/</loc>
   </url>
   
   <url>
@@ -3382,15 +2626,7 @@
   </url>
   
   <url>
-    <loc>/players/1223/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1216/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1685/</loc>
   </url>
   
   <url>
@@ -3410,10 +2646,6 @@
   </url>
   
   <url>
-    <loc>/players/4674/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3918/</loc>
   </url>
   
@@ -3423,10 +2655,6 @@
   
   <url>
     <loc>/players/3519/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3960/</loc>
   </url>
   
   <url>
@@ -3443,10 +2671,6 @@
   
   <url>
     <loc>/players/5605/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8559/</loc>
   </url>
   
   <url>
@@ -3474,10 +2698,6 @@
   </url>
   
   <url>
-    <loc>/players/1230/</loc>
-  </url>
-  
-  <url>
     <loc>/players/320/</loc>
   </url>
   
@@ -3498,19 +2718,11 @@
   </url>
   
   <url>
-    <loc>/players/740/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2175/</loc>
   </url>
   
   <url>
     <loc>/players/10330/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8384/</loc>
   </url>
   
   <url>
@@ -3523,10 +2735,6 @@
   
   <url>
     <loc>/players/8370/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3015/</loc>
   </url>
   
   <url>
@@ -3554,19 +2762,11 @@
   </url>
   
   <url>
-    <loc>/players/362/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4807/</loc>
   </url>
   
   <url>
     <loc>/players/5640/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1692/</loc>
   </url>
   
   <url>
@@ -3578,31 +2778,11 @@
   </url>
   
   <url>
-    <loc>/players/7278/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5815/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8804/</loc>
   </url>
   
   <url>
-    <loc>/players/6053/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1461/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3337/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3750/</loc>
   </url>
   
   <url>
@@ -3626,15 +2806,7 @@
   </url>
   
   <url>
-    <loc>/players/13879/</loc>
-  </url>
-  
-  <url>
     <loc>/players/138/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2854/</loc>
   </url>
   
   <url>
@@ -3642,15 +2814,7 @@
   </url>
   
   <url>
-    <loc>/players/8552/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3757/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1048/</loc>
   </url>
   
   <url>
@@ -3659,10 +2823,6 @@
   
   <url>
     <loc>/players/6361/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8825/</loc>
   </url>
   
   <url>
@@ -3682,10 +2842,6 @@
   </url>
   
   <url>
-    <loc>/players/3764/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2406/</loc>
   </url>
   
@@ -3699,14 +2855,6 @@
   
   <url>
     <loc>/players/12171/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3351/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1468/</loc>
   </url>
   
   <url>
@@ -3726,10 +2874,6 @@
   </url>
   
   <url>
-    <loc>/players/586/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3729/</loc>
   </url>
   
@@ -3743,10 +2887,6 @@
   
   <url>
     <loc>/players/8979/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6396/</loc>
   </url>
   
   <url>
@@ -3766,15 +2906,7 @@
   </url>
   
   <url>
-    <loc>/players/13851/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3743/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1027/</loc>
   </url>
   
   <url>
@@ -3798,18 +2930,6 @@
   </url>
   
   <url>
-    <loc>/players/6970/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13928/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5129/</loc>
-  </url>
-  
-  <url>
     <loc>/players/257/</loc>
   </url>
   
@@ -3822,23 +2942,11 @@
   </url>
   
   <url>
-    <loc>/players/1601/</loc>
-  </url>
-  
-  <url>
     <loc>/players/243/</loc>
   </url>
   
   <url>
-    <loc>/players/236/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2490/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2098/</loc>
   </url>
   
   <url>
@@ -3866,27 +2974,11 @@
   </url>
   
   <url>
-    <loc>/players/1174/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4562/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1594/</loc>
   </url>
   
   <url>
-    <loc>/players/229/</loc>
-  </url>
-  
-  <url>
     <loc>/players/5556/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3484/</loc>
   </url>
   
   <url>
@@ -3914,19 +3006,11 @@
   </url>
   
   <url>
-    <loc>/players/5493/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10316/</loc>
   </url>
   
   <url>
     <loc>/players/3358/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3792/</loc>
   </url>
   
   <url>
@@ -3939,10 +3023,6 @@
   
   <url>
     <loc>/players/5451/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5458/</loc>
   </url>
   
   <url>
@@ -3971,14 +3051,6 @@
   
   <url>
     <loc>/players/3813/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2882/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/11359/</loc>
   </url>
   
   <url>
@@ -4014,19 +3086,11 @@
   </url>
   
   <url>
-    <loc>/players/2910/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10400/</loc>
   </url>
   
   <url>
     <loc>/players/4401/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4394/</loc>
   </url>
   
   <url>
@@ -4066,19 +3130,11 @@
   </url>
   
   <url>
-    <loc>/players/628/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2903/</loc>
   </url>
   
   <url>
     <loc>/players/1503/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3799/</loc>
   </url>
   
   <url>
@@ -4098,19 +3154,7 @@
   </url>
   
   <url>
-    <loc>/players/1958/</loc>
-  </url>
-  
-  <url>
     <loc>/players/145/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/600/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2861/</loc>
   </url>
   
   <url>
@@ -4142,10 +3186,6 @@
   </url>
   
   <url>
-    <loc>/players/4331/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1489/</loc>
   </url>
   
@@ -4155,14 +3195,6 @@
   
   <url>
     <loc>/players/3785/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5465/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1496/</loc>
   </url>
   
   <url>
@@ -4218,14 +3250,6 @@
   </url>
   
   <url>
-    <loc>/players/4373/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3372/</loc>
-  </url>
-  
-  <url>
     <loc>/players/7285/</loc>
   </url>
   
@@ -4258,14 +3282,6 @@
   </url>
   
   <url>
-    <loc>/players/8279/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/7908/</loc>
-  </url>
-  
-  <url>
     <loc>/players/</loc>
   </url>
   
@@ -4278,19 +3294,7 @@
   </url>
   
   <url>
-    <loc>/players/2399/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12997/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13858/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1118/</loc>
   </url>
   
   <url>
@@ -4298,27 +3302,11 @@
   </url>
   
   <url>
-    <loc>/players/13795/</loc>
-  </url>
-  
-  <url>
     <loc>/players/10407/</loc>
   </url>
   
   <url>
-    <loc>/players/4569/</loc>
-  </url>
-  
-  <url>
     <loc>/players/7684/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6319/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1944/</loc>
   </url>
   
   <url>
@@ -4346,10 +3334,6 @@
   </url>
   
   <url>
-    <loc>/players/2392/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4597/</loc>
   </url>
   
@@ -4374,19 +3358,11 @@
   </url>
   
   <url>
-    <loc>/players/180/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3414/</loc>
   </url>
   
   <url>
     <loc>/players/9063/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2021/</loc>
   </url>
   
   <url>
@@ -4414,15 +3390,7 @@
   </url>
   
   <url>
-    <loc>/players/2014/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11912/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/712/</loc>
   </url>
   
   <url>
@@ -4458,14 +3426,6 @@
   </url>
   
   <url>
-    <loc>/players/2063/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2448/</loc>
-  </url>
-  
-  <url>
     <loc>/players/3463/</loc>
   </url>
   
@@ -4482,23 +3442,11 @@
   </url>
   
   <url>
-    <loc>/players/2938/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2462/</loc>
   </url>
   
   <url>
-    <loc>/players/1552/</loc>
-  </url>
-  
-  <url>
     <loc>/players/6466/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1139/</loc>
   </url>
   
   <url>
@@ -4510,19 +3458,11 @@
   </url>
   
   <url>
-    <loc>/players/6074/</loc>
-  </url>
-  
-  <url>
     <loc>/players/13123/</loc>
   </url>
   
   <url>
     <loc>/players/1146/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4506/</loc>
   </url>
   
   <url>
@@ -4546,14 +3486,6 @@
   </url>
   
   <url>
-    <loc>/players/13802/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1132/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2434/</loc>
   </url>
   
@@ -4563,10 +3495,6 @@
   
   <url>
     <loc>/players/3827/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3820/</loc>
   </url>
   
   <url>
@@ -4595,10 +3523,6 @@
   
   <url>
     <loc>/players/2042/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/3435/</loc>
   </url>
   
   <url>
@@ -4638,10 +3562,6 @@
   </url>
   
   <url>
-    <loc>/players/2441/</loc>
-  </url>
-  
-  <url>
     <loc>/players/9049/</loc>
   </url>
   
@@ -4662,14 +3582,6 @@
   </url>
   
   <url>
-    <loc>/players/13977/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4576/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11555/</loc>
   </url>
   
@@ -4682,31 +3594,11 @@
   </url>
   
   <url>
-    <loc>/players/7852/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/13690/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11681/</loc>
   </url>
   
   <url>
-    <loc>/players/2959/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8286/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1580/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5976/</loc>
   </url>
   
   <url>
@@ -4734,10 +3626,6 @@
   </url>
   
   <url>
-    <loc>/players/278/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1181/</loc>
   </url>
   
@@ -4747,10 +3635,6 @@
   
   <url>
     <loc>/players/10638/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5395/</loc>
   </url>
   
   <url>
@@ -4782,15 +3666,7 @@
   </url>
   
   <url>
-    <loc>/players/11338/</loc>
-  </url>
-  
-  <url>
     <loc>/players/12731/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/8664/</loc>
   </url>
   
   <url>
@@ -4810,19 +3686,11 @@
   </url>
   
   <url>
-    <loc>/players/2483/</loc>
-  </url>
-  
-  <url>
     <loc>/players/11779/</loc>
   </url>
   
   <url>
     <loc>/players/2966/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1587/</loc>
   </url>
   
   <url>
@@ -4838,15 +3706,7 @@
   </url>
   
   <url>
-    <loc>/players/285/</loc>
-  </url>
-  
-  <url>
     <loc>/players/1608/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2105/</loc>
   </url>
   
   <url>
@@ -4855,10 +3715,6 @@
   
   <url>
     <loc>/players/9266/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2112/</loc>
   </url>
   
   <url>
@@ -4894,10 +3750,6 @@
   </url>
   
   <url>
-    <loc>/players/8580/</loc>
-  </url>
-  
-  <url>
     <loc>/players/2504/</loc>
   </url>
   
@@ -4911,10 +3763,6 @@
   
   <url>
     <loc>/players/3869/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5136/</loc>
   </url>
   
   <url>
@@ -4934,19 +3782,11 @@
   </url>
   
   <url>
-    <loc>/players/8636/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4639/</loc>
   </url>
   
   <url>
     <loc>/players/8566/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6130/</loc>
   </url>
   
   <url>
@@ -4966,10 +3806,6 @@
   </url>
   
   <url>
-    <loc>/players/4618/</loc>
-  </url>
-  
-  <url>
     <loc>/players/4604/</loc>
   </url>
   
@@ -4983,10 +3819,6 @@
   
   <url>
     <loc>/players/8321/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/4625/</loc>
   </url>
   
   <url>
@@ -5014,19 +3846,7 @@
   </url>
   
   <url>
-    <loc>/players/6879/</loc>
-  </url>
-  
-  <url>
     <loc>/players/292/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6347/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/6410/</loc>
   </url>
   
   <url>
@@ -5042,27 +3862,7 @@
   </url>
   
   <url>
-    <loc>/players/2756/</loc>
-  </url>
-  
-  <url>
     <loc>/players/8594/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2595/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/2672/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/1356/</loc>
-  </url>
-  
-  <url>
-    <loc>/players/5010/</loc>
   </url>
   
 </urlset>

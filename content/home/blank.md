@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | LF | 0.40 |
-| 2 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.39 |
-| 3 | [**Han Dong-min**](/players/3169) | [SK Wyverns](/teams/SKWyverns) | RF | 0.33 |
-| 4 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | LF | 0.32 |
-| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.31 |
+| 1 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | LF | 0.42 |
+| 2 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | LF | 0.40 |
+| 3 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.39 |
+| 4 | [**Song Kwang-min**](/players/1517) | [Hanwha Eagles](/teams/HanwhaEagles) | 3B | 0.37 |
+| 5 | [**Han Dong-min**](/players/3169) | [SK Wyverns](/teams/SKWyverns) | RF | 0.33 |

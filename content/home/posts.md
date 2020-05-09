@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Stats by Team"
 #subtitle = "Batting & Pitching Statistics"
@@ -57,6 +57,10 @@ title = "Stats by Team"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "20px", "0"]
   
 [advanced]
  # Custom CSS. 

@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | LF | 0.42 |
-| 2 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | LF | 0.40 |
-| 3 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.39 |
-| 4 | [**Song Kwang-min**](/players/1517) | [Hanwha Eagles](/teams/HanwhaEagles) | 3B | 0.37 |
-| 5 | [**Han Dong-min**](/players/3169) | [SK Wyverns](/teams/SKWyverns) | RF | 0.33 |
+| 1 | [**Warwick Saupold**](/players/12682) | [Hanwha Eagles](/teams/HanwhaEagles) | RHP | 0.61 |
+| 2 | [**Dan Straily**](/players/13648) | [Lotte Giants](/teams/LotteGiants) | RHP | 0.54 |
+| 3 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 0.46 |
+| 4 | [**José Miguel Fernández**](/players/125117522) | [Doosan Bears](/teams/DoosanBears) | DH | 0.45 |
+| 5 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.39 |

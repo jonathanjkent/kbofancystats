@@ -48,10 +48,10 @@ Team
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Elo
 &lt;/th&gt;
-&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 wRC+
 &lt;/th&gt;
-&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 FIP
 &lt;/th&gt;
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -85,11 +85,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1540
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-130.3 (1)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+130.3
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-4.88 (5)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+4.88
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 46%
@@ -120,11 +120,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1537
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-81.3 (7)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+81.3
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-3.91 (1)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+3.91
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31%
@@ -155,11 +155,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1513
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-117.2 (4)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+117.2
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-5.3 (8)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+5.30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 13%
@@ -190,11 +190,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1509
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-121.7 (2)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+121.7
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-4.71 (4)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+4.71
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 5%
@@ -225,11 +225,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1502
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-79.4 (8)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+79.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-4.99 (6)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+4.99
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 2%
@@ -260,11 +260,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1490
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-103.1 (5)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+103.1
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-5.93 (10)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+5.93
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -295,11 +295,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1486
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-97.7 (6)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+97.7
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-4.51 (2)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+4.51
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 2%
@@ -330,11 +330,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1476
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-117.5 (3)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+117.5
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-5.06 (7)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+5.06
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 1%
@@ -365,11 +365,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1475
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-57.5 (10)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+57.5
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-5.42 (9)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+5.42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -400,11 +400,11 @@ Out
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1471
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-78.4 (9)
+&lt;td style=&#34;text-align:right;&#34;&gt;
+78.4
 &lt;/td&gt;
-&lt;td style=&#34;text-align:left;border-right:1px solid;&#34;&gt;
-4.55 (3)
+&lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
+4.55
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%

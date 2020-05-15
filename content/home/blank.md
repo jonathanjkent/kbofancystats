@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 0.74 |
-| 2 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.71 |
-| 3 | [**Kim Jae-hwan**](/players/103) | [Doosan Bears](/teams/DoosanBears) | LF | 0.70 |
-| 4 | [**Oh Jae-il**](/players/250) | [Doosan Bears](/teams/DoosanBears) | 1B | 0.67 |
-| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.61 |
+| 1 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.91 |
+| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 0.74 |
+| 3 | [**Oh Jae-il**](/players/250) | [Doosan Bears](/teams/DoosanBears) | 1B | 0.73 |
+| 4 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 0.70 |
+| 5 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | LF | 0.65 |

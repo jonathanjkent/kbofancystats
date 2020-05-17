@@ -6,8 +6,10 @@ summary: "Career Stats"
 ```{r , echo=F,warning=FALSE,message=FALSE}
 library(kableExtra)
 d <- read.csv("~/Google Drive/KBO/batters_simple.csv")
-d <- subset(d, Code == "3757", select = c(-Name, -KName, -Position, -Code))
+d <- subset(d, Code == "3757", select = c(-Name, -KName, -Position, -Code, -Url))
 d <- d[order(-d$Year),]
 d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-kable(d, digits = c(0,0,0,0,0,3,1,1,3,3,1,2), row.names = FALSE, col.names = c("Season","Team","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
+kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), row.names = FALSE, col.names = c("Season","Age","Team","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
+<br>
+**More** | [myKBO Page](https://mykbostats.com/players/536)

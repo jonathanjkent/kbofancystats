@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 1.06 |
-| 2 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.93 |
-| 3 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.88 |
-| 4 | [**Oh Jae-il**](/players/250) | [Doosan Bears](/teams/DoosanBears) | 1B | 0.77 |
-| 5 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.77 |
+| 1 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 1.12 |
+| 2 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 0.89 |
+| 3 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.88 |
+| 4 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.88 |
+| 5 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | RF | 0.86 |

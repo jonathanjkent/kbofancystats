@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 1.11 |
-| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 1.08 |
-| 3 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 0.95 |
-| 4 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.88 |
-| 5 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.85 |
+| 1 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 1.15 |
+| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 1.07 |
+| 3 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 1.05 |
+| 4 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 0.99 |
+| 5 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | RF | 0.90 |

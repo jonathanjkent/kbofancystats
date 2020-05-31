@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 1.66 |
-| 2 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 1.50 |
-| 3 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 1.27 |
-| 4 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 1.24 |
-| 5 | [**Eric Jokisch**](/players/12885) | [Kiwoom Heroes](/teams/KiwoomHeroes) | LHP | 1.22 |
+| 1 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | DH | 1.69 |
+| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 1.56 |
+| 3 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 1.53 |
+| 4 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | LF | 1.37 |
+| 5 | [**Kang Jin-sung**](/players/3645) | [NC Dinos](/teams/NCDinos) | 1B | 1.27 |

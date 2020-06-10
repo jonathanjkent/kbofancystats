@@ -1,6 +1,6 @@
 ---
 date: "2020-03-31"
-summary: 'WAR Leader | Lee Jung-hoo, CF: 1.58'
+summary: 'WAR Leader | Lee Jung-hoo, CF: 1.49'
 title: 'Kiwoom Heroes'
 subtitle: 'Seoul | Current Elo: 1536 (3)'
 image:
@@ -14,7 +14,7 @@ image:
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(kableExtra)
-batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+batters <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 batters <- batters[complete.cases(batters),]
 batters$Age <- as.numeric(batters$Age)
 d <- batters %>% filter(Team == "Kiwoom Heroes") %>% filter(Year == "2020") %>% select(-Team, -Year, -KName, -Url)

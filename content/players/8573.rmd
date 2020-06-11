@@ -1,6 +1,6 @@
 ---
 title: Jung Woo-ram | 정우람
-subtitle: Hanwha Eagles | LHP
+subtitle: Hanwha Eagles | P
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
@@ -12,4 +12,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), row.names = FALSE, col.names = c("Season","Age","Team","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/1224-Jung-Woo-ram-Hanwha-Eagles)
+**More** | [myKBO Page](https://mykbostats.com/players/1224-Jung-Wooram-Hanwha-Eagles)

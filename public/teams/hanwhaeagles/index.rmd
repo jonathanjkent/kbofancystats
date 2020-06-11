@@ -2,7 +2,7 @@
 date: "2020-03-31"
 summary: 'WAR Leader | Warwick Saupold, RHP: 1.06'
 title: 'Hanwha Eagles'
-subtitle: 'Daejeon | Current Elo: 1437 (10)'
+subtitle: 'Daejeon | Current Elo: 1434 (10)'
 image:
   preview_only: true
 ---
@@ -14,7 +14,7 @@ image:
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(kableExtra)
-batters <- read.csv("~/Google Drive/KBO/batters_simple.csv")
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 batters <- batters[complete.cases(batters),]
 batters$Age <- as.numeric(batters$Age)
 d <- batters %>% filter(Team == "Hanwha Eagles") %>% filter(Year == "2020") %>% select(-Team, -Year, -KName, -Url)

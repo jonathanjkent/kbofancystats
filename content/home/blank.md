@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 1.95 |
-| 2 | [**Kang Jin-sung**](/players/3645) | [NC Dinos](/teams/NCDinos) | 1B | 1.92 |
-| 3 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 1.88 |
+| 1 | [**Kang Jin-sung**](/players/3645) | [NC Dinos](/teams/NCDinos) | 1B | 1.99 |
+| 2 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | IF | 1.98 |
+| 3 | [**Roberto Ramos**](/players/13795) | [LG Twins](/teams/LGTwins) | 1B | 1.95 |
 | 4 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 1.88 |
-| 5 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | IF | 1.84 |
+| 5 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 1.86 |

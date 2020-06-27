@@ -83,75 +83,34 @@ WAR
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-207
+211
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.972
+0.983
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.2
+8.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.3
+6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.175
+0.182
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.365
+0.368
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-155.5
+157.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.01
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/103&#34;&gt;Kim Jae-hwan&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-43
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-196
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.869
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-14.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-27.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.224
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.337
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-129.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.32
+2.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -165,34 +124,75 @@ LF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-122
+126
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.997
+1.014
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.3
+11.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-19.7
+19.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.243
+0.234
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.397
+0.420
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-161.0
+165.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.27
+1.38
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/103&#34;&gt;Kim Jae-hwan&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+44
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+200
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.866
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+27.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.222
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.330
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+129.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.34
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -247,34 +247,34 @@ RF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-180
+184
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.874
+0.854
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.9
+8.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.1
+10.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.231
+0.226
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.284
+0.275
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-124.2
+119.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.07
+0.99
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -288,34 +288,34 @@ RF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-156
+160
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.815
+0.803
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.3
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.9
+10.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.082
+0.080
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.367
+0.358
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-122.1
+119.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.86
+0.83
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -329,75 +329,34 @@ SS
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-27
+28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-111
+115
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.823
+0.829
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.3
+6.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.3
+6.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.176
+0.170
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.290
+0.299
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-118.6
+120.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.60
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/159&#34;&gt;Park Se-hyuk&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-39
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-137
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.742
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.117
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.304
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-105.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.42
+0.64
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -443,6 +402,47 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/159&#34;&gt;Park Se-hyuk&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+40
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+141
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.719
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.113
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.292
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+100.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.34
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/390&#34;&gt;Jung Soo-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -452,34 +452,34 @@ C
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-164
+167
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.702
+0.697
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.7
+7.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.2
+12.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.101
+0.100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.312
+0.310
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-92.6
+91.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.30
+0.29
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -534,34 +534,34 @@ CF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-25
+26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-34
+38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.620
+0.580
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.5
+23.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.9
+10.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.042
+0.037
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.182
+0.174
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-102.0
+93.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.11
+0.08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -575,34 +575,34 @@ LF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11
+12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38
+39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.736
+0.716
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.9
+7.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.7
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.121
+0.118
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
+0.320
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-81.9
+77.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.05
+0.03
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -657,10 +657,10 @@ RF
 IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2
+3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1
+2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
@@ -684,7 +684,7 @@ IF
 -80.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.02
+-0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1056,6 +1056,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/4394&#34;&gt;Park Jong-gi&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.81
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.53
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.44
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/439&#34;&gt;Ham Duk-joo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1100,72 +1138,34 @@ WAR
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.5
+13.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.2
+3.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.421
+0.480
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.25
+5.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.34
+1.70
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.31
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4394&#34;&gt;Park Jong-gi&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-10.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.214
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.53
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.87
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.27
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1360,6 +1360,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/7915&#34;&gt;Hong Gun-hee&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+23.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.269
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.86
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.57
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.05
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12486&#34;&gt;Lee Gyo-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1394,82 +1432,6 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.04
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/33&#34;&gt;Kim Kang-ryul&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-6.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.421
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.84
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.04
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-21
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-22.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.269
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.66
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.03
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1512,40 +1474,78 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7915&#34;&gt;Hong Gun-hee&lt;/a&gt;
+&lt;a href=&#34;/players/33&#34;&gt;Kim Kang-ryul&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-21.2
+6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.5
+9.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
+8.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.7
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.254
+0.429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.15
+5.40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.74
+4.64
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.01
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+22.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.265
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.63
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.80
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.00
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1622,6 +1622,44 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.05
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.714
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+94.50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12.59
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.06
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1815,34 +1853,34 @@ WAR
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-167
+172
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.720
+0.730
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.2
+10.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.2
+12.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.122
+0.118
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.290
+0.297
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-94.4
+97.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.36
+0.43
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1856,75 +1894,34 @@ WAR
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-145
+150
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.679
+0.707
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.5
+14.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.0
+10.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.042
+0.048
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.291
+0.306
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-93.2
+98.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.29
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/418&#34;&gt;Choi Jae-hoon&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-126
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.711
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.108
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.290
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-92.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.26
+0.40
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1938,34 +1935,75 @@ C
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-111
+115
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.730
+0.740
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.6
+12.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.2
+17.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.137
+0.131
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.280
+0.299
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-95.1
+97.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.26
+0.31
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/418&#34;&gt;Choi Jae-hoon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+130
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.704
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.104
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.289
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+91.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.25
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2020,34 +2058,34 @@ LF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11
+12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-37
+41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.863
+0.825
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.4
+4.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.8
+9.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.152
+0.135
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.357
+0.344
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-123.0
+114.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.21
+0.20
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2134,6 +2172,47 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/5920&#34;&gt;Kim Min-ha&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.754
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.067
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.333
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+114.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.09
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/5402&#34;&gt;No Tae-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -2143,7 +2222,7 @@ LF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13
+14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -2209,47 +2288,6 @@ LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 83.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.05
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5920&#34;&gt;Kim Min-ha&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-18
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.675
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-16.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.071
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.273
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-97.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.05
@@ -2380,43 +2418,43 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6515&#34;&gt;Jung Jin-ho&lt;/a&gt;
+&lt;a href=&#34;/players/5262&#34;&gt;Kang Kyung-hak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-32
+28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-LF
+IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-143
+5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.636
+0.650
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.0
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.7
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.023
+0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-74.7
+92.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.02
+0.01
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2458,47 +2496,6 @@ IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.00
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5262&#34;&gt;Kang Kyung-hak&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-IF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--87.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.02
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2635,34 +2632,75 @@ C
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5
+6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16
+19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.500
+0.526
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31.2
+31.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.364
+0.385
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38.3
+44.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.07
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/6515&#34;&gt;Jung Jin-ho&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+44
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.616
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+14.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.022
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.322
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+69.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3004,34 +3042,34 @@ RF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-35
+36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-132
+136
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.540
+0.554
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.5
+4.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-26.5
+25.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.073
+0.070
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.276
+0.286
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-50.2
+53.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.43
+-0.39
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -3090,34 +3128,34 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
 10
 &lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-58.1
+64.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.4
+5.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.3
+0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.338
+0.339
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.39
+3.50
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.61
+3.67
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.61
+1.72
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3312,6 +3350,82 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/10372&#34;&gt;Kim Jin-young&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+21.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.53
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.14
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/5038&#34;&gt;Hwang Young-guk&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.68
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.45
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11597&#34;&gt;Park Joo-hong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3343,82 +3457,6 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.66
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.12
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5038&#34;&gt;Hwang Young-guk&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-6.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.286
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.12
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10372&#34;&gt;Kim Jin-young&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-20.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.327
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.43
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.12
@@ -3964,34 +4002,34 @@ WAR
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-20
+21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-19.1
+20.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.5
+6.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.7
+4.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.9
+1.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.281
+0.300
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.12
+5.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.38
+6.29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.24
+-0.23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -4071,34 +4109,34 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-181
+186
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.048
+1.027
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.9
+10.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.3
+12.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.292
+0.285
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.349
+0.338
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-165.5
+160.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.98
+1.93
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4112,34 +4150,34 @@ RF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-170
+175
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7
+8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.921
+0.957
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-15.3
+14.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.4
+12.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.191
+0.212
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.322
+0.331
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-140.8
+147.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.35
+1.54
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4153,34 +4191,34 @@ OF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-40
+41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-159
+164
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.848
+0.847
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.3
+11.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-20.8
+20.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.181
+0.175
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.340
+0.346
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-123.7
+123.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.93
+0.96
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4194,34 +4232,34 @@ LF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-124
+129
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.851
+0.843
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.7
+14.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.5
+10.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.075
+0.073
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.387
+0.381
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-130.9
+129.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.81
+0.83
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4235,34 +4273,34 @@ LF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-32
+33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-103
+107
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.886
+0.885
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.7
+9.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17.5
+16.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.130
+0.126
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.403
+0.400
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-133.4
+133.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.73
+0.76
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4276,34 +4314,34 @@ LF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18
+19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-76
+81
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.002
+0.981
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.5
+11.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-27.6
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.266
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.450
+0.452
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-151.8
+148.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.72
+0.73
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4349,47 +4387,6 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1832&#34;&gt;Han Seung-taek&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-104
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.755
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.165
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.303
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-99.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.30
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2000&#34;&gt;Baek Yong-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4431,6 +4428,47 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/1832&#34;&gt;Han Seung-taek&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+108
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.725
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.158
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.299
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+92.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.22
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13277&#34;&gt;Oh Seon-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4468,6 +4506,47 @@ RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.17
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2833&#34;&gt;Na Joo-hwan&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+3B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+73
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.724
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.203
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+84.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -4718,47 +4797,6 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2833&#34;&gt;Na Joo-hwan&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-36
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-3B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-69
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.616
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-14.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.154
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.226
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-59.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.13
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/320&#34;&gt;Lee Woo-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4809,7 +4847,7 @@ LF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 94
@@ -4973,34 +5011,34 @@ CF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-175
+179
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.571
+0.576
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.7
+6.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17.7
+17.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.062
+0.061
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.282
+0.286
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-57.7
+59.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.42
+-0.37
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -5097,16 +5135,16 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-45.2
+51
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.7
+9.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.6
@@ -5115,16 +5153,16 @@ WAR
 0.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.306
+0.315
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.94
+3.88
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.78
+2.92
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.62
+1.72
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5249,34 +5287,34 @@ WAR
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-19
+20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-19.2
+20.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.2
+8.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.5
+0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.259
+0.262
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.37
+1.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.91
+1.89
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.65
+0.69
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5325,34 +5363,34 @@ WAR
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18
+19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-17.1
+18.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.9
+10.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.1
+2.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.5
+1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.367
+0.365
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.60
+3.93
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.78
+4.13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.41
+0.18
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5363,34 +5401,34 @@ WAR
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14
+15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15
+16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.0
+3.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.8
+1.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.314
+0.315
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.60
+3.38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.39
+4.21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.11
+0.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5401,31 +5439,31 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-7.2
+8.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.8
+18.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.2
+8.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.273
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.52
+3.24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.85
+3.95
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.10
@@ -5812,34 +5850,34 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-45
+46
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-199
+204
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.078
+1.076
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.1
+9.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.5
+6.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.254
+0.253
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.378
+0.379
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-169.8
+169.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.34
+2.39
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5853,116 +5891,34 @@ RF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-45
+46
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-203
+208
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.896
+0.890
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.3
+14.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.3
+11.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.241
+0.236
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.263
+0.264
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-132.3
+131.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.51
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3358&#34;&gt;Park Dong-won&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-153
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.933
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-15.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.269
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.301
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-137.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.16
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3365&#34;&gt;Park Byung-ho&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-34
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-1B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-183
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.860
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-17.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.252
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.278
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-123.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.07
+1.54
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5976,34 +5932,116 @@ C
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-182
+187
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.799
+0.842
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.7
+13.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.3
+9.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.138
+0.153
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.286
+0.304
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-116.3
+124.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.97
+1.21
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3358&#34;&gt;Park Dong-won&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+157
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.931
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.302
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+137.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.19
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3365&#34;&gt;Park Byung-ho&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+1B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+187
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.859
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.247
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.284
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+124.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6017,34 +6055,75 @@ C
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-152
+157
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4
+5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.812
+0.833
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.2
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21.1
+20.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.176
+0.191
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.343
+0.340
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-113.2
+117.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.65
+0.76
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/7978&#34;&gt;Heo Jeong-hyeop&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+69
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.758
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.295
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+105.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.25
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6090,47 +6169,6 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7978&#34;&gt;Heo Jeong-hyeop&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-64
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.712
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.105
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.310
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-96.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.16
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/5647&#34;&gt;Lim Byeong-wuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6168,47 +6206,6 @@ CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.13
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6746&#34;&gt;Jeon Byung-woo&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-3B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-29
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-99
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.677
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-27.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.121
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-83.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6263,75 +6260,34 @@ CF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-24
+25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.727
+0.707
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.152
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.292
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-96.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.06
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9280&#34;&gt;Ju Hyo-sang&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-23
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.775
+7.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30.0
+0.147
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.125
+0.280
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.400
+92.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-115.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.05
+0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6373,6 +6329,88 @@ OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.04
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/6746&#34;&gt;Jeon Byung-woo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+3B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+102
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.656
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.318
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+78.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.03
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/9280&#34;&gt;Ju Hyo-sang&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.633
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+41.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.100
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.400
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+82.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.01
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6468,7 +6506,7 @@ OF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -6550,34 +6588,34 @@ LF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-121
+126
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.529
+0.505
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.9
+14.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-27.3
+27.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.033
+0.031
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.262
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-62.7
+56.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.17
+-0.27
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6591,34 +6629,34 @@ LF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-35
+36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-77
+78
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.485
+0.505
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.2
+5.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.4
+23.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.083
+0.082
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.222
+0.236
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36.6
+41.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.35
+-0.31
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6940,6 +6978,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3582&#34;&gt;Jo Duk-gil&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.219
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.68
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.27
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/222&#34;&gt;Yang Hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6978,44 +7054,6 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3582&#34;&gt;Jo Duk-gil&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.226
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.60
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.99
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.21
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11373&#34;&gt;Jake Brigham&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7050,6 +7088,44 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.21
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3344&#34;&gt;Moon Sung-hyun&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.333
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.00
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7098,72 +7174,34 @@ WAR
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5
+6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-4.2
+6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.7
+5.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.421
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.79
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.16
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.09
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3344&#34;&gt;Moon Sung-hyun&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-29
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.0
+2.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
+0.483
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.250
+6.75
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.00
+3.29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.09
+0.12
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7282,40 +7320,40 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12906&#34;&gt;Jo Young-gun&lt;/a&gt;
+&lt;a href=&#34;/players/3274&#34;&gt;Kim Sang-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5
+15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15.1
+12.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.1
+12.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.3
+4.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
+2.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
+0.424
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.70
+8.76
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.13
+5.70
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.05
+-0.09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7396,44 +7434,6 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3274&#34;&gt;Kim Sang-su&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-14
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-11.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.419
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.53
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.14
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3491&#34;&gt;Oh Ju-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7506,6 +7506,44 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.30
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/12906&#34;&gt;Jo Young-gun&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+18.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.302
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.87
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.68
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.32
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7623,34 +7661,34 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-192
+196
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-15
+16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.145
+1.156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.8
+7.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
+0.344
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.434
+0.431
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-181.8
+184.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.49
+2.59
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7664,34 +7702,34 @@ RF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-126
+130
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.130
+1.108
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.1
+10.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.3
+13.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.355
+0.342
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.345
+0.341
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-170.5
+166.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.50
+1.48
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7705,34 +7743,34 @@ RF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-186
+191
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.922
+0.908
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.5
+7.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.185
+0.179
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.420
+0.415
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-135.0
+131.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.38
+1.34
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7746,19 +7784,19 @@ CF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-147
+148
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.791
+0.785
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.9
+12.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 12.2
@@ -7767,13 +7805,13 @@ LF
 0.048
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.380
+0.376
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-114.6
+113.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.77
+0.75
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7828,34 +7866,34 @@ LF
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-108
+112
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.831
+0.819
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.3
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.0
+12.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.194
+0.186
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.288
+0.289
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-116.2
+113.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.53
+0.52
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7869,75 +7907,34 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-143
+146
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.739
+0.737
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.3
+6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.2
+18.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.134
+0.131
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.323
+0.327
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-91.4
+91.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.28
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8048&#34;&gt;Kim Min-hyeok&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-38
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-107
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.717
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-13.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.153
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.268
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-88.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7983,6 +7980,47 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/8048&#34;&gt;Kim Min-hyeok&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+39
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+112
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.702
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.146
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.267
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+84.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13956&#34;&gt;Chun Seong-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7992,34 +8030,34 @@ C
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17
+18
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.732
+0.693
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.2
+12.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.4
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.091
+0.086
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.346
+0.333
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-99.4
+90.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.11
+0.07
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8033,34 +8071,34 @@ C
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-34
+35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-145
+149
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.682
+0.672
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.4
+4.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17.2
+17.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.119
+0.116
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.309
+0.304
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-79.0
+77.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.08
+0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8074,34 +8112,34 @@ C
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-24
+25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.618
+0.658
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.8
+2.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-22.2
+21.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.094
+0.091
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.292
+0.320
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-71.7
+81.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.00
+0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8147,6 +8185,88 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/8146&#34;&gt;Moon Sang-cheol&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+1B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+56
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.157
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+71.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.07
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/8055&#34;&gt;Kim Byung-hee&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+3B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.529
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.176
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.182
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+38.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.08
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2868&#34;&gt;Park Seung-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8188,84 +8308,43 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8146&#34;&gt;Moon Sang-cheol&lt;/a&gt;
+&lt;a href=&#34;/players/5269&#34;&gt;Kang Min-gook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-1B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-55
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.647
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-21.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.157
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.263
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-66.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.10
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8055&#34;&gt;Kim Byung-hee&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
+28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10
+29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1
+0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.438
+0.533
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31.2
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.188
+0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.100
+0.333
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.8
+46.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.12
+-0.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8307,47 +8386,6 @@ IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.12
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5269&#34;&gt;Kang Min-gook&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-3B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.429
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-21.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.273
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-19.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.19
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8402,22 +8440,22 @@ RF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-183
+184
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.601
+0.598
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.7
+7.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.6
+19.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.055
@@ -8426,10 +8464,10 @@ SS
 0.302
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-64.5
+63.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.25
+-0.27
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -8602,16 +8640,16 @@ WAR
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-43.1
+46
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.2
+4.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.5
@@ -8620,16 +8658,16 @@ WAR
 1.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.298
+0.325
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.02
+6.65
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.43
+5.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.33
+0.41
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8668,6 +8706,44 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.25
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/10477&#34;&gt;Jo Byung-wook&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+12.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.304
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.55
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.85
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8820,44 +8896,6 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.02
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10477&#34;&gt;Jo Byung-wook&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-7.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.91
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.63
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.01
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9431,34 +9469,34 @@ WAR
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-161
+165
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.106
+1.100
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.2
+11.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.0
+23.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.331
+0.324
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.391
+0.398
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-174.8
+174.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.95
+1.98
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9472,34 +9510,34 @@ WAR
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-197
+201
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.910
+0.891
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.1
+7.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.6
+8.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.171
+0.168
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.364
+0.355
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-134.8
+130.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.38
+1.31
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9554,34 +9592,34 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-145
+149
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.812
+0.799
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.5
+5.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17.9
+17.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.138
+0.135
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.353
+0.343
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-117.5
+114.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.72
+0.69
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9595,31 +9633,31 @@ C
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-163
+167
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.741
+0.743
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.1
+6.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.3
+22.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.148
+0.145
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.337
+0.336
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-100.1
+101.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.61
@@ -9759,34 +9797,34 @@ C
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-186
+190
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.672
+0.657
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.1
+8.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.8
+12.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.061
+0.059
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.303
+0.297
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-90.4
+86.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.31
+0.23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9800,34 +9838,34 @@ CF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-37
+38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-71
+73
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.740
+0.718
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.5
+8.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.9
+23.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.222
+0.215
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.256
+0.244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-98.9
+94.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.18
+0.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9841,34 +9879,34 @@ CF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-73
+75
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.665
+0.645
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-20.5
+20.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-24.7
+24.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.127
+0.123
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.256
+0.244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-89.2
+84.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.14
+0.10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -9882,22 +9920,22 @@ CF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-123
+124
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.631
+0.625
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 8.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.2
+12.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.046
@@ -9906,10 +9944,10 @@ CF
 0.290
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-81.2
+79.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.12
+0.10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10005,7 +10043,7 @@ IF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-33
+34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -10078,6 +10116,47 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3568&#34;&gt;Jeon Min-su&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.533
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.333
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+69.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.00
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6466&#34;&gt;Shin Min-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -10087,7 +10166,7 @@ OF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9
+10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
@@ -10169,75 +10248,34 @@ C
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1
+2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-66.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--80.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.06
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9749&#34;&gt;Kim Ho-eun&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-1B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
+4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.558
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.067
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-59.4
+25.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.06
+50.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+18.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.03
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10251,31 +10289,72 @@ OF
 IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3
+4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4
+6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
+0.167
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-14.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.07
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/9749&#34;&gt;Kim Ho-eun&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+1B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.540
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
+6.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
+0.065
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--80.7
+0.241
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+55.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.08
@@ -10292,7 +10371,7 @@ IF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38
+39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -10416,34 +10495,34 @@ WAR
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-45
+51
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.0
+6.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.4
+2.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.8
+0.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.333
+0.318
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.00
+5.12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.12
+4.41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.77
+0.71
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10714,6 +10793,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2714&#34;&gt;Choi Sung-hoon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.217
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.59
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.02
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3232&#34;&gt;Kim Dae-yu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -10790,40 +10907,40 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2714&#34;&gt;Choi Sung-hoon&lt;/a&gt;
+&lt;a href=&#34;/players/13333&#34;&gt;Han Seon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31
+26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9
+1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-7
+1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.4
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.9
+18.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.3
+0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.190
+0.600
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.14
+18.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.30
+9.59
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.04
+-0.05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11207,34 +11324,34 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-189
+194
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.909
+0.901
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.2
+12.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.4
+8.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.119
+0.121
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.374
+0.373
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-134.4
+132.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.37
+1.36
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11248,34 +11365,34 @@ RF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41
+42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-185
+190
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.841
+0.846
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.4
+5.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.8
+16.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.213
+0.223
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.319
+0.309
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-113.8
+114.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.86
+0.90
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11289,34 +11406,34 @@ LF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-182
+186
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.871
+0.862
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.6
+12.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.4
+10.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.179
+0.175
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.303
+0.301
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-113.3
+111.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.83
+0.81
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11330,34 +11447,34 @@ LF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-42
+43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-169
+174
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.752
+0.750
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.7
+5.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.2
+14.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.148
+0.145
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.308
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-92.4
+92.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.44
+0.45
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11371,31 +11488,31 @@ SS
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-40
+41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-165
+169
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.721
+0.715
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.5
+8.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.7
+12.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.122
+0.119
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.296
+0.295
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-89.6
+88.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.33
@@ -11412,34 +11529,34 @@ SS
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14
+15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-61
+66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.821
+0.827
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.2
+9.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.0
+22.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.130
+0.138
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.400
+0.395
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-112.8
+114.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.29
+0.33
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11567,47 +11684,6 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/579&#34;&gt;Kim Joon-tae&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-36
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-87
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.652
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.118
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.281
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-74.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.01
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6585&#34;&gt;Kim Jae-yoo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11617,34 +11693,34 @@ C
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-20
+21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.585
+0.659
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.0
+4.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-35.0
+33.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.400
+0.455
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-71.2
+87.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.03
+0.01
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11699,34 +11775,75 @@ CF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-152
+156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.664
+0.659
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.6
+6.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.4
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.094
+0.092
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.297
+0.296
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-74.7
+73.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.04
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/579&#34;&gt;Kim Joon-tae&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+89
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.637
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.115
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.271
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+70.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11822,34 +11939,34 @@ LF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-26
+27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-34
+35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.478
+0.464
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.9
+5.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.030
+0.029
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.226
+0.219
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30.7
+27.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.13
+-0.15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11863,7 +11980,7 @@ LF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28
+29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 43
@@ -11945,31 +12062,31 @@ CF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-37
+38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-131
+134
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.621
+0.622
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.9
+6.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-19.1
+18.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.102
+0.099
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.272
+0.274
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-65.8
+66.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.19
@@ -11986,34 +12103,34 @@ CF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-64
+66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.340
+0.329
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.7
+4.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23.4
+22.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.200
+0.191
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--1.2
+-3.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.60
+-0.64
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -12072,34 +12189,34 @@ WAR
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9
+10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9
+10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-55.2
+63
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.0
+9.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.7
+2.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.3
+0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.270
+0.272
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.10
+2.43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.74
+3.05
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.11
+2.16
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12148,34 +12265,34 @@ WAR
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21
+22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-17
+17.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 13.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.7
+3.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.405
+0.439
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.12
+3.06
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.65
+2.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.45
+0.48
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12300,34 +12417,34 @@ WAR
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13
+14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15
+15.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.8
+4.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.277
+0.286
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.40
+2.30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.12
+3.14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.34
+0.35
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12376,34 +12493,34 @@ WAR
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-15
+16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15.1
+16.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.9
+5.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.8
+1.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.186
+0.191
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.17
+1.10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.72
+3.71
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.24
+0.26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12901,34 +13018,34 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-196
+201
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.011
+0.995
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.7
+9.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28.6
+28.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.306
+0.298
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.394
+0.389
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-153.7
+150.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.87
+1.83
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12942,34 +13059,34 @@ RF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-40
+41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-148
+152
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.113
+1.095
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.4
+5.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.5
+11.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.305
+0.296
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.380
+0.378
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-173.4
+169.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.84
+1.82
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12983,34 +13100,34 @@ RF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-162
+166
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.917
+0.935
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.4
+7.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29.0
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.276
+0.277
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.352
+0.363
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-132.3
+136.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.17
+1.31
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13024,34 +13141,34 @@ CF
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-131
+134
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.958
+0.956
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.7
+14.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.3
+17.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.196
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.385
+0.380
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-146.4
+144.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.15
+1.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13065,75 +13182,34 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-35
+36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-135
+139
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.923
+0.937
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.4
+7.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.4
+7.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.280
+0.273
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.260
+0.271
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-130.9
+134.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.93
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2994&#34;&gt;Lee Myung-gi&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-33
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-162
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.802
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.062
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.386
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-112.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.68
+1.02
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13147,34 +13223,75 @@ LF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-37
+38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-132
+136
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.875
+0.859
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.8
+10.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-22.0
+23.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.202
+0.197
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.357
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-122.8
+119.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.68
+0.65
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2994&#34;&gt;Lee Myung-gi&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+164
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.792
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.061
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.386
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+109.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.64
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13188,34 +13305,34 @@ SS
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-136
+140
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.812
+0.802
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.2
+15.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.7
+14.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.151
+0.145
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.274
+0.273
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-113.1
+110.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.62
+0.60
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13229,34 +13346,34 @@ SS
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-181
+186
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.772
+0.785
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.7
+7.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.6
+6.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.119
+0.127
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.307
+0.310
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-97.1
+99.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.53
+0.60
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13270,7 +13387,7 @@ SS
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28
+29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 54
@@ -13311,34 +13428,34 @@ C
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12
+13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.845
+0.816
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.4
+3.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.8
+13.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.179
+0.172
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.348
+0.333
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-117.1
+110.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.15
+0.13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13466,6 +13583,47 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3680&#34;&gt;Kim Sung-wook&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+49
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.103
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.296
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+77.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.01
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4037&#34;&gt;Ji Suk-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13503,47 +13661,6 @@ SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.01
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3680&#34;&gt;Kim Sung-wook&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-CF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-21
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-45
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.586
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-24.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.108
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.240
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-61.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13680,7 +13797,7 @@ IF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-24
+25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -13883,34 +14000,34 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-40.1
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.0
+5.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.9
+3.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.7
+0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.315
+0.317
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.58
+5.60
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.41
+4.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.74
+0.75
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -13997,72 +14114,34 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-22
+23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-19.1
+20.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.2
+4.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.8
+2.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.5
+0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.329
+0.319
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.42
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.16
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3204&#34;&gt;Kang Yoon-gu&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-8.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.367
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.12
+4.87
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4.28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.08
+0.19
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14073,34 +14152,72 @@ WAR
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-20
+21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-12.2
+14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.8
+7.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.3
+3.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.7
+0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.297
+0.275
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.97
+4.50
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.77
+4.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.06
+0.10
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3204&#34;&gt;Kang Yoon-gu&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+9.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.364
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.89
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14111,34 +14228,34 @@ WAR
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12
+13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-8.2
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.5
+12.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.2
+6.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.318
+0.333
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.35
+9.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.74
+4.70
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.04
+0.05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14301,34 +14418,34 @@ WAR
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23
+24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-21
+22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.9
+6.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.4
+6.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.237
+0.226
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.00
+2.86
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.54
+5.45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.06
+-0.05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14706,47 +14823,6 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6753&#34;&gt;Koo Ja-wook&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-106
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.969
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-16.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.223
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.378
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-140.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.91
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/978&#34;&gt;Kim Sang-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14756,34 +14832,75 @@ LF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-179
+180
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.804
+0.818
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.3
+12.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.5
+14.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.068
+0.074
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.379
+0.384
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-111.5
+114.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.81
+0.88
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/6753&#34;&gt;Koo Ja-wook&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+111
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.928
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+18.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.214
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.368
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+129.6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.80
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14797,34 +14914,34 @@ LF
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-142
+147
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.771
+0.795
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.9
+9.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-25.4
+24.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.167
+0.168
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.329
+0.344
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-90.4
+95.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.25
+0.38
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14838,75 +14955,34 @@ SS
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-34
+35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-114
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.751
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-19.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.167
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.317
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-88.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.25
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/327&#34;&gt;Lee Won-seok&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-34
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-3B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-37
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-149
+119
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.731
+0.753
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.4
+4.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.8
+18.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.162
+0.159
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.276
+0.322
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-83.6
+89.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.14
+0.27
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14920,34 +14996,75 @@ CF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12
+13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23
+26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0
+1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.820
+1.006
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.3
+3.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17.4
+15.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.048
+0.167
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.444
+0.450
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-106.4
+146.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.10
+0.24
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/327&#34;&gt;Lee Won-seok&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+3B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+153
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.724
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.157
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.275
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+82.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.12
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14961,34 +15078,34 @@ OF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-26
+27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-52
+54
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.740
+0.737
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.5
+13.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-13.5
+13.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.067
+0.065
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.324
+0.316
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-97.1
+97.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.06
+0.07
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -15002,34 +15119,34 @@ OF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-122
+127
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.717
+0.712
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.1
+3.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-15.6
+15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.175
+0.176
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.264
+0.260
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-79.2
+77.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.03
+0.02
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -15280,47 +15397,6 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13676&#34;&gt;Kim Ji-chan&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-19
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-2B
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-39
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-59
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.651
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.058
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.312
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-63.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.07
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1069&#34;&gt;Park Chan-do&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15362,6 +15438,88 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/5059&#34;&gt;Kim Min-soo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.432
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.08
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/13676&#34;&gt;Kim Ji-chan&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+2B
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+40
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+63
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.641
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.054
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.308
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+61.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.09
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/5451&#34;&gt;Park Gye-beom&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15371,7 +15529,7 @@ LF
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-23
+24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 44
@@ -15396,47 +15554,6 @@ LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 63.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.10
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5059&#34;&gt;Kim Min-soo&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-29
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.250
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.000
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.167
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--31.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.10
@@ -15535,7 +15652,7 @@ C
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-32
+33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 85
@@ -15576,34 +15693,34 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-59
+60
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.512
+0.503
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.8
+6.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-27.1
+26.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.019
+0.018
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.316
+0.308
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38.0
+35.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.27
+-0.29
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -15617,34 +15734,34 @@ C
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-29
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-103
+108
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.545
+0.550
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.7
+11.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.7
+8.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.044
+0.043
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.222
+0.224
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-51.5
+53.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.38
+-0.37
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -15697,6 +15814,44 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/12619&#34;&gt;Won Tae-in&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+54.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.275
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.96
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.02
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.77
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13683&#34;&gt;David Buchanan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15735,78 +15890,40 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12619&#34;&gt;Won Tae-in&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-48
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.287
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.19
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.01
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.68
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10722&#34;&gt;Choi Ji-gwang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21
+22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-20.1
+21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-11.5
+11.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.9
+5.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.225
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.89
+2.14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.65
+2.83
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.57
+0.55
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -15855,34 +15972,34 @@ WAR
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-15
+16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15.1
+17
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.5
+5.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
+1.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.6
+0.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.244
+0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.11
+3.71
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.39
+3.41
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.32
+0.35
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16115,6 +16232,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/1174&#34;&gt;Oh Seung-hwan&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.57
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.08
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4177&#34;&gt;Kim Dae-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16149,44 +16304,6 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.06
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1174&#34;&gt;Oh Seung-hwan&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-38
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.294
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.00
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.76
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.05
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16570,34 +16687,34 @@ WAR
 3B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-43
+44
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-177
+181
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.887
+0.883
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.1
+14.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-14.7
+14.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.222
+0.219
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.273
+0.268
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-131.0
+130.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.17
+1.19
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16611,34 +16728,34 @@ WAR
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-44
+45
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-184
+188
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7
+8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.878
+0.900
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-16.3
+16.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.5
+19.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.217
+0.231
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.304
+0.310
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-122.6
+126.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.05
+1.17
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16693,75 +16810,34 @@ RF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28
+29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-106
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.797
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-13.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.074
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.395
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-109.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.49
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5878&#34;&gt;Kim Kyung-ho&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-25
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-OF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11
+110
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.527
+0.786
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.1
+8.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.1
+13.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.100
+0.071
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.778
+0.393
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-284.8
+106.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.28
+0.47
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16775,34 +16851,75 @@ OF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-36
+37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-105
+109
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.774
+0.771
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.204
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.282
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+96.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.26
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/5878&#34;&gt;Kim Kyung-ho&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+OF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.243
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21.9
+13.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.208
+0.071
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.290
+0.667
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-96.4
+218.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.25
+0.26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16857,31 +16974,31 @@ CF
 2B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-17
+18
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-50
+53
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.686
+0.685
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.0
+11.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.0
+5.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.047
+0.043
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.300
+0.302
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-86.7
+86.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.09
@@ -16971,47 +17088,6 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2637&#34;&gt;Jeong Eui-yoon&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-34
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-41
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-134
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.653
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-13.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.058
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.301
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-73.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.07
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/5850&#34;&gt;Ko Jong-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17021,34 +17097,34 @@ LF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-19
+20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-59
+60
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.587
+0.611
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-28.8
+28.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.070
+0.069
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.350
+0.366
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-56.5
+62.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.12
+-0.08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -17087,6 +17163,47 @@ LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 58.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.13
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2637&#34;&gt;Jeong Eui-yoon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+42
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+137
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.638
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.057
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.292
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+70.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.13
@@ -17185,7 +17302,7 @@ C
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-39
+40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 119
@@ -17299,47 +17416,6 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2805&#34;&gt;Kim Sung-hyun&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-33
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-SS
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-39
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-88
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.503
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.014
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.214
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-43.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.34
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3029&#34;&gt;Lee Jae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17349,31 +17425,72 @@ SS
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8
+9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-26
+30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.157
+0.274
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.8
+3.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-19.2
+16.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.053
+0.130
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--39.2
+-12.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.32
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2805&#34;&gt;Kim Sung-hyun&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+SS
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+40
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+92
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.506
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.013
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.219
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+43.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.36
@@ -17472,22 +17589,22 @@ C
 SS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-37
+38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-88
+89
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.471
+0.480
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.8
+7.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-27.3
+27.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.077
@@ -17496,10 +17613,10 @@ SS
 0.226
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30.5
+33.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.52
+-0.49
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -17672,34 +17789,34 @@ WAR
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-21
+22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-21.1
+21.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.5
+10.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.0
+3.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.227
+0.239
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.51
+2.80
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.59
+0.54
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -17786,34 +17903,34 @@ WAR
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-22
+23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-21.2
+22.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.2
+6.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.9
+2.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.250
+0.246
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.49
+2.42
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.91
+3.81
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.30
+0.33
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -18046,6 +18163,44 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/7551&#34;&gt;Kim Taek-hyung&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.409
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11.57
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.45
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.08
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6816&#34;&gt;Kim Ju-on&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18080,44 +18235,6 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.09
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7551&#34;&gt;Kim Taek-hyung&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-6
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.421
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-13.50
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.92
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.10
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -18166,34 +18283,34 @@ WAR
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10
+11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-10
+11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-12.6
+11.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.8
+1.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.6
+3.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.273
+0.280
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.30
+5.73
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.59
+6.32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.13
+-0.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;

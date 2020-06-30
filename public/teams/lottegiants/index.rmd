@@ -2,7 +2,7 @@
 date: "2020-03-31"
 summary: 'WAR Leader | Dan Straily, RHP: 2.16'
 title: 'Lotte Giants'
-subtitle: 'Busan | Current Elo: 1469 (9)'
+subtitle: 'Busan | Current Elo: 1472 (8)'
 image:
   preview_only: true
 ---
@@ -14,7 +14,7 @@ image:
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(kableExtra)
-batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
+batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]
 batters$Age <- as.numeric(batters$Age)
 d <- batters %>% filter(Team == "Lotte Giants") %>% filter(Year == "2020") %>% select(-Team, -Year, -KName, -Url)
@@ -26,7 +26,7 @@ kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Age","Pos"
 ***
 ### 2020 Pitching Stats {#pitching}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
+pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv", col_types = cols())
 pitchers <- pitchers[complete.cases(pitchers),]
 d <- pitchers %>% filter(Team == "Lotte Giants") %>% filter(Year == "2020") %>% select(-Team, -Year, -KName, -Position, -Url)
 d <- d[order(-d$WAR),]

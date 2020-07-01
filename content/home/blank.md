@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 2.74 |
-| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 2.44 |
-| 3 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | 1B | 2.40 |
-| 4 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | RF | 2.39 |
+| 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 2.86 |
+| 2 | [**Koo Chang-mo**](/players/7698) | [NC Dinos](/teams/NCDinos) | LHP | 2.74 |
+| 3 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | 1B | 2.69 |
+| 4 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | RF | 2.36 |
 | 5 | [**Dan Straily**](/players/13648) | [Lotte Giants](/teams/LotteGiants) | RHP | 2.16 |

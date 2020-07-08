@@ -11,8 +11,8 @@ title: 'KBO Leaders, 2020 Season'
 ***
 ### WAR, Overall {#war}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
-library(knitr)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")

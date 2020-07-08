@@ -9,8 +9,8 @@ title: 'KBO Leaders, Total Since 2019'
 ***
 ### WAR, Overall {#war}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
-library(knitr)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")

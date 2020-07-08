@@ -7,9 +7,8 @@ subtitle: Current Ratings, Predictions & Team Stats
  <br>
 
 ```{r, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
-library(ggplot2)
-library(knitr)
+library(dplyr)
+library(readr)
 library(kableExtra)
 d <- read_csv("~/Google Drive/KBO/predictions.csv")
 teamstats <- read_csv("~/Google Drive/KBO/teamstats.csv")

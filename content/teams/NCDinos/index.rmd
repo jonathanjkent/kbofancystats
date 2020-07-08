@@ -2,7 +2,7 @@
 date: "2020-03-31"
 summary: 'WAR Leader | Koo Chang-mo, LHP: 3.04'
 title: 'NC Dinos'
-subtitle: 'Changwon | Current Elo: 1543 (3)'
+subtitle: 'Changwon | Current Elo: 1541 (3)'
 image:
   preview_only: true
 ---
@@ -12,7 +12,8 @@ image:
 ***
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]

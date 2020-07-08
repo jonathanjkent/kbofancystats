@@ -1,8 +1,8 @@
 ---
 date: "2020-03-31"
-summary: 'WAR Leader | Dan Straily, RHP: 2.27'
+summary: 'WAR Leader | Dan Straily, RHP: 2.56'
 title: 'Lotte Giants'
-subtitle: 'Busan | Current Elo: 1467 (8)'
+subtitle: 'Busan | Current Elo: 1466 (9)'
 image:
   preview_only: true
 ---
@@ -12,7 +12,8 @@ image:
 ***
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]

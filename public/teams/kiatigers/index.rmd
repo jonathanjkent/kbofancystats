@@ -2,7 +2,7 @@
 date: "2020-03-31"
 summary: 'WAR Leader | Aaron Brooks, RHP: 2.38'
 title: 'Kia Tigers'
-subtitle: 'Gwangju | Current Elo: 1499 (7)'
+subtitle: 'Gwangju | Current Elo: 1496 (7)'
 image:
   preview_only: true
 ---
@@ -12,7 +12,8 @@ image:
 ***
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]

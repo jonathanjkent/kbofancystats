@@ -1,8 +1,8 @@
 ---
 date: "2020-03-31"
-summary: 'WAR Leader | Roberto Ramos, 1B: 2.1'
+summary: 'WAR Leader | Roberto Ramos, 1B: 2.22'
 title: 'LG Twins'
-subtitle: 'Seoul | Current Elo: 1509 (4)'
+subtitle: 'Seoul | Current Elo: 1512 (4)'
 image:
   preview_only: true
 ---
@@ -12,7 +12,8 @@ image:
 ***
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]

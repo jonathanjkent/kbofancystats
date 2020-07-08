@@ -1,8 +1,8 @@
 ---
 date: "2020-03-31"
-summary: 'WAR Leader | Warwick Saupold, RHP: 1.83'
+summary: 'WAR Leader | Warwick Saupold, RHP: 1.84'
 title: 'Hanwha Eagles'
-subtitle: 'Daejeon | Current Elo: 1421 (10)'
+subtitle: 'Daejeon | Current Elo: 1423 (10)'
 image:
   preview_only: true
 ---
@@ -12,7 +12,8 @@ image:
 ***
 ### 2020 Batting Stats {#batting}
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
-library(tidyverse)
+library(dplyr)
+library(readr)
 library(kableExtra)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols())
 batters <- batters[complete.cases(batters),]

@@ -11,9 +11,9 @@ title: 'KBO Leaders, 2020 Season'
 ***
 ### WAR, Overall {#war}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-library(dplyr)
-library(readr)
-library(kableExtra)
+suppressMessages(library(dplyr))
+suppressMessages(library(readr))
+suppressMessages(library(kableExtra))
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
 batters <- unique(batters) 

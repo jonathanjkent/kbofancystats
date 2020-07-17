@@ -9,7 +9,7 @@ suppressMessages(library(readr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
 tenteam <- suppressMessages(read_csv("~/Google Drive/KBO/elohistory.csv"))
-tenteam <- tenteam %>% suppressMessages(subset(Date > ISOdate(2020,5,4)))
+tenteam <- tenteam %>% subset(Date > as.Date("2020-01-01"))
 tenteam$Team <- as.factor(tenteam$Team)
 rank <- suppressMessages(read_csv("~/Google Drive/KBO/currentelos.csv"))
 levels <- rank$Team

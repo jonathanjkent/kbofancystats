@@ -680,7 +680,7 @@ RF
 0.200
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-54.0
+53.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.04
@@ -721,7 +721,7 @@ RF
 0.262
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-68.0
+67.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.04
@@ -803,7 +803,7 @@ LF
 0.263
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-40.4
+40.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.09
@@ -844,7 +844,7 @@ C
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--81.0
+-81.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.10
@@ -885,7 +885,7 @@ SS
 0.290
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-34.7
+34.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.21
@@ -944,7 +944,7 @@ C
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -984,7 +984,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12997&#34;&gt;Raul Alcántara&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1012,7 +1012,7 @@ WAR
 3.13
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.47
+3.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.07
@@ -1022,7 +1022,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13613&#34;&gt;Chris Flexen&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1060,7 +1060,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9427&#34;&gt;Lee Young-ha&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1098,7 +1098,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/439&#34;&gt;Ham Duk-joo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1136,7 +1136,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/292&#34;&gt;Yu Hui-kwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1164,17 +1164,17 @@ WAR
 4.97
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.81
+4.80
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.61
+0.63
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6536&#34;&gt;Chae Ji-sun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1212,7 +1212,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4786&#34;&gt;Lee Hyun-seung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1250,7 +1250,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1288,7 +1288,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/943&#34;&gt;Kwon Hyuk&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1326,7 +1326,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4394&#34;&gt;Park Jong-gi&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1354,7 +1354,7 @@ WAR
 5.47
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.35
+5.36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.10
@@ -1364,7 +1364,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7915&#34;&gt;Hong Gun-hee&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1402,7 +1402,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11429&#34;&gt;Park Shin-ji&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1440,7 +1440,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1468,7 +1468,7 @@ WAR
 19.29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.77
+3.79
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.05
@@ -1478,7 +1478,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/33&#34;&gt;Kim Kang-ryul&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1516,7 +1516,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10820&#34;&gt;Choi Won-joon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1544,17 +1544,17 @@ WAR
 4.76
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.94
+4.92
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.05
+-0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4688&#34;&gt;Lee Seung-jin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1592,7 +1592,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/299&#34;&gt;Yoon Myung-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1630,7 +1630,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/14054&#34;&gt;Jo Je-yeong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1668,7 +1668,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12486&#34;&gt;Lee Gyo-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1706,7 +1706,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/313&#34;&gt;Lee Yong-chan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1744,7 +1744,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10288&#34;&gt;Moon Dae-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -1782,7 +1782,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3974&#34;&gt;Lee Hyung-bum&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -2572,7 +2572,7 @@ IF
 0.367
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-83.7
+83.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.01
@@ -2859,7 +2859,7 @@ RF
 0.143
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-38.3
+38.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.11
@@ -2900,7 +2900,7 @@ RF
 0.200
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-18.2
+18.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.12
@@ -3246,7 +3246,7 @@ RF
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -3286,7 +3286,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12682&#34;&gt;Warwick Saupold&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3324,7 +3324,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3561&#34;&gt;Jang Shi-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3355,14 +3355,14 @@ WAR
 4.43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.98
+0.97
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8573&#34;&gt;Jung Woo-ram&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3400,7 +3400,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6928&#34;&gt;Kim Min-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3438,7 +3438,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/14180&#34;&gt;Kang Jae-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3476,7 +3476,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8587&#34;&gt;Jang Min-jae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3514,7 +3514,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11597&#34;&gt;Park Joo-hong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3552,7 +3552,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4527&#34;&gt;Ahn Young-myung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3590,7 +3590,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12710&#34;&gt;Chad Bell&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3628,7 +3628,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/5038&#34;&gt;Hwang Young-guk&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3666,7 +3666,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6935&#34;&gt;Kim Bum-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3694,17 +3694,17 @@ WAR
 3.66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.30
+5.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.05
+0.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2441&#34;&gt;Song Yoon-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3742,7 +3742,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10372&#34;&gt;Kim Jin-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3780,7 +3780,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1188&#34;&gt;Yoon Dae-kyung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3808,7 +3808,7 @@ WAR
 2.08
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.18
+5.19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.00
@@ -3818,7 +3818,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4604&#34;&gt;Yoon Kyu-jin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3856,7 +3856,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2224&#34;&gt;Im Joon-seop&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3894,7 +3894,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2462&#34;&gt;Shin Jung-rak&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3932,7 +3932,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13739&#34;&gt;Han Seung-ju&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -3970,7 +3970,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1433&#34;&gt;Kim Jong-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4008,7 +4008,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3883&#34;&gt;Yoon Ho-sol&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4046,7 +4046,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11590&#34;&gt;Kim Jin-wook&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4074,17 +4074,17 @@ WAR
 4.15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.27
+10.26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.15
+-0.14
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12654&#34;&gt;Kim Ee-whan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4122,7 +4122,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10841&#34;&gt;Park Sang-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4153,14 +4153,14 @@ WAR
 6.12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.25
+-0.26
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4317&#34;&gt;Moon Dong-wook&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -4198,7 +4198,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6487&#34;&gt;Lee Hyun-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5334,7 +5334,7 @@ SS
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -5374,7 +5374,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13760&#34;&gt;Aaron Brooks&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5402,17 +5402,17 @@ WAR
 2.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.98
+2.97
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.49
+2.51
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13746&#34;&gt;Drew Gagnon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5450,7 +5450,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1699&#34;&gt;Im Ki-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5488,7 +5488,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7173&#34;&gt;Lee Min-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5526,7 +5526,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1972&#34;&gt;Park Joon-pyo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5562,47 +5562,9 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-13
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-14
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-67
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.319
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.17
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.67
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9623&#34;&gt;Jeon Sang-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5638,9 +5600,47 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12717&#34;&gt;Kim Ki-hoon&lt;/a&gt;
+&lt;a href=&#34;/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+67
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.319
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.61
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/12717&#34;&gt;Kim Ki-hoon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5678,7 +5678,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1860&#34;&gt;Ko Young-chang&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5716,7 +5716,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/460&#34;&gt;Hong Sang-sam&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5754,7 +5754,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13774&#34;&gt;Jung Hae-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5792,7 +5792,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7082&#34;&gt;Kim Myung-chan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5830,7 +5830,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7124&#34;&gt;Park Jung-su&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5868,7 +5868,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7103&#34;&gt;Moon Kyung-chan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5906,7 +5906,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/173&#34;&gt;Byun Si-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5944,7 +5944,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8986&#34;&gt;Seo Deok-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -5982,7 +5982,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12115&#34;&gt;Kim Seung-beom&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6020,7 +6020,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7201&#34;&gt;Lee Joon-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6058,7 +6058,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12535&#34;&gt;Kim Hyun-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6096,7 +6096,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8972&#34;&gt;Kim Hyun-joon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -6134,7 +6134,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10400&#34;&gt;Park Jin-tae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7147,7 +7147,7 @@ LF
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -7187,7 +7187,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12885&#34;&gt;Eric Jokisch&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7225,7 +7225,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3624&#34;&gt;Han Hyun-hee&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7253,7 +7253,7 @@ WAR
 6.87
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.11
+4.12
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.08
@@ -7263,7 +7263,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7677&#34;&gt;Choi Won-tae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7301,7 +7301,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3589&#34;&gt;Jo Sang-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7337,9 +7337,47 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3239&#34;&gt;Kim Tae-hoon&lt;/a&gt;
+&lt;a href=&#34;/players/10911&#34;&gt;Lee Seung-ho&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+58
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.326
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.90
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.49
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3239&#34;&gt;Kim Tae-hoon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7375,47 +7413,9 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10911&#34;&gt;Lee Seung-ho&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-21
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-12
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-58
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.326
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.90
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.18
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.48
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/222&#34;&gt;Yang Hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7443,7 +7443,7 @@ WAR
 2.08
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.37
+3.38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.45
@@ -7453,7 +7453,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11135&#34;&gt;Kim Jae-woong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7491,7 +7491,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11772&#34;&gt;Ahn Woo-jin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7529,7 +7529,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11373&#34;&gt;Jake Brigham&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7557,17 +7557,17 @@ WAR
 4.30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.00
+5.01
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.24
+0.23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/14593&#34;&gt;Kim Dong-hyeok&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7605,7 +7605,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12892&#34;&gt;Yoon Jung-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7643,7 +7643,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3582&#34;&gt;Jo Duk-gil&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7681,7 +7681,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3344&#34;&gt;Moon Sung-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7719,7 +7719,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3274&#34;&gt;Kim Sang-su&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7757,7 +7757,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7817&#34;&gt;Cha Jae-yong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7795,7 +7795,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/383&#34;&gt;Jung Dae-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7833,7 +7833,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11751&#34;&gt;Kim Seon-gi&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7869,9 +7869,47 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9994&#34;&gt;Park Seung-joo&lt;/a&gt;
+&lt;a href=&#34;/players/8370&#34;&gt;Lee Young-joon&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.288
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.04
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/9994&#34;&gt;Park Seung-joo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7907,47 +7945,9 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8370&#34;&gt;Lee Young-joon&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-29
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-20
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.1
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.288
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.50
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.24
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.05
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2770&#34;&gt;Kim Jeong-hu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -7985,7 +7985,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3491&#34;&gt;Oh Ju-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8023,7 +8023,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3456&#34;&gt;Shin Jae-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8061,7 +8061,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10743&#34;&gt;Kim Sung-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8099,7 +8099,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12906&#34;&gt;Jo Young-gun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8130,14 +8130,14 @@ WAR
 7.83
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.36
+-0.35
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7642&#34;&gt;Im Gyu-bin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -8599,7 +8599,7 @@ C
 0.562
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-153.6
+153.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.21
@@ -8681,7 +8681,7 @@ LF
 0.353
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-100.0
+99.9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.12
@@ -9068,7 +9068,7 @@ SS
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -9108,7 +9108,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13928&#34;&gt;Odrisamer Despaigne&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9136,17 +9136,17 @@ WAR
 4.05
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.14
+4.15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.81
+1.80
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13039&#34;&gt;William Cuevas&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9184,7 +9184,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6655&#34;&gt;Bae Je-seong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9222,7 +9222,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13935&#34;&gt;So Hyeong-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9253,14 +9253,14 @@ WAR
 5.19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.52
+0.53
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8034&#34;&gt;Kim Min-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9288,7 +9288,7 @@ WAR
 6.33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.83
+4.84
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.34
@@ -9298,7 +9298,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8482&#34;&gt;Ju Kwon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9336,7 +9336,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8090&#34;&gt;Kim Jae-yoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9374,7 +9374,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10477&#34;&gt;Jo Byung-wook&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9402,7 +9402,7 @@ WAR
 4.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.11
+5.09
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.15
@@ -9412,7 +9412,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3512&#34;&gt;Lee Bo-geun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9450,7 +9450,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3071&#34;&gt;Jeon Yoo-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9481,14 +9481,14 @@ WAR
 4.77
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.07
+0.06
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13011&#34;&gt;Lee Sang-dong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9526,7 +9526,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8475&#34;&gt;Jo Hyun-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9554,7 +9554,7 @@ WAR
 3.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.26
+5.27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.01
@@ -9564,7 +9564,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4142&#34;&gt;Keum Min-cheol&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9602,7 +9602,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13452&#34;&gt;Kim Sung-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9640,7 +9640,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9056&#34;&gt;Park Se-jin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9678,7 +9678,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6256&#34;&gt;Ha Joon-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9716,7 +9716,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/726&#34;&gt;Lee Sang-hwa&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9744,7 +9744,7 @@ WAR
 5.79
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.92
+5.93
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.10
@@ -9754,7 +9754,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8125&#34;&gt;Ryu Hee-woon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9792,7 +9792,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13018&#34;&gt;Lee Sun-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9830,7 +9830,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2504&#34;&gt;Yoo Won-sang&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9858,7 +9858,7 @@ WAR
 4.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.64
+5.65
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.12
@@ -9868,7 +9868,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12990&#34;&gt;Son Dong-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9906,7 +9906,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13949&#34;&gt;Lee Kang-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9944,7 +9944,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11877&#34;&gt;Kim Min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -9982,7 +9982,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13004&#34;&gt;Lee Dae-eun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -10772,7 +10772,7 @@ IF
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--81.0
+-81.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.02
@@ -10895,7 +10895,7 @@ OF
 0.000
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--15.5
+-15.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.07
@@ -11077,7 +11077,7 @@ OF
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -11117,7 +11117,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2609&#34;&gt;Lim Chan-gyu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11145,17 +11145,17 @@ WAR
 4.47
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.89
+3.88
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.16
+1.17
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2658&#34;&gt;Jung Chan-heon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11193,7 +11193,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12815&#34;&gt;Casey Kelly&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11224,14 +11224,14 @@ WAR
 4.30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.08
+1.07
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11681&#34;&gt;Tyler Wilson&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11269,7 +11269,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13809&#34;&gt;Lee Min-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11307,7 +11307,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3134&#34;&gt;Jin Hae-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11335,7 +11335,7 @@ WAR
 3.10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.94
+2.93
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.41
@@ -11345,7 +11345,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1321&#34;&gt;Cha Woo-chan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11383,7 +11383,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12801&#34;&gt;Jung Woo-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11411,17 +11411,17 @@ WAR
 3.16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.41
+4.40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.12
+0.13
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2714&#34;&gt;Choi Sung-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11459,7 +11459,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3232&#34;&gt;Kim Dae-yu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11497,7 +11497,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10491&#34;&gt;Ko Woo-seok&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11535,7 +11535,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4597&#34;&gt;Ryu Won-suk&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11573,7 +11573,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13333&#34;&gt;Han Seon-tae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11601,7 +11601,7 @@ WAR
 18.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.59
+9.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.05
@@ -11611,7 +11611,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4702&#34;&gt;Lee Woo-chan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11639,7 +11639,7 @@ WAR
 36.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-10.54
+10.57
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.06
@@ -11649,7 +11649,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6361&#34;&gt;Moon Gwang-eun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11687,7 +11687,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2707&#34;&gt;Choi Dong-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11725,7 +11725,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2924&#34;&gt;Baek Cheong-hun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11763,7 +11763,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2042&#34;&gt;Song Eun-beom&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11801,7 +11801,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13788&#34;&gt;Kim Yun-sik&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11839,7 +11839,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7362&#34;&gt;Lee Sang-gyu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11877,7 +11877,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2966&#34;&gt;Yeo Geon-wook&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 34
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -11915,7 +11915,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9084&#34;&gt;Kim Dae-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12344,6 +12344,47 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/6585&#34;&gt;Kim Jae-yoo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.697
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.421
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+98.7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/579&#34;&gt;Kim Joon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12467,47 +12508,6 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6585&#34;&gt;Kim Jae-yoo&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-CF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-17
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-34
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.618
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.9
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.235
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.125
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-77.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.01
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6550&#34;&gt;Kang Lo-han&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12624,6 +12624,47 @@ IF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 39.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+-0.16
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/880&#34;&gt;Heo Il&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.555
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.091
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.276
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+48.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.16
@@ -12754,47 +12795,6 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/880&#34;&gt;Heo Il&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-50
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.360
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.0
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.220
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.041
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--1.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
--0.41
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11996&#34;&gt;Jung Bo-geun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12846,7 +12846,7 @@ C
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -12886,7 +12886,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13648&#34;&gt;Dan Straily&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12917,14 +12917,14 @@ WAR
 2.99
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.91
+2.90
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13641&#34;&gt;Adrian Sampson&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12962,7 +12962,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8167&#34;&gt;Park Se-woong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -12990,17 +12990,17 @@ WAR
 5.21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.44
+5.43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.51
+0.52
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4716&#34;&gt;Lee In-bok&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13038,7 +13038,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4408&#34;&gt;Park Jin-hyung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13076,7 +13076,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/124&#34;&gt;Noh Kyung-eun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13112,9 +13112,47 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/516&#34;&gt;Kim Dae-woo&lt;/a&gt;
+&lt;a href=&#34;/players/8692&#34;&gt;Kim Won-joong&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+23.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.221
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.82
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.35
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/516&#34;&gt;Kim Dae-woo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13150,47 +13188,47 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8692&#34;&gt;Kim Won-joong&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-27
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-22
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0
+&lt;a href=&#34;/players/12556&#34;&gt;Seo Jun-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-23.2
+20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.1
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+58.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.8
+0.281
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.221
+4.30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.14
+5.82
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.83
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.35
+0.32
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4114&#34;&gt;Koo Seung-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13226,47 +13264,9 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12556&#34;&gt;Seo Jun-won&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-11
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-58.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.4
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.281
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.83
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.31
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/670&#34;&gt;Song Seung-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13304,7 +13304,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11506&#34;&gt;Lee Seung-heon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13342,7 +13342,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13662&#34;&gt;Choi Jun-yong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13380,7 +13380,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4226&#34;&gt;Kim Yoo-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13418,7 +13418,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1265&#34;&gt;Jang Won-sam&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13456,7 +13456,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13627&#34;&gt;Park Myeong-hyeon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13494,7 +13494,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/264&#34;&gt;Oh Hyun-taek&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13532,7 +13532,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/866&#34;&gt;Jin Myung-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13560,7 +13560,7 @@ WAR
 9.00
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.03
+6.04
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.10
@@ -13570,7 +13570,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10533&#34;&gt;Kang Dong-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13608,7 +13608,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/614&#34;&gt;Park Shi-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13646,7 +13646,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4961&#34;&gt;Choi Young-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13684,7 +13684,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6305&#34;&gt;Ko Hyo-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -13800,28 +13800,28 @@ RF
 251
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1
+15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.880
+0.971
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.0
+7.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.6
+28.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.438
+0.285
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.183
+0.397
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-123.9
+144.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.37
+2.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -14697,7 +14697,7 @@ IF
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -14737,7 +14737,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7698&#34;&gt;Koo Chang-mo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14765,17 +14765,17 @@ WAR
 1.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.40
+2.39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.04
+3.07
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12920&#34;&gt;Drew Rucinski&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14813,7 +14813,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13879&#34;&gt;Mike Wright&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14841,17 +14841,17 @@ WAR
 3.92
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.04
+5.03
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.76
+0.78
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3932&#34;&gt;Lee Jae-hak&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14889,7 +14889,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4401&#34;&gt;Park Jin-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14917,7 +14917,7 @@ WAR
 4.50
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.50
+4.49
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.19
@@ -14927,7 +14927,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12955&#34;&gt;Song Myung-gi&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14965,7 +14965,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3848&#34;&gt;Won Jong-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -14996,14 +14996,14 @@ WAR
 4.61
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.16
+0.17
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3988&#34;&gt;Im Jung-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15031,7 +15031,7 @@ WAR
 5.21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.51
+4.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.14
@@ -15041,7 +15041,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3204&#34;&gt;Kang Yoon-gu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15069,7 +15069,7 @@ WAR
 5.14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.85
+4.86
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.05
@@ -15079,7 +15079,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3708&#34;&gt;Kim Jin-sung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15117,7 +15117,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3995&#34;&gt;Im Chang-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15155,7 +15155,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10603&#34;&gt;Kim Jin-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15193,7 +15193,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/894&#34;&gt;Hong Sung-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15231,7 +15231,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12934&#34;&gt;Bae Min-seo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15269,7 +15269,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4009&#34;&gt;Jang Hyun-shik&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15307,7 +15307,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12&#34;&gt;Kang Dong-yeon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15345,7 +15345,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4436&#34;&gt;Bae Jae-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15376,14 +15376,14 @@ WAR
 6.08
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.20
+-0.21
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9217&#34;&gt;Choi Sung-young&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15411,17 +15411,17 @@ WAR
 4.93
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.88
+6.89
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.22
+-0.23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11807&#34;&gt;Kim Young-gyu&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15459,7 +15459,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8538&#34;&gt;Hong Sung-moo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -15497,7 +15497,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7544&#34;&gt;Kim Geon-tae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16328,10 +16328,10 @@ LF
 0.273
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-66.5
+66.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.07
+-0.08
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -16633,7 +16633,7 @@ RF
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -16673,7 +16673,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13683&#34;&gt;David Buchanan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16711,7 +16711,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12619&#34;&gt;Won Tae-in&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16749,7 +16749,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11919&#34;&gt;Choi Chae-heung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16777,17 +16777,17 @@ WAR
 4.02
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.03
+5.02
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.80
+0.81
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1111&#34;&gt;Baek Jung-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16825,7 +16825,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10722&#34;&gt;Choi Ji-gwang&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16853,7 +16853,7 @@ WAR
 2.19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.24
+3.25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.55
@@ -16863,7 +16863,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2497&#34;&gt;Woo Kyu-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 35
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16901,7 +16901,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4177&#34;&gt;Kim Dae-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16939,7 +16939,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7873&#34;&gt;Hong Jung-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -16977,7 +16977,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/936&#34;&gt;Kwon Oh-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17015,7 +17015,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12031&#34;&gt;Kim Yoon-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17053,7 +17053,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3736&#34;&gt;Noh Sung-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17091,7 +17091,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1174&#34;&gt;Oh Seung-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17119,7 +17119,7 @@ WAR
 5.68
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.30
+5.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.03
@@ -17129,7 +17129,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13704&#34;&gt;Heo Yoon-dong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17167,7 +17167,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10715&#34;&gt;Jang Ji-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 23
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17205,7 +17205,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13571&#34;&gt;Ben Lively&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17233,17 +17233,17 @@ WAR
 5.40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.90
+6.80
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.02
+-0.01
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1195&#34;&gt;Yoon Sung-hwan&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17281,7 +17281,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4814&#34;&gt;Im Hyun-joon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17319,7 +17319,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13697&#34;&gt;Lee Seung-min&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17357,7 +17357,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6921&#34;&gt;Jang Pil-joon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17395,7 +17395,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13718&#34;&gt;Hwang Dong-jae&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17433,7 +17433,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4695&#34;&gt;Lee Seung-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -17461,10 +17461,10 @@ WAR
 5.09
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.68
+6.66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.24
+-0.23
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -18141,7 +18141,7 @@ C
 0.250
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-41.7
+41.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.22
@@ -18264,7 +18264,7 @@ LF
 0.320
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-47.9
+47.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.24
@@ -18569,7 +18569,7 @@ SS
 &lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Name
 &lt;/th&gt;
-&lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+&lt;th style=&#34;text-align:left;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
 Age
 &lt;/th&gt;
 &lt;th style=&#34;text-align:right;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
@@ -18609,7 +18609,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2847&#34;&gt;Moon Seung-won&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18637,7 +18637,7 @@ WAR
 3.25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.58
+3.59
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.00
@@ -18647,7 +18647,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7425&#34;&gt;Park Jong-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18675,17 +18675,17 @@ WAR
 5.20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.22
+4.21
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.32
+1.34
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13858&#34;&gt;Ricardo Pinto&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18713,7 +18713,7 @@ WAR
 4.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.78
+4.79
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.09
@@ -18723,7 +18723,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8769&#34;&gt;Lee Geon-wook&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18751,17 +18751,17 @@ WAR
 3.08
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.37
+4.38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.87
+0.86
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4345&#34;&gt;Park Min-ho&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18799,7 +18799,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4247&#34;&gt;Kim Jung-bin&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 26
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18827,17 +18827,17 @@ WAR
 1.32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.02
+4.01
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.34
+0.35
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/4926&#34;&gt;Jo Young-woo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 25
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18875,7 +18875,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/1678&#34;&gt;Lee Tae-yang&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18913,7 +18913,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13851&#34;&gt;Nick Kingham&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18951,7 +18951,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8762&#34;&gt;Kim Tae-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -18989,7 +18989,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7446&#34;&gt;Seo Jin-yong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 28
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19017,7 +19017,7 @@ WAR
 4.72
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.10
+5.11
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.05
@@ -19027,7 +19027,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2917&#34;&gt;Park Hee-soo&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 37
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19065,7 +19065,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/6816&#34;&gt;Kim Ju-on&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19103,7 +19103,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12871&#34;&gt;Ha Jae-hoon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 30
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19141,7 +19141,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/2455&#34;&gt;Shin Jae-woong&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 38
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19179,7 +19179,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/3295&#34;&gt;Kim Se-hyun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19217,7 +19217,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7551&#34;&gt;Kim Taek-hyung&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 24
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19255,7 +19255,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/9371&#34;&gt;Kim Joo-han&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 27
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19293,7 +19293,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10778&#34;&gt;Lee Won-jun&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19331,7 +19331,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12857&#34;&gt;Baek Seung-geon&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
@@ -19369,7 +19369,7 @@ WAR
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/8874&#34;&gt;Jung Young-il&lt;/a&gt;
 &lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;

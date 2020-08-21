@@ -1,10 +1,10 @@
 ---
 title: Kim Byung-hee | 김병희
-subtitle: KT Wiz | 3B
+subtitle: KT Wiz | IF
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 d <- subset(d, Code == "8055", select = c(-Name, -KName, -Position, -Code, -Url))
 d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")

@@ -1,10 +1,10 @@
 ---
 title: Lee Sung-yeol | 이성열
-subtitle: Hanwha Eagles | 1B
+subtitle: Hanwha Eagles | IF
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 d <- subset(d, Code == "3519", select = c(-Name, -KName, -Position, -Code, -Url))
 d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")

@@ -1,10 +1,10 @@
 ---
 title: Kim Geon-tae | 김건태
-subtitle: NC Dinos | P
+subtitle: NC Dinos | RHP
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
 d <- subset(d, Code == "7544", select = c(-Name, -KName, -Position, -Code, -Url))
 d <- subset(d, Year > 2013)

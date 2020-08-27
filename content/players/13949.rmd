@@ -1,10 +1,10 @@
 ---
 title: Lee Kang-jun | 이강준
-subtitle: KT Wiz | P
+subtitle: KT Wiz | RHP
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
 d <- subset(d, Code == "13949", select = c(-Name, -KName, -Position, -Code, -Url))
 d <- subset(d, Year > 2013)

@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 5.18 |
-| 2 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 5.16 |
+| 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 5.24 |
+| 2 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 5.18 |
 | 3 | [**Dan Straily**](/players/13648) | [Lotte Giants](/teams/LotteGiants) | RHP | 4.87 |
-| 4 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | 1B | 4.55 |
-| 5 | [**Preston Tucker**](/players/13529) | [Kia Tigers](/teams/KiaTigers) | RF | 4.08 |
+| 4 | [**José Miguel Fernández**](/players/12514) | [Doosan Bears](/teams/DoosanBears) | 1B | 4.52 |
+| 5 | [**Kim Ha-seong**](/players/5353) | [Kiwoom Heroes](/teams/KiwoomHeroes) | SS | 4.12 |

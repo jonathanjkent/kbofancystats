@@ -1372,44 +1372,6 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-21
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-20
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-34
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.313
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6.35
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.85
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.40
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -1441,6 +1403,44 @@ WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.40
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+34.0
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.313
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6.35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.85
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.40
@@ -1709,7 +1709,7 @@ WAR
 4.82
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.01
+-0.02
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -3673,10 +3673,10 @@ WAR
 5.36
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.78
+4.79
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.91
+1.90
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5137,7 +5137,7 @@ C
 0.287
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-89.2
+89.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.37
@@ -6040,7 +6040,7 @@ WAR
 4.05
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.42
+3.43
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3.45
@@ -6212,7 +6212,7 @@ WAR
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-45
+45.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 12.2
@@ -6230,10 +6230,10 @@ WAR
 2.60
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.39
+3.40
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.79
+0.78
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -7718,7 +7718,7 @@ IF
 0.333
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-75.3
+75.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.00
@@ -8155,7 +8155,7 @@ WAR
 22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-135
+135.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6.3
@@ -8173,10 +8173,10 @@ WAR
 2.07
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.32
+3.33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.86
+3.85
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -8287,7 +8287,7 @@ WAR
 2.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.73
+2.72
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.13
@@ -8459,7 +8459,7 @@ WAR
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-54
+54.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5.0
@@ -10735,7 +10735,7 @@ WAR
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-56
+56.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5.3
@@ -10811,7 +10811,7 @@ WAR
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-32
+32.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5.1
@@ -11115,7 +11115,7 @@ WAR
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-12
+12.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7.5
@@ -11323,7 +11323,7 @@ WAR
 7.04
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.46
+7.47
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.34
@@ -12001,7 +12001,7 @@ OF
 0.375
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-100.3
+100.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.19
@@ -12658,7 +12658,7 @@ WAR
 4.05
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.53
+1.51
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -12769,7 +12769,7 @@ WAR
 3.89
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.16
+3.15
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.74
@@ -12865,7 +12865,7 @@ WAR
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-26
+26.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 10.7
@@ -12959,7 +12959,7 @@ WAR
 3.94
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.18
+4.17
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.30
@@ -14779,7 +14779,7 @@ WAR
 4.31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.94
+4.95
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.69
@@ -16293,7 +16293,7 @@ C
 0.394
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-94.6
+94.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.13
@@ -16334,7 +16334,7 @@ C
 0.329
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-84.3
+84.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.11
@@ -17514,7 +17514,7 @@ WAR
 4.91
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.65
+5.66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.11
@@ -17780,7 +17780,7 @@ WAR
 6.67
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.52
+7.54
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.44
@@ -18868,10 +18868,10 @@ LF
 0.274
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-68.7
+68.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
--0.29
+-0.30
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -19176,7 +19176,7 @@ WAR
 16
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-81
+81.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 7.8
@@ -19194,7 +19194,7 @@ WAR
 4.33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.86
+4.87
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.34
@@ -19311,7 +19311,7 @@ WAR
 3.80
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.56
+0.57
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -21203,7 +21203,7 @@ OF
 0.299
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-60.4
+60.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.40
@@ -21508,7 +21508,7 @@ WAR
 20
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-104
+104.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6.7
@@ -21526,7 +21526,7 @@ WAR
 5.19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.15
+5.17
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 1.07
@@ -21868,7 +21868,7 @@ WAR
 5.68
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.69
+6.72
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.09
@@ -22192,7 +22192,7 @@ WAR
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-14
+14.0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 6.4
@@ -22248,7 +22248,7 @@ WAR
 6.83
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6.82
+6.81
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 -0.41

@@ -24,6 +24,11 @@
   weight = 30
 
 [[main]]
+  name = "Playoffs"
+  url = "playoffs/"
+  weight = 35
+
+[[main]]
   name = "FAQ"
   url = "faq/"
   weight = 40

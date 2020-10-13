@@ -1,0 +1,350 @@
+---
+date: "2020-03-02"
+title: What do these fancy stats mean?
+summary: "WAR? wRC+? FIP?"
+---
+
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
+
+<p>Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they are calculated, and the cutting edge of baseball analytics, we recommend <a href="https://library.fangraphs.com/">FanGraphs’ library</a>. Are you just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the <a href="#quartiles">quartiles</a> at the end.</p>
+<p><strong>Stats</strong> | <a href="#babip">BABIP</a> | <a href="#bbso">BB% &amp; SO%</a> | <a href="#bbkhr">BB/9, K/9 &amp; HR/9</a> | <a href="#iso">ISO</a> | <a href="#fip">FIP</a> | <a href="#ops">OPS</a> | <a href="#wrc">wRC+</a> | <a href="#war">WAR</a> |</p>
+<p><strong>More Context</strong> | <a href="#quartiles">Quartiles</a> | <a href="#dist">WAR Distribution</a> |</p>
+<hr />
+<div id="babip" class="section level3">
+<h3>BABIP</h3>
+<p><em>Batting Average on Balls In Play.</em> The concept of BABIP is simple, it is just batting average but with home runs and strikeouts removed from the equation. But why should we care? As it turns out, hitters don’t have much control over whether a batted ball falls in for a hit or not, and pitchers have even less control. Instead, it is mostly a product of defense or luck, though hitting the ball hard does help. This means that BABIP tends to regress toward the league average of .300, especially for pitchers. A higher BABIP early in a season probably means that a hitter has been a bit lucky or a pitcher has been a bit unlucky. BABIP is especially useful for assessing whether hot or cold streaks are for real or likely to evaporate.</p>
+</div>
+<div id="bbso" class="section level3">
+<h3>BB% &amp; SO%</h3>
+<p>Our batting stats include walk rate and strikeout rate, to give an idea of a hitters general skill set. Check out the quartiles below for helpful context.</p>
+</div>
+<div id="bbkhr" class="section level3">
+<h3>BB/9, K/9 &amp; HR/9</h3>
+<p>For pitchers, we include rate stats for each of the “three true outcomes,” the name given to walks, strikeouts, and home runs, because they are the three things a pitcher can control himself—the defense plays a role in everything else.</p>
+</div>
+<div id="iso" class="section level3">
+<h3>ISO</h3>
+<p><em>Isolated Power.</em> ISO is simply slugging percentage minus batting average. It is a quick way to identify a slugger. For example, a high strikeout rate might not look so bad if paired with an elite ISO.</p>
+</div>
+<div id="fip" class="section level3">
+<h3>FIP</h3>
+<p><em>Fielding Independent Pitching.</em> FIP attempts to recalculate ERA with the influence of defense removed. It is based on the three true outcomes (see above) and scaled to look just like ERA. In fact, FIP is usually a better predictor of future ERA than ERA itself. Even better than FIP is xFIP, which observes that pitchers have more control over fly balls than home runs and is calculated using <em>expected</em> home runs, based on flyball rate. Unfortunately, we do not have access to fly ball rate for KBO pitchers yet.</p>
+</div>
+<div id="ops" class="section level3">
+<h3>OPS</h3>
+<p><em>On-base Plus Slugging.</em> OPS is a classic of the earlier days of advanced stats in baseball. While we now have more theoretically thoughtful measures, adding OBP to SLG still gives a decent measure of a hitters performance. Best of all, 1.000 just happens to be a nice round beachmark of elite status.</p>
+</div>
+<div id="wrc" class="section level3">
+<h3>wRC+</h3>
+<p><em>Weighted Runs Created Plus</em>. Here is where things get complicated, but the result is a beautifully scaled measure of a batter’s contribution to his team so bear with us. The starting point is Runs Created, an innovation of the founder of advanced sports stats, Bill James. The idea is to determine how many runs each event (walks, doubles, etc.) is worth on average, and then calculate how many runs each hitter is responsible for. We take RC and adjust it by year, league, and ballpark so that the average wRC+ is 100 and each point above or below that is equal to a 1% difference. That means that in 2019, Kim Hyun-soo (wRC+: 118.5) created 18.5% more runs than the average hitter, holding plate appearances equal.</p>
+</div>
+<div id="war" class="section level3">
+<h3>WAR</h3>
+<p><em>Wins Above Replacement</em>. WAR is simpler in concept than in calculation. A player’s WAR is the number of games his team won thanks to him. For example, if the Doosan Bears didn’t have Kim Jae-ho (WAR: 3.01) in 2019—and instead had a freely available, replacement-level player—they would have won three fewer games. How do we know that? For hitters, we base WAR on the same concept as wRC+. We determine how many runs that player is responsible for and compare it to the number of runs a team needs, on average, to win. That number is then scaled to replacement level. Baseball Reference and FanGraphs have agreed that a team of replacement-level players should win about 30% of their games, and we set replacement level using their method. Ideally, a batter’s WAR should also include his defensive and baserunning contributions, but modern WAR uses radar and video analysis data which is not publically available for the KBO. Our WAR, then, is only their contributions at the plate, with an adjustment for stolen bases and caught stealings. For pitchers, WAR is more straightforward. It is essentially FIP adjusted for park factor and rescaled so that it is equivalent to hitters’ WAR. For all players, WAR is cumulative, so when comparing two players, one of whom was injured for a long period or arrived mid-season, other stats are probably more useful.</p>
+<hr />
+</div>
+<div id="quartiles" class="section level3">
+<h3>Quartiles</h3>
+<p>Yeah alright, but how many WAR is good? What does a big slugger’s ISO look like? Should I be concerned about our shortstop’s strikeout rate? Unfortunately, interpretation often isn’t so straightforward, but hopefully these tables help contextualize the fancy stats. We’ve left out wRC+, which has its context built in.</p>
+<strong>2019 Qualified Batters</strong>
+<table class="table table-striped table-hover" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Stat
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Lowest
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+25%
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Median
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+75%
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Highest
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+BABIP
+</td>
+<td style="text-align:left;">
+0.252
+</td>
+<td style="text-align:left;">
+0.302
+</td>
+<td style="text-align:left;">
+0.316
+</td>
+<td style="text-align:left;">
+0.336
+</td>
+<td style="text-align:left;">
+0.392
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+BB%
+</td>
+<td style="text-align:left;">
+3.5
+</td>
+<td style="text-align:left;">
+7.6
+</td>
+<td style="text-align:left;">
+9.3
+</td>
+<td style="text-align:left;">
+11
+</td>
+<td style="text-align:left;">
+15.3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+SO%
+</td>
+<td style="text-align:left;">
+5.8
+</td>
+<td style="text-align:left;">
+11.7
+</td>
+<td style="text-align:left;">
+14.1
+</td>
+<td style="text-align:left;">
+17.4
+</td>
+<td style="text-align:left;">
+23.9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+ISO
+</td>
+<td style="text-align:left;">
+0.026
+</td>
+<td style="text-align:left;">
+0.090
+</td>
+<td style="text-align:left;">
+0.126
+</td>
+<td style="text-align:left;">
+0.178
+</td>
+<td style="text-align:left;">
+0.280
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+OPS
+</td>
+<td style="text-align:left;">
+0.588
+</td>
+<td style="text-align:left;">
+0.718
+</td>
+<td style="text-align:left;">
+0.771
+</td>
+<td style="text-align:left;">
+0.84
+</td>
+<td style="text-align:left;">
+1.012
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+WAR
+</td>
+<td style="text-align:left;">
+-0.52
+</td>
+<td style="text-align:left;">
+1.58
+</td>
+<td style="text-align:left;">
+2.48
+</td>
+<td style="text-align:left;">
+4.05
+</td>
+<td style="text-align:left;">
+6.14
+</td>
+</tr>
+</tbody>
+</table>
+<strong>2019 Qualified Pitchers</strong>
+<table class="table table-striped table-hover" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Stat
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Lowest
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+25%
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Median
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+75%
+</th>
+<th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;">
+Highest
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+BABIP
+</td>
+<td style="text-align:left;">
+0.143
+</td>
+<td style="text-align:left;">
+0.283
+</td>
+<td style="text-align:left;">
+0.311
+</td>
+<td style="text-align:left;">
+0.345
+</td>
+<td style="text-align:left;">
+0.615
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+BB/9
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+2.4
+</td>
+<td style="text-align:left;">
+3.6
+</td>
+<td style="text-align:left;">
+5.2
+</td>
+<td style="text-align:left;">
+18
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+SO/9
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+5.2
+</td>
+<td style="text-align:left;">
+6.3
+</td>
+<td style="text-align:left;">
+7.9
+</td>
+<td style="text-align:left;">
+13.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+HR/9
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0.3
+</td>
+<td style="text-align:left;">
+0.6
+</td>
+<td style="text-align:left;">
+1.1
+</td>
+<td style="text-align:left;">
+1.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+FIP
+</td>
+<td style="text-align:left;">
+1.35
+</td>
+<td style="text-align:left;">
+3.63
+</td>
+<td style="text-align:left;">
+4.35
+</td>
+<td style="text-align:left;">
+5.16
+</td>
+<td style="text-align:left;">
+19.85
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;">
+WAR
+</td>
+<td style="text-align:left;">
+-1.21
+</td>
+<td style="text-align:left;">
+-0.11
+</td>
+<td style="text-align:left;">
+0.11
+</td>
+<td style="text-align:left;">
+0.66
+</td>
+<td style="text-align:left;">
+5.97
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dist" class="section level3">
+<h3>WAR Distribution</h3>
+<p>Distribution of single-season WAR for all qualifying batters and pitchers.
+<img src="public/faq/stats_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+</div>

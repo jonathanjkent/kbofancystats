@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats by Team, 2020 Season on KBO Fancy Stats</title>
-    <link>/teams/</link>
+    <link>https://kbofancystats.com/teams/</link>
     <description>Recent content in Stats by Team, 2020 Season on KBO Fancy Stats</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>All logos are the property of their respective organizations.</copyright>
     <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/teams/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://kbofancystats.com/teams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Doosan Bears</title>
-      <link>/teams/doosanbears/</link>
+      <link>https://kbofancystats.com/teams/doosanbears/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/doosanbears/</guid>
+      <guid>https://kbofancystats.com/teams/doosanbears/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -74,7 +74,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12514&#34;&gt;José Miguel Fernández&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12514&#34;&gt;José Miguel Fernández&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -115,7 +115,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/103&#34;&gt;Kim Jae-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/103&#34;&gt;Kim Jae-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -156,7 +156,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/250&#34;&gt;Oh Jae-il&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/250&#34;&gt;Oh Jae-il&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -197,7 +197,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/145&#34;&gt;Park Kun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/145&#34;&gt;Park Kun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -238,7 +238,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/425&#34;&gt;Choi Joo-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/425&#34;&gt;Choi Joo-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -279,7 +279,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/453&#34;&gt;Hur Kyoung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/453&#34;&gt;Hur Kyoung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -320,7 +320,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/390&#34;&gt;Jung Soo-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/390&#34;&gt;Jung Soo-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -361,7 +361,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/96&#34;&gt;Kim Jae-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/96&#34;&gt;Kim Jae-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -402,7 +402,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/159&#34;&gt;Park Se-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/159&#34;&gt;Park Se-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -443,7 +443,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10330&#34;&gt;Lee Yoo-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10330&#34;&gt;Lee Yoo-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -484,7 +484,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/89&#34;&gt;Kim In-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/89&#34;&gt;Kim In-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -525,7 +525,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/243&#34;&gt;Oh Jae-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/243&#34;&gt;Oh Jae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -566,7 +566,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8783&#34;&gt;Shin Sung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8783&#34;&gt;Shin Sung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -607,7 +607,7 @@ RHP
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5234&#34;&gt;Choi Yong-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5234&#34;&gt;Choi Yong-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -648,7 +648,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/376&#34;&gt;Jang Seung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/376&#34;&gt;Jang Seung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -689,7 +689,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14040&#34;&gt;Yang Chan-yeol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14040&#34;&gt;Yang Chan-yeol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -730,7 +730,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8895&#34;&gt;Seo Ye-il&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8895&#34;&gt;Seo Ye-il&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -771,7 +771,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/642&#34;&gt;Baek Dong-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/642&#34;&gt;Baek Dong-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -812,7 +812,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11408&#34;&gt;Kwon Min-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11408&#34;&gt;Kwon Min-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -853,7 +853,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14047&#34;&gt;Oh Myung-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14047&#34;&gt;Oh Myung-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -894,7 +894,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/26&#34;&gt;Kuk Hae-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/26&#34;&gt;Kuk Hae-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -935,7 +935,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13578&#34;&gt;Ahn Gwon-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13578&#34;&gt;Ahn Gwon-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -976,7 +976,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8916&#34;&gt;Jo Su-haeng&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8916&#34;&gt;Jo Su-haeng&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -1017,7 +1017,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3092&#34;&gt;Chung Sang-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3092&#34;&gt;Chung Sang-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -1106,7 +1106,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12997&#34;&gt;Raul Alcántara&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12997&#34;&gt;Raul Alcántara&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -1144,7 +1144,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13613&#34;&gt;Chris Flexen&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13613&#34;&gt;Chris Flexen&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -1182,7 +1182,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/439&#34;&gt;Ham Duk-joo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/439&#34;&gt;Ham Duk-joo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -1220,7 +1220,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/292&#34;&gt;Yu Hui-kwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/292&#34;&gt;Yu Hui-kwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -1258,7 +1258,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4688&#34;&gt;Lee Seung-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4688&#34;&gt;Lee Seung-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -1296,7 +1296,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9427&#34;&gt;Lee Young-ha&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9427&#34;&gt;Lee Young-ha&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -1334,7 +1334,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10820&#34;&gt;Choi Won-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10820&#34;&gt;Choi Won-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -1372,7 +1372,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10316&#34;&gt;Park Chi-guk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -1410,7 +1410,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4786&#34;&gt;Lee Hyun-seung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4786&#34;&gt;Lee Hyun-seung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 37
@@ -1448,7 +1448,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11415&#34;&gt;Kim Min-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -1486,7 +1486,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7915&#34;&gt;Hong Gun-hee&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7915&#34;&gt;Hong Gun-hee&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -1524,7 +1524,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/943&#34;&gt;Kwon Hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/943&#34;&gt;Kwon Hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 37
@@ -1562,7 +1562,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11429&#34;&gt;Park Shin-ji&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11429&#34;&gt;Park Shin-ji&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -1600,7 +1600,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/33&#34;&gt;Kim Kang-ryul&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/33&#34;&gt;Kim Kang-ryul&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -1638,7 +1638,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4394&#34;&gt;Park Jong-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4394&#34;&gt;Park Jong-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -1676,7 +1676,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/299&#34;&gt;Yoon Myung-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/299&#34;&gt;Yoon Myung-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -1714,7 +1714,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14012&#34;&gt;Kwon Hwi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14012&#34;&gt;Kwon Hwi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -1752,7 +1752,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13606&#34;&gt;Choi Se-chang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13606&#34;&gt;Choi Se-chang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -1790,7 +1790,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6536&#34;&gt;Chae Ji-sun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6536&#34;&gt;Chae Ji-sun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -1828,7 +1828,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13585&#34;&gt;Lee Ju-yeop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13585&#34;&gt;Lee Ju-yeop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -1866,7 +1866,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12486&#34;&gt;Lee Gyo-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12486&#34;&gt;Lee Gyo-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -1904,7 +1904,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14054&#34;&gt;Jo Je-yeong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14054&#34;&gt;Jo Je-yeong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -1942,7 +1942,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4835&#34;&gt;Jang Won-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4835&#34;&gt;Jang Won-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -1980,7 +1980,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/313&#34;&gt;Lee Yong-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/313&#34;&gt;Lee Yong-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -2018,7 +2018,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10281&#34;&gt;Kim Myung-shin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10281&#34;&gt;Kim Myung-shin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -2056,7 +2056,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10288&#34;&gt;Moon Dae-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10288&#34;&gt;Moon Dae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -2094,7 +2094,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3974&#34;&gt;Lee Hyung-bum&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3974&#34;&gt;Lee Hyung-bum&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -2138,13 +2138,13 @@ WAR
     
     <item>
       <title>Hanwha Eagles</title>
-      <link>/teams/hanwhaeagles/</link>
+      <link>https://kbofancystats.com/teams/hanwhaeagles/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/hanwhaeagles/</guid>
+      <guid>https://kbofancystats.com/teams/hanwhaeagles/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -2198,7 +2198,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2175&#34;&gt;Lee Yong-kyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2175&#34;&gt;Lee Yong-kyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -2239,7 +2239,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/418&#34;&gt;Choi Jae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/418&#34;&gt;Choi Jae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -2280,7 +2280,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11926&#34;&gt;Jung Eun-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11926&#34;&gt;Jung Eun-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -2321,7 +2321,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14712&#34;&gt;Brandon Barnes&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14712&#34;&gt;Brandon Barnes&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -2362,7 +2362,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5262&#34;&gt;Kang Kyung-hak&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5262&#34;&gt;Kang Kyung-hak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -2403,7 +2403,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6515&#34;&gt;Jung Jin-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6515&#34;&gt;Jung Jin-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -2444,7 +2444,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5920&#34;&gt;Kim Min-ha&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5920&#34;&gt;Kim Min-ha&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -2485,7 +2485,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1804&#34;&gt;Choi Jin-haeng&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1804&#34;&gt;Choi Jin-haeng&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -2526,7 +2526,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1818&#34;&gt;Ha Ju-suk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1818&#34;&gt;Ha Ju-suk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -2567,7 +2567,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12661&#34;&gt;Noh Si-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12661&#34;&gt;Noh Si-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -2608,7 +2608,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3540&#34;&gt;Lee Hae-chang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3540&#34;&gt;Lee Hae-chang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -2649,7 +2649,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14222&#34;&gt;Park Jung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14222&#34;&gt;Park Jung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -2690,7 +2690,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1517&#34;&gt;Song Kwang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1517&#34;&gt;Song Kwang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 37
@@ -2731,7 +2731,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/523&#34;&gt;Kim Moon-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/523&#34;&gt;Kim Moon-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -2772,7 +2772,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13228&#34;&gt;Jo Han-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13228&#34;&gt;Jo Han-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -2813,7 +2813,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2721&#34;&gt;Choi Seung-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2721&#34;&gt;Choi Seung-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -2854,7 +2854,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13200&#34;&gt;Kim Hyun-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13200&#34;&gt;Kim Hyun-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -2895,7 +2895,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5969&#34;&gt;Noh Soo-kwang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5969&#34;&gt;Noh Soo-kwang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -2936,7 +2936,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14229&#34;&gt;Lim Jong-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14229&#34;&gt;Lim Jong-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -2977,7 +2977,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1573&#34;&gt;Yang Sung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1573&#34;&gt;Yang Sung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -3018,7 +3018,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7026&#34;&gt;Lee Do-yun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7026&#34;&gt;Lee Do-yun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -3059,7 +3059,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5374&#34;&gt;Kim Hoe-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5374&#34;&gt;Kim Hoe-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -3100,7 +3100,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1727&#34;&gt;Jang Woon-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1727&#34;&gt;Jang Woon-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -3141,7 +3141,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6592&#34;&gt;Kim Ji-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6592&#34;&gt;Kim Ji-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -3182,7 +3182,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9546&#34;&gt;Jang Jin-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9546&#34;&gt;Jang Jin-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -3223,7 +3223,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5689&#34;&gt;Jeong Gi-hun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5689&#34;&gt;Jeong Gi-hun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -3264,7 +3264,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5500&#34;&gt;Park Han-gyul&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5500&#34;&gt;Park Han-gyul&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -3305,7 +3305,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9490&#34;&gt;Park Sang-eon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9490&#34;&gt;Park Sang-eon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -3346,7 +3346,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5402&#34;&gt;No Tae-hyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5402&#34;&gt;No Tae-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -3387,7 +3387,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1440&#34;&gt;Kim Tae-kyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1440&#34;&gt;Kim Tae-kyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -3428,7 +3428,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3519&#34;&gt;Lee Sung-yeol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3519&#34;&gt;Lee Sung-yeol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 36
@@ -3469,7 +3469,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12689&#34;&gt;Yoo Jang-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12689&#34;&gt;Yoo Jang-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -3510,7 +3510,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11933&#34;&gt;Jared Hoying&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11933&#34;&gt;Jared Hoying&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -3551,7 +3551,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1594&#34;&gt;Oh Sun-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1594&#34;&gt;Oh Sun-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -3592,7 +3592,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8965&#34;&gt;Lee Dong-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8965&#34;&gt;Lee Dong-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -3633,7 +3633,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14250&#34;&gt;Choi In-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14250&#34;&gt;Choi In-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -3722,7 +3722,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12682&#34;&gt;Warwick Saupold&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12682&#34;&gt;Warwick Saupold&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -3760,7 +3760,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6928&#34;&gt;Kim Min-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6928&#34;&gt;Kim Min-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -3798,7 +3798,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3561&#34;&gt;Jang Shi-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3561&#34;&gt;Jang Shi-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -3836,7 +3836,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14180&#34;&gt;Kang Jae-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14180&#34;&gt;Kang Jae-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -3874,7 +3874,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12710&#34;&gt;Chad Bell&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12710&#34;&gt;Chad Bell&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -3912,7 +3912,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8573&#34;&gt;Jung Woo-ram&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8573&#34;&gt;Jung Woo-ram&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -3950,7 +3950,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8587&#34;&gt;Jang Min-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8587&#34;&gt;Jang Min-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -3988,7 +3988,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10372&#34;&gt;Kim Jin-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10372&#34;&gt;Kim Jin-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -4026,7 +4026,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10841&#34;&gt;Park Sang-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10841&#34;&gt;Park Sang-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -4064,7 +4064,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1188&#34;&gt;Yoon Dae-kyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1188&#34;&gt;Yoon Dae-kyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -4102,7 +4102,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2441&#34;&gt;Song Yoon-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2441&#34;&gt;Song Yoon-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -4140,7 +4140,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4604&#34;&gt;Yoon Kyu-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4604&#34;&gt;Yoon Kyu-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 36
@@ -4178,7 +4178,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2224&#34;&gt;Im Joon-seop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2224&#34;&gt;Im Joon-seop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -4216,7 +4216,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2462&#34;&gt;Shin Jung-rak&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2462&#34;&gt;Shin Jung-rak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -4254,7 +4254,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13739&#34;&gt;Han Seung-ju&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13739&#34;&gt;Han Seung-ju&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -4292,7 +4292,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10827&#34;&gt;Kim Ki-tak&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10827&#34;&gt;Kim Ki-tak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -4330,7 +4330,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4527&#34;&gt;Ahn Young-myung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4527&#34;&gt;Ahn Young-myung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 36
@@ -4368,7 +4368,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5038&#34;&gt;Hwang Young-guk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5038&#34;&gt;Hwang Young-guk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -4406,7 +4406,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1433&#34;&gt;Kim Jong-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1433&#34;&gt;Kim Jong-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -4444,7 +4444,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11597&#34;&gt;Park Joo-hong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11597&#34;&gt;Park Joo-hong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -4482,7 +4482,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3883&#34;&gt;Yoon Ho-sol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3883&#34;&gt;Yoon Ho-sol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -4520,7 +4520,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6487&#34;&gt;Lee Hyun-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6487&#34;&gt;Lee Hyun-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -4558,7 +4558,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13214&#34;&gt;Oh Dong-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13214&#34;&gt;Oh Dong-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -4596,7 +4596,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4317&#34;&gt;Moon Dong-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4317&#34;&gt;Moon Dong-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -4634,7 +4634,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6935&#34;&gt;Kim Bum-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6935&#34;&gt;Kim Bum-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -4672,7 +4672,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12654&#34;&gt;Kim Ee-whan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12654&#34;&gt;Kim Ee-whan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -4710,7 +4710,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11590&#34;&gt;Kim Jin-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11590&#34;&gt;Kim Jin-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -4754,13 +4754,13 @@ WAR
     
     <item>
       <title>Kia Tigers</title>
-      <link>/teams/kiatigers/</link>
+      <link>https://kbofancystats.com/teams/kiatigers/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/kiatigers/</guid>
+      <guid>https://kbofancystats.com/teams/kiatigers/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -4814,7 +4814,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1349&#34;&gt;Choi Hyung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1349&#34;&gt;Choi Hyung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 37
@@ -4855,7 +4855,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -4896,7 +4896,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1937&#34;&gt;Na Ji-wan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1937&#34;&gt;Na Ji-wan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -4937,7 +4937,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1881&#34;&gt;Kim Sun-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1881&#34;&gt;Kim Sun-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -4978,7 +4978,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9021&#34;&gt;Choi Won-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9021&#34;&gt;Choi Won-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -5019,7 +5019,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6473&#34;&gt;Yoo Min-sang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6473&#34;&gt;Yoo Min-sang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -5060,7 +5060,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5626&#34;&gt;Lee Chang-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5626&#34;&gt;Lee Chang-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -5101,7 +5101,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2000&#34;&gt;Baek Yong-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2000&#34;&gt;Baek Yong-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -5142,7 +5142,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6417&#34;&gt;Ryu Ji-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6417&#34;&gt;Ryu Ji-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -5183,7 +5183,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2833&#34;&gt;Na Joo-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2833&#34;&gt;Na Joo-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 36
@@ -5224,7 +5224,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1832&#34;&gt;Han Seung-taek&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1832&#34;&gt;Han Seung-taek&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -5265,7 +5265,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7096&#34;&gt;Kim Ho-ryeong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7096&#34;&gt;Kim Ho-ryeong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -5306,7 +5306,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13277&#34;&gt;Oh Seon-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13277&#34;&gt;Oh Seon-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -5347,7 +5347,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7397&#34;&gt;Kim Min-sik&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7397&#34;&gt;Kim Min-sik&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -5388,7 +5388,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7922&#34;&gt;Hwang Dae-in&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7922&#34;&gt;Hwang Dae-in&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -5429,7 +5429,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1916&#34;&gt;Kim Joo-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1916&#34;&gt;Kim Joo-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 39
@@ -5470,7 +5470,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7509&#34;&gt;Choi Jung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7509&#34;&gt;Choi Jung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -5511,7 +5511,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/320&#34;&gt;Lee Woo-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/320&#34;&gt;Lee Woo-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -5552,7 +5552,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9000&#34;&gt;Lee Jin-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9000&#34;&gt;Lee Jin-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -5593,7 +5593,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2406&#34;&gt;Moon Sun-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2406&#34;&gt;Moon Sun-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -5634,7 +5634,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1853&#34;&gt;Ko Jang-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1853&#34;&gt;Ko Jang-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -5675,7 +5675,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10421&#34;&gt;Lee Jeong-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10421&#34;&gt;Lee Jeong-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -5716,7 +5716,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7985&#34;&gt;Hwang Yoon-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7985&#34;&gt;Hwang Yoon-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -5757,7 +5757,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7656&#34;&gt;Jang Yeong-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7656&#34;&gt;Jang Yeong-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -5798,7 +5798,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7845&#34;&gt;Choi Jeong-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7845&#34;&gt;Choi Jeong-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -5839,7 +5839,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13781&#34;&gt;Hong Jong-pyo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13781&#34;&gt;Hong Jong-pyo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -5880,7 +5880,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8076&#34;&gt;Kim Young-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8076&#34;&gt;Kim Young-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -5921,7 +5921,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5346&#34;&gt;Kim Tae-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5346&#34;&gt;Kim Tae-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -5962,7 +5962,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9567&#34;&gt;Kim Gyu-seong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9567&#34;&gt;Kim Gyu-seong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -6003,7 +6003,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5486&#34;&gt;Park Chan-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5486&#34;&gt;Park Chan-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -6092,7 +6092,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13760&#34;&gt;Aaron Brooks&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13760&#34;&gt;Aaron Brooks&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -6130,7 +6130,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13746&#34;&gt;Drew Gagnon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13746&#34;&gt;Drew Gagnon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -6168,7 +6168,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -6206,7 +6206,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1699&#34;&gt;Im Ki-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1699&#34;&gt;Im Ki-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -6244,7 +6244,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7173&#34;&gt;Lee Min-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7173&#34;&gt;Lee Min-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -6282,7 +6282,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1972&#34;&gt;Park Joon-pyo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1972&#34;&gt;Park Joon-pyo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -6320,7 +6320,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9623&#34;&gt;Jeon Sang-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9623&#34;&gt;Jeon Sang-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -6358,7 +6358,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1860&#34;&gt;Ko Young-chang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1860&#34;&gt;Ko Young-chang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -6396,7 +6396,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7201&#34;&gt;Lee Joon-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7201&#34;&gt;Lee Joon-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -6434,7 +6434,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13774&#34;&gt;Jung Hae-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13774&#34;&gt;Jung Hae-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -6472,7 +6472,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/173&#34;&gt;Byun Si-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/173&#34;&gt;Byun Si-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -6510,7 +6510,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12115&#34;&gt;Kim Seung-beom&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12115&#34;&gt;Kim Seung-beom&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -6548,7 +6548,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4940&#34;&gt;Cha Myung-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4940&#34;&gt;Cha Myung-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -6586,7 +6586,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12717&#34;&gt;Kim Ki-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12717&#34;&gt;Kim Ki-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -6624,7 +6624,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8979&#34;&gt;Nam Jae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8979&#34;&gt;Nam Jae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -6662,7 +6662,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4275&#34;&gt;Kim Jae-yeol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4275&#34;&gt;Kim Jae-yeol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -6700,7 +6700,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7936&#34;&gt;Hwang In-Joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7936&#34;&gt;Hwang In-Joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -6738,7 +6738,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8972&#34;&gt;Kim Hyun-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8972&#34;&gt;Kim Hyun-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -6776,7 +6776,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8986&#34;&gt;Seo Deok-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8986&#34;&gt;Seo Deok-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -6814,7 +6814,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12535&#34;&gt;Kim Hyun-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12535&#34;&gt;Kim Hyun-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -6852,7 +6852,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/460&#34;&gt;Hong Sang-sam&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/460&#34;&gt;Hong Sang-sam&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -6890,7 +6890,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12731&#34;&gt;Yang Seung-cheol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12731&#34;&gt;Yang Seung-cheol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -6928,7 +6928,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7082&#34;&gt;Kim Myung-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7082&#34;&gt;Kim Myung-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -6966,7 +6966,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4009&#34;&gt;Jang Hyun-shik&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4009&#34;&gt;Jang Hyun-shik&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -7004,7 +7004,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10400&#34;&gt;Park Jin-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10400&#34;&gt;Park Jin-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -7048,13 +7048,13 @@ WAR
     
     <item>
       <title>Kiwoom Heroes</title>
-      <link>/teams/kiwoomheroes/</link>
+      <link>https://kbofancystats.com/teams/kiwoomheroes/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/kiwoomheroes/</guid>
+      <guid>https://kbofancystats.com/teams/kiwoomheroes/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -7108,7 +7108,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5353&#34;&gt;Kim Ha-seong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5353&#34;&gt;Kim Ha-seong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -7149,7 +7149,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10673&#34;&gt;Lee Jung-hoo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10673&#34;&gt;Lee Jung-hoo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -7190,7 +7190,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3407&#34;&gt;Seo Keon-chang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3407&#34;&gt;Seo Keon-chang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -7231,7 +7231,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10659&#34;&gt;Kim Hye-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10659&#34;&gt;Kim Hye-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -7272,7 +7272,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3365&#34;&gt;Park Byung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3365&#34;&gt;Park Byung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -7313,7 +7313,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6018&#34;&gt;Park Joon-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6018&#34;&gt;Park Joon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -7354,7 +7354,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3358&#34;&gt;Park Dong-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3358&#34;&gt;Park Dong-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -7395,7 +7395,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7978&#34;&gt;Heo Jeong-hyeop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7978&#34;&gt;Heo Jeong-hyeop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -7436,7 +7436,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7411&#34;&gt;Kim Woong-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7411&#34;&gt;Kim Woong-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -7477,7 +7477,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1244&#34;&gt;Lee Ji-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1244&#34;&gt;Lee Ji-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -7518,7 +7518,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6746&#34;&gt;Jeon Byung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6746&#34;&gt;Jeon Byung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -7559,7 +7559,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14719&#34;&gt;Addison Russell&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14719&#34;&gt;Addison Russell&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -7600,7 +7600,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5647&#34;&gt;Lim Byeong-wuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5647&#34;&gt;Lim Byeong-wuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -7641,7 +7641,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7530&#34;&gt;Kim Eun-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7530&#34;&gt;Kim Eun-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -7682,7 +7682,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12269&#34;&gt;Byeon Sang-kwon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12269&#34;&gt;Byeon Sang-kwon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -7723,7 +7723,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13487&#34;&gt;Kim Joo-hyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13487&#34;&gt;Kim Joo-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -7764,7 +7764,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5640&#34;&gt;Lim Ji-yeol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5640&#34;&gt;Lim Ji-yeol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -7805,7 +7805,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13984&#34;&gt;Moon Chan-jong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13984&#34;&gt;Moon Chan-jong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -7846,7 +7846,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11758&#34;&gt;Kim Soo-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11758&#34;&gt;Kim Soo-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -7887,7 +7887,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7572&#34;&gt;Park Jeong-eum&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7572&#34;&gt;Park Jeong-eum&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -7928,7 +7928,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3302&#34;&gt;Kim Jae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3302&#34;&gt;Kim Jae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -7969,7 +7969,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13991&#34;&gt;Park Ju-hong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13991&#34;&gt;Park Ju-hong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -8010,7 +8010,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3533&#34;&gt;Lee Taek-keun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3533&#34;&gt;Lee Taek-keun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 40
@@ -8051,7 +8051,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7600&#34;&gt;Song Woo-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7600&#34;&gt;Song Woo-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -8092,7 +8092,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9280&#34;&gt;Ju Hyo-sang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9280&#34;&gt;Ju Hyo-sang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -8133,7 +8133,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13977&#34;&gt;Taylor Motter&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13977&#34;&gt;Taylor Motter&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -8174,7 +8174,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9931&#34;&gt;Kim Gyu-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9931&#34;&gt;Kim Gyu-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -8263,7 +8263,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12885&#34;&gt;Eric Jokisch&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12885&#34;&gt;Eric Jokisch&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -8301,7 +8301,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3624&#34;&gt;Han Hyun-hee&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3624&#34;&gt;Han Hyun-hee&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -8339,7 +8339,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11373&#34;&gt;Jake Brigham&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11373&#34;&gt;Jake Brigham&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -8377,7 +8377,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3589&#34;&gt;Jo Sang-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3589&#34;&gt;Jo Sang-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -8415,7 +8415,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3239&#34;&gt;Kim Tae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3239&#34;&gt;Kim Tae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -8453,7 +8453,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10911&#34;&gt;Lee Seung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10911&#34;&gt;Lee Seung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -8491,7 +8491,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3274&#34;&gt;Kim Sang-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3274&#34;&gt;Kim Sang-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -8529,7 +8529,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7677&#34;&gt;Choi Won-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7677&#34;&gt;Choi Won-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -8567,7 +8567,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/222&#34;&gt;Yang Hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/222&#34;&gt;Yang Hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -8605,7 +8605,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11135&#34;&gt;Kim Jae-woong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11135&#34;&gt;Kim Jae-woong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -8643,7 +8643,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11772&#34;&gt;Ahn Woo-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11772&#34;&gt;Ahn Woo-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -8681,7 +8681,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14593&#34;&gt;Kim Dong-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14593&#34;&gt;Kim Dong-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -8719,7 +8719,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3344&#34;&gt;Moon Sung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3344&#34;&gt;Moon Sung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -8757,7 +8757,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7817&#34;&gt;Cha Jae-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7817&#34;&gt;Cha Jae-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -8795,7 +8795,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14600&#34;&gt;Park Gwan-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14600&#34;&gt;Park Gwan-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -8833,7 +8833,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/383&#34;&gt;Jung Dae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/383&#34;&gt;Jung Dae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -8871,7 +8871,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11751&#34;&gt;Kim Seon-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11751&#34;&gt;Kim Seon-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -8909,7 +8909,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9994&#34;&gt;Park Seung-joo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9994&#34;&gt;Park Seung-joo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -8947,7 +8947,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12878&#34;&gt;Park Joo-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12878&#34;&gt;Park Joo-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -8985,7 +8985,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7537&#34;&gt;Kim Jung-in&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7537&#34;&gt;Kim Jung-in&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -9023,7 +9023,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8370&#34;&gt;Lee Young-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8370&#34;&gt;Lee Young-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -9061,7 +9061,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12892&#34;&gt;Yoon Jung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12892&#34;&gt;Yoon Jung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -9099,7 +9099,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10743&#34;&gt;Kim Sung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10743&#34;&gt;Kim Sung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -9137,7 +9137,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2770&#34;&gt;Kim Jeong-hu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2770&#34;&gt;Kim Jeong-hu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -9175,7 +9175,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11142&#34;&gt;Yang Gi-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11142&#34;&gt;Yang Gi-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -9213,7 +9213,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3582&#34;&gt;Jo Sung-woon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3582&#34;&gt;Jo Sung-woon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -9251,7 +9251,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3491&#34;&gt;Oh Ju-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3491&#34;&gt;Oh Ju-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -9289,7 +9289,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3456&#34;&gt;Shin Jae-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3456&#34;&gt;Shin Jae-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -9327,7 +9327,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12906&#34;&gt;Jo Young-gun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12906&#34;&gt;Jo Young-gun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -9365,7 +9365,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7642&#34;&gt;Im Gyu-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7642&#34;&gt;Im Gyu-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -9409,13 +9409,13 @@ WAR
     
     <item>
       <title>KT Wiz</title>
-      <link>/teams/ktwiz/</link>
+      <link>https://kbofancystats.com/teams/ktwiz/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/ktwiz/</guid>
+      <guid>https://kbofancystats.com/teams/ktwiz/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -9469,7 +9469,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11380&#34;&gt;Mel Rojas Jr.&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11380&#34;&gt;Mel Rojas Jr.&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -9510,7 +9510,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11863&#34;&gt;Kang Baek-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11863&#34;&gt;Kang Baek-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -9551,7 +9551,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/908&#34;&gt;Hwang Jae-gyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/908&#34;&gt;Hwang Jae-gyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -9592,7 +9592,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6039&#34;&gt;Bae Jeong-dae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6039&#34;&gt;Bae Jeong-dae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -9633,7 +9633,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5444&#34;&gt;Park Kyung-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5444&#34;&gt;Park Kyung-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 36
@@ -9674,7 +9674,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7495&#34;&gt;Jo Yong-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7495&#34;&gt;Jo Yong-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -9715,7 +9715,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3505&#34;&gt;Yoo Han-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3505&#34;&gt;Yoo Han-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 39
@@ -9756,7 +9756,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8146&#34;&gt;Moon Sang-cheol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8146&#34;&gt;Moon Sang-cheol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -9797,7 +9797,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5192&#34;&gt;Jang Sung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5192&#34;&gt;Jang Sung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -9838,7 +9838,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8048&#34;&gt;Kim Min-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8048&#34;&gt;Kim Min-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -9879,7 +9879,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2868&#34;&gt;Park Seung-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2868&#34;&gt;Park Seung-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -9920,7 +9920,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3631&#34;&gt;Hur Do-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3631&#34;&gt;Hur Do-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 36
@@ -9961,7 +9961,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13921&#34;&gt;Kang Hyeon-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13921&#34;&gt;Kang Hyeon-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -10002,7 +10002,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12374&#34;&gt;Park Jun-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12374&#34;&gt;Park Jun-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -10043,7 +10043,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10953&#34;&gt;Moon Sang-in&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10953&#34;&gt;Moon Sang-in&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -10084,7 +10084,7 @@ RHP
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8118&#34;&gt;Kim Tae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8118&#34;&gt;Kim Tae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -10125,7 +10125,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8209&#34;&gt;Song Min-seop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8209&#34;&gt;Song Min-seop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -10166,7 +10166,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8055&#34;&gt;Kim Byung-hee&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8055&#34;&gt;Kim Byung-hee&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -10207,7 +10207,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13956&#34;&gt;Chun Seong-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13956&#34;&gt;Chun Seong-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -10248,7 +10248,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2210&#34;&gt;Lee Hong-gu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2210&#34;&gt;Lee Hong-gu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -10289,7 +10289,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5269&#34;&gt;Kang Min-gook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5269&#34;&gt;Kang Min-gook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -10330,7 +10330,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10484&#34;&gt;Hong Hyun-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10484&#34;&gt;Hong Hyun-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -10371,7 +10371,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8230&#34;&gt;Sim Woo-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8230&#34;&gt;Sim Woo-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -10460,7 +10460,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13928&#34;&gt;Odrisamer Despaigne&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13928&#34;&gt;Odrisamer Despaigne&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -10498,7 +10498,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13935&#34;&gt;So Hyeong-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13935&#34;&gt;So Hyeong-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -10536,7 +10536,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13039&#34;&gt;William Cuevas&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13039&#34;&gt;William Cuevas&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -10574,7 +10574,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6655&#34;&gt;Bae Je-seong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6655&#34;&gt;Bae Je-seong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -10612,7 +10612,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3512&#34;&gt;Lee Bo-geun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3512&#34;&gt;Lee Bo-geun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -10650,7 +10650,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8090&#34;&gt;Kim Jae-yoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8090&#34;&gt;Kim Jae-yoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -10688,7 +10688,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8034&#34;&gt;Kim Min-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8034&#34;&gt;Kim Min-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -10726,7 +10726,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8475&#34;&gt;Jo Hyun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8475&#34;&gt;Jo Hyun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -10764,7 +10764,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8482&#34;&gt;Ju Kwon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8482&#34;&gt;Ju Kwon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -10802,7 +10802,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6256&#34;&gt;Ha Joon-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6256&#34;&gt;Ha Joon-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -10840,7 +10840,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8405&#34;&gt;Lee Chang-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8405&#34;&gt;Lee Chang-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -10878,7 +10878,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3071&#34;&gt;Jeon Yoo-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3071&#34;&gt;Jeon Yoo-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -10916,7 +10916,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13011&#34;&gt;Lee Sang-dong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13011&#34;&gt;Lee Sang-dong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -10954,7 +10954,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4142&#34;&gt;Keum Min-cheol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4142&#34;&gt;Keum Min-cheol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -10992,7 +10992,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13452&#34;&gt;Kim Sung-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13452&#34;&gt;Kim Sung-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -11030,7 +11030,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2504&#34;&gt;Yoo Won-sang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2504&#34;&gt;Yoo Won-sang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -11068,7 +11068,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8251&#34;&gt;Ahn Sang-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8251&#34;&gt;Ahn Sang-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -11106,7 +11106,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9056&#34;&gt;Park Se-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9056&#34;&gt;Park Se-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -11144,7 +11144,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8125&#34;&gt;Ryu Hee-woon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8125&#34;&gt;Ryu Hee-woon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -11182,7 +11182,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13018&#34;&gt;Lee Sun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13018&#34;&gt;Lee Sun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -11220,7 +11220,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10477&#34;&gt;Jo Byung-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10477&#34;&gt;Jo Byung-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -11258,7 +11258,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/726&#34;&gt;Lee Sang-hwa&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/726&#34;&gt;Lee Sang-hwa&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -11296,7 +11296,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13949&#34;&gt;Lee Kang-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13949&#34;&gt;Lee Kang-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -11334,7 +11334,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12990&#34;&gt;Son Dong-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12990&#34;&gt;Son Dong-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -11372,7 +11372,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13004&#34;&gt;Lee Dae-eun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13004&#34;&gt;Lee Dae-eun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -11410,7 +11410,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11877&#34;&gt;Kim Min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11877&#34;&gt;Kim Min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -11454,13 +11454,13 @@ WAR
     
     <item>
       <title>LG Twins</title>
-      <link>/teams/lgtwins/</link>
+      <link>https://kbofancystats.com/teams/lgtwins/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/lgtwins/</guid>
+      <guid>https://kbofancystats.com/teams/lgtwins/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -11514,7 +11514,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/117&#34;&gt;Kim Hyun-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/117&#34;&gt;Kim Hyun-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -11555,7 +11555,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13795&#34;&gt;Roberto Ramos&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13795&#34;&gt;Roberto Ramos&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -11596,7 +11596,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2490&#34;&gt;Oh Ji-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2490&#34;&gt;Oh Ji-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -11637,7 +11637,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9805&#34;&gt;Hong Chang-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9805&#34;&gt;Hong Chang-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -11678,7 +11678,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2581&#34;&gt;Lee Hyung-jong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2581&#34;&gt;Lee Hyung-jong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -11719,7 +11719,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5731&#34;&gt;Chae Eun-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5731&#34;&gt;Chae Eun-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -11760,7 +11760,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7334&#34;&gt;Yoo Kang-nam&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7334&#34;&gt;Yoo Kang-nam&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -11801,7 +11801,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2413&#34;&gt;Park Yong-taik&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2413&#34;&gt;Park Yong-taik&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 41
@@ -11842,7 +11842,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3246&#34;&gt;Kim Min-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3246&#34;&gt;Kim Min-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -11883,7 +11883,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2574&#34;&gt;Lee Chun-woong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2574&#34;&gt;Lee Chun-woong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -11924,7 +11924,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2651&#34;&gt;Jung Ju-hyeon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2651&#34;&gt;Jung Ju-hyeon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -11965,7 +11965,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13802&#34;&gt;Son Ho-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13802&#34;&gt;Son Ho-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -12006,7 +12006,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5535&#34;&gt;Yang Suk-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5535&#34;&gt;Yang Suk-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -12047,7 +12047,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9749&#34;&gt;Kim Ho-eun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9749&#34;&gt;Kim Ho-eun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -12088,7 +12088,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2357&#34;&gt;Kim Yong-yi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2357&#34;&gt;Kim Yong-yi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -12129,7 +12129,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6466&#34;&gt;Shin Min-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6466&#34;&gt;Shin Min-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -12170,7 +12170,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3085&#34;&gt;Jeong Keun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3085&#34;&gt;Jeong Keun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -12211,7 +12211,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2168&#34;&gt;Lee Sung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2168&#34;&gt;Lee Sung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 39
@@ -12252,7 +12252,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6270&#34;&gt;Han Suk-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6270&#34;&gt;Han Suk-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -12293,7 +12293,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3568&#34;&gt;Jeon Min-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3568&#34;&gt;Jeon Min-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -12334,7 +12334,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7306&#34;&gt;Baek Seung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7306&#34;&gt;Baek Seung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -12375,7 +12375,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5108&#34;&gt;Park Jae-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5108&#34;&gt;Park Jae-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -12416,7 +12416,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5675&#34;&gt;Jang Joon-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5675&#34;&gt;Jang Joon-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -12457,7 +12457,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4065&#34;&gt;Choi Jae-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4065&#34;&gt;Choi Jae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -12498,7 +12498,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12192&#34;&gt;Lee Jae-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12192&#34;&gt;Lee Jae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -12539,7 +12539,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12780&#34;&gt;Koo Bon-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12780&#34;&gt;Koo Bon-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -12628,7 +12628,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12815&#34;&gt;Casey Kelly&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12815&#34;&gt;Casey Kelly&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -12666,7 +12666,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11681&#34;&gt;Tyler Wilson&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11681&#34;&gt;Tyler Wilson&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -12704,7 +12704,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2658&#34;&gt;Jung Chan-heon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2658&#34;&gt;Jung Chan-heon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -12742,7 +12742,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2609&#34;&gt;Lim Chan-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2609&#34;&gt;Lim Chan-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -12780,7 +12780,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13809&#34;&gt;Lee Min-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13809&#34;&gt;Lee Min-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -12818,7 +12818,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3134&#34;&gt;Jin Hae-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3134&#34;&gt;Jin Hae-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -12856,7 +12856,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10491&#34;&gt;Ko Woo-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10491&#34;&gt;Ko Woo-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -12894,7 +12894,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12801&#34;&gt;Jung Woo-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12801&#34;&gt;Jung Woo-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -12932,7 +12932,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1321&#34;&gt;Cha Woo-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1321&#34;&gt;Cha Woo-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -12970,7 +12970,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2707&#34;&gt;Choi Dong-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2707&#34;&gt;Choi Dong-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -13008,7 +13008,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13305&#34;&gt;Nam Ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13305&#34;&gt;Nam Ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -13046,7 +13046,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2714&#34;&gt;Choi Sung-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2714&#34;&gt;Choi Sung-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -13084,7 +13084,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4884&#34;&gt;Jung Yong-un&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4884&#34;&gt;Jung Yong-un&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -13122,7 +13122,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14341&#34;&gt;Sung Jae-heon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14341&#34;&gt;Sung Jae-heon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -13160,7 +13160,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3232&#34;&gt;Kim Dae-yu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3232&#34;&gt;Kim Dae-yu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -13198,7 +13198,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13788&#34;&gt;Kim Yun-sik&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13788&#34;&gt;Kim Yun-sik&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -13236,7 +13236,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13333&#34;&gt;Han Seon-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13333&#34;&gt;Han Seon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -13274,7 +13274,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6361&#34;&gt;Moon Gwang-eun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6361&#34;&gt;Moon Gwang-eun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -13312,7 +13312,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4261&#34;&gt;Kim Ji-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4261&#34;&gt;Kim Ji-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -13350,7 +13350,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2042&#34;&gt;Song Eun-beom&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2042&#34;&gt;Song Eun-beom&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 36
@@ -13388,7 +13388,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4597&#34;&gt;Ryu Won-suk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4597&#34;&gt;Ryu Won-suk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -13426,7 +13426,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2924&#34;&gt;Baek Cheong-hun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2924&#34;&gt;Baek Cheong-hun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -13464,7 +13464,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10519&#34;&gt;Lee Chan-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10519&#34;&gt;Lee Chan-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -13502,7 +13502,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12794&#34;&gt;Lee Jung-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12794&#34;&gt;Lee Jung-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -13540,7 +13540,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4702&#34;&gt;Lee Woo-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4702&#34;&gt;Lee Woo-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -13578,7 +13578,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7362&#34;&gt;Lee Sang-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7362&#34;&gt;Lee Sang-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -13616,7 +13616,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9084&#34;&gt;Kim Dae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9084&#34;&gt;Kim Dae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -13654,7 +13654,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2966&#34;&gt;Yeo Geon-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2966&#34;&gt;Yeo Geon-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 34
@@ -13698,13 +13698,13 @@ WAR
     
     <item>
       <title>Lotte Giants</title>
-      <link>/teams/lottegiants/</link>
+      <link>https://kbofancystats.com/teams/lottegiants/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/lottegiants/</guid>
+      <guid>https://kbofancystats.com/teams/lottegiants/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -13758,7 +13758,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/656&#34;&gt;Son Ah-seop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/656&#34;&gt;Son Ah-seop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -13799,7 +13799,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/810&#34;&gt;Jeon Jun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/810&#34;&gt;Jeon Jun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -13840,7 +13840,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/838&#34;&gt;Jung Hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/838&#34;&gt;Jung Hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -13881,7 +13881,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8853&#34;&gt;Lee Dae-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8853&#34;&gt;Lee Dae-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -13922,7 +13922,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13620&#34;&gt;Dixon Machado&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13620&#34;&gt;Dixon Machado&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -13963,7 +13963,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2077&#34;&gt;An Chi-hong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2077&#34;&gt;An Chi-hong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -14004,7 +14004,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11527&#34;&gt;Han Dong-hee&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11527&#34;&gt;Han Dong-hee&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -14045,7 +14045,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2539&#34;&gt;Lee Byung-kyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2539&#34;&gt;Lee Byung-kyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 37
@@ -14086,7 +14086,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5563&#34;&gt;Oh Yoon-suk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5563&#34;&gt;Oh Yoon-suk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -14127,7 +14127,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6543&#34;&gt;Kang Dong-kwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6543&#34;&gt;Kang Dong-kwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -14168,7 +14168,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6585&#34;&gt;Kim Jae-yoo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6585&#34;&gt;Kim Jae-yoo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -14209,7 +14209,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/579&#34;&gt;Kim Joon-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/579&#34;&gt;Kim Joon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -14250,7 +14250,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13123&#34;&gt;Shin Yong-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13123&#34;&gt;Shin Yong-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -14291,7 +14291,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10540&#34;&gt;Kim Min-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10540&#34;&gt;Kim Min-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -14332,7 +14332,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5227&#34;&gt;Ji Sung-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5227&#34;&gt;Ji Sung-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -14373,7 +14373,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6606&#34;&gt;Kim Ho-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6606&#34;&gt;Kim Ho-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -14414,7 +14414,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6550&#34;&gt;Kang Lo-han&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6550&#34;&gt;Kang Lo-han&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -14455,7 +14455,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5507&#34;&gt;Bae Sung-keun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5507&#34;&gt;Bae Sung-keun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -14496,7 +14496,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11786&#34;&gt;Choo Jae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11786&#34;&gt;Choo Jae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -14537,7 +14537,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/880&#34;&gt;Heo Il&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/880&#34;&gt;Heo Il&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -14578,7 +14578,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/684&#34;&gt;Shin Bon-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/684&#34;&gt;Shin Bon-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -14619,7 +14619,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/54&#34;&gt;Kim Dong-han&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/54&#34;&gt;Kim Dong-han&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -14660,7 +14660,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/138&#34;&gt;Min Byung-hun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/138&#34;&gt;Min Byung-hun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -14701,7 +14701,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11996&#34;&gt;Jung Bo-geun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11996&#34;&gt;Jung Bo-geun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -14790,7 +14790,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13648&#34;&gt;Dan Straily&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13648&#34;&gt;Dan Straily&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -14828,7 +14828,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13641&#34;&gt;Adrian Sampson&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13641&#34;&gt;Adrian Sampson&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -14866,7 +14866,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8167&#34;&gt;Park Se-woong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8167&#34;&gt;Park Se-woong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -14904,7 +14904,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/124&#34;&gt;Noh Kyung-eun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/124&#34;&gt;Noh Kyung-eun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 36
@@ -14942,7 +14942,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/516&#34;&gt;Kim Dae-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/516&#34;&gt;Kim Dae-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 36
@@ -14980,7 +14980,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11506&#34;&gt;Lee Seung-heon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11506&#34;&gt;Lee Seung-heon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -15018,7 +15018,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4716&#34;&gt;Lee In-bok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4716&#34;&gt;Lee In-bok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -15056,7 +15056,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12556&#34;&gt;Seo Jun-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12556&#34;&gt;Seo Jun-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -15094,7 +15094,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8006&#34;&gt;Kim Geon-guk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8006&#34;&gt;Kim Geon-guk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -15132,7 +15132,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13662&#34;&gt;Choi Jun-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13662&#34;&gt;Choi Jun-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -15170,7 +15170,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4408&#34;&gt;Park Jin-hyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4408&#34;&gt;Park Jin-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -15208,7 +15208,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8692&#34;&gt;Kim Won-joong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8692&#34;&gt;Kim Won-joong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -15246,7 +15246,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4114&#34;&gt;Koo Seung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4114&#34;&gt;Koo Seung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -15284,7 +15284,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/670&#34;&gt;Song Seung-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/670&#34;&gt;Song Seung-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 40
@@ -15322,7 +15322,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9147&#34;&gt;Han Seung-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9147&#34;&gt;Han Seung-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -15360,7 +15360,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/866&#34;&gt;Jin Myung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/866&#34;&gt;Jin Myung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -15398,7 +15398,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/264&#34;&gt;Oh Hyun-taek&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/264&#34;&gt;Oh Hyun-taek&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -15436,7 +15436,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13627&#34;&gt;Park Myeong-hyeon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13627&#34;&gt;Park Myeong-hyeon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -15474,7 +15474,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4226&#34;&gt;Kim Yoo-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4226&#34;&gt;Kim Yoo-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -15512,7 +15512,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/831&#34;&gt;Jung Tae-seung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/831&#34;&gt;Jung Tae-seung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -15550,7 +15550,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1265&#34;&gt;Jang Won-sam&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1265&#34;&gt;Jang Won-sam&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 37
@@ -15588,7 +15588,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10533&#34;&gt;Kang Dong-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10533&#34;&gt;Kang Dong-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -15626,7 +15626,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6305&#34;&gt;Ko Hyo-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6305&#34;&gt;Ko Hyo-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 37
@@ -15664,7 +15664,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4961&#34;&gt;Choi Young-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4961&#34;&gt;Choi Young-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -15702,7 +15702,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/614&#34;&gt;Park Shi-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/614&#34;&gt;Park Shi-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -15746,13 +15746,13 @@ WAR
     
     <item>
       <title>NC Dinos</title>
-      <link>/teams/ncdinos/</link>
+      <link>https://kbofancystats.com/teams/ncdinos/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/ncdinos/</guid>
+      <guid>https://kbofancystats.com/teams/ncdinos/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -15806,7 +15806,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -15847,7 +15847,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -15888,7 +15888,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13900&#34;&gt;Aaron Altherr&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13900&#34;&gt;Aaron Altherr&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -15929,7 +15929,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1062&#34;&gt;Park Suk-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1062&#34;&gt;Park Suk-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -15970,7 +15970,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3778&#34;&gt;Park Min-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3778&#34;&gt;Park Min-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -16011,7 +16011,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3659&#34;&gt;Kwon Hee-dong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3659&#34;&gt;Kwon Hee-dong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -16052,7 +16052,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3645&#34;&gt;Kang Jin-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3645&#34;&gt;Kang Jin-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -16093,7 +16093,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3743&#34;&gt;No Jin-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3743&#34;&gt;No Jin-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -16134,7 +16134,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2994&#34;&gt;Lee Myung-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2994&#34;&gt;Lee Myung-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -16175,7 +16175,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13431&#34;&gt;Choi Jeong-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13431&#34;&gt;Choi Jeong-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -16216,7 +16216,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3757&#34;&gt;Mo Chang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3757&#34;&gt;Mo Chang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -16257,7 +16257,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5605&#34;&gt;Lee Won-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5605&#34;&gt;Lee Won-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -16298,7 +16298,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3680&#34;&gt;Kim Sung-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3680&#34;&gt;Kim Sung-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -16339,7 +16339,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11828&#34;&gt;Kim Hyung-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11828&#34;&gt;Kim Hyung-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -16380,7 +16380,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3715&#34;&gt;Kim Tae-goon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3715&#34;&gt;Kim Tae-goon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -16421,7 +16421,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9182&#34;&gt;Lee Jae-yul&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9182&#34;&gt;Lee Jae-yul&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -16462,7 +16462,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6781&#34;&gt;Kim Ki-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6781&#34;&gt;Kim Ki-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -16503,7 +16503,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13886&#34;&gt;Park Si-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13886&#34;&gt;Park Si-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -16544,7 +16544,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9161&#34;&gt;Kim Chan-hyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9161&#34;&gt;Kim Chan-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -16585,7 +16585,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9882&#34;&gt;Do Tae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9882&#34;&gt;Do Tae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -16626,7 +16626,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3855&#34;&gt;Yoo Young-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3855&#34;&gt;Yoo Young-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -16667,7 +16667,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3701&#34;&gt;Kim Joon-wan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3701&#34;&gt;Kim Joon-wan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -16708,7 +16708,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4037&#34;&gt;Ji Suk-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4037&#34;&gt;Ji Suk-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 36
@@ -16749,7 +16749,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13424&#34;&gt;Seo Ho-cheol&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13424&#34;&gt;Seo Ho-cheol&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -16790,7 +16790,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9175&#34;&gt;Park Joon-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9175&#34;&gt;Park Joon-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -16831,7 +16831,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3911&#34;&gt;Lee Sang-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3911&#34;&gt;Lee Sang-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -16920,7 +16920,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12920&#34;&gt;Drew Rucinski&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12920&#34;&gt;Drew Rucinski&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -16958,7 +16958,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7698&#34;&gt;Koo Chang-mo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7698&#34;&gt;Koo Chang-mo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -16996,7 +16996,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13879&#34;&gt;Mike Wright&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13879&#34;&gt;Mike Wright&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17034,7 +17034,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3708&#34;&gt;Kim Jin-sung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3708&#34;&gt;Kim Jin-sung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -17072,7 +17072,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11807&#34;&gt;Kim Young-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11807&#34;&gt;Kim Young-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -17110,7 +17110,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3848&#34;&gt;Won Jong-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3848&#34;&gt;Won Jong-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -17148,7 +17148,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3932&#34;&gt;Lee Jae-hak&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3932&#34;&gt;Lee Jae-hak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17186,7 +17186,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3995&#34;&gt;Im Chang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3995&#34;&gt;Im Chang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -17224,7 +17224,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4401&#34;&gt;Park Jin-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4401&#34;&gt;Park Jin-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17262,7 +17262,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12955&#34;&gt;Song Myung-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12955&#34;&gt;Song Myung-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -17300,7 +17300,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3988&#34;&gt;Im Jung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3988&#34;&gt;Im Jung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17338,7 +17338,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/894&#34;&gt;Hong Sung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/894&#34;&gt;Hong Sung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -17376,7 +17376,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7124&#34;&gt;Park Jung-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7124&#34;&gt;Park Jung-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -17414,7 +17414,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12&#34;&gt;Kang Dong-yeon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12&#34;&gt;Kang Dong-yeon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -17452,7 +17452,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7103&#34;&gt;Moon Kyung-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7103&#34;&gt;Moon Kyung-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -17490,7 +17490,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3204&#34;&gt;Kang Yoon-gu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3204&#34;&gt;Kang Yoon-gu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17528,7 +17528,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7782&#34;&gt;Lee Ho-joong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7782&#34;&gt;Lee Ho-joong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -17566,7 +17566,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3827&#34;&gt;Son Jung-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3827&#34;&gt;Son Jung-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -17604,7 +17604,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7544&#34;&gt;Kim Geon-tae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7544&#34;&gt;Kim Geon-tae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -17642,7 +17642,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12353&#34;&gt;Lee Seung-heon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12353&#34;&gt;Lee Seung-heon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -17680,7 +17680,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10631&#34;&gt;So Yi-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10631&#34;&gt;So Yi-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -17718,7 +17718,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12934&#34;&gt;Bae Min-seo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12934&#34;&gt;Bae Min-seo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -17756,7 +17756,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8538&#34;&gt;Hong Sung-moo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8538&#34;&gt;Hong Sung-moo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -17794,7 +17794,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4436&#34;&gt;Bae Jae-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4436&#34;&gt;Bae Jae-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -17832,7 +17832,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12332&#34;&gt;Shin Min-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12332&#34;&gt;Shin Min-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -17870,7 +17870,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10603&#34;&gt;Kim Jin-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10603&#34;&gt;Kim Jin-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -17908,7 +17908,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9217&#34;&gt;Choi Sung-young&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9217&#34;&gt;Choi Sung-young&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -17952,13 +17952,13 @@ WAR
     
     <item>
       <title>Samsung Lions</title>
-      <link>/teams/samsunglions/</link>
+      <link>https://kbofancystats.com/teams/samsunglions/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/samsunglions/</guid>
+      <guid>https://kbofancystats.com/teams/samsunglions/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -18012,7 +18012,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6753&#34;&gt;Koo Ja-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6753&#34;&gt;Koo Ja-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -18053,7 +18053,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9364&#34;&gt;Kim Dong-yeop&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9364&#34;&gt;Kim Dong-yeop&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -18094,7 +18094,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/978&#34;&gt;Kim Sang-su&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/978&#34;&gt;Kim Sang-su&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -18135,7 +18135,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/474&#34;&gt;Kang Min-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/474&#34;&gt;Kang Min-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -18176,7 +18176,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1083&#34;&gt;Park Hae-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1083&#34;&gt;Park Hae-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -18217,7 +18217,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13690&#34;&gt;Tyler Saladino&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13690&#34;&gt;Tyler Saladino&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -18258,7 +18258,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/327&#34;&gt;Lee Won-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/327&#34;&gt;Lee Won-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -18299,7 +18299,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5367&#34;&gt;Kim Ho-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5367&#34;&gt;Kim Ho-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -18340,7 +18340,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5598&#34;&gt;Lee Sung-gon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5598&#34;&gt;Lee Sung-gon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -18381,7 +18381,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5283&#34;&gt;Kang Han-wool&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5283&#34;&gt;Kang Han-wool&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -18422,7 +18422,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10680&#34;&gt;Kim Sung-yoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10680&#34;&gt;Kim Sung-yoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -18463,7 +18463,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6046&#34;&gt;Song Jun-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6046&#34;&gt;Song Jun-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -18504,7 +18504,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2728&#34;&gt;Choi Young-jin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2728&#34;&gt;Choi Young-jin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -18545,7 +18545,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/985&#34;&gt;Kim Sung-pyo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/985&#34;&gt;Kim Sung-pyo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -18586,7 +18586,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5514&#34;&gt;Baek Seung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5514&#34;&gt;Baek Seung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -18627,7 +18627,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5325&#34;&gt;Kim Jae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5325&#34;&gt;Kim Jae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -18668,7 +18668,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1069&#34;&gt;Park Chan-do&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1069&#34;&gt;Park Chan-do&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -18709,7 +18709,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12584&#34;&gt;Kim Do-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12584&#34;&gt;Kim Do-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -18750,7 +18750,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5059&#34;&gt;Kim Min-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5059&#34;&gt;Kim Min-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -18791,7 +18791,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12633&#34;&gt;Lee Hak-ju&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12633&#34;&gt;Lee Hak-ju&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -18832,7 +18832,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12605&#34;&gt;Yang Woo-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12605&#34;&gt;Yang Woo-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -18873,7 +18873,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14726&#34;&gt;Daniel Palka&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14726&#34;&gt;Daniel Palka&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -18914,7 +18914,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9322&#34;&gt;Lee Sung-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9322&#34;&gt;Lee Sung-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 27
@@ -18955,7 +18955,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13676&#34;&gt;Kim Ji-chan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13676&#34;&gt;Kim Ji-chan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -18996,7 +18996,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/82&#34;&gt;Kim Eung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/82&#34;&gt;Kim Eung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -19037,7 +19037,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1006&#34;&gt;Kim Heon-gon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1006&#34;&gt;Kim Heon-gon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -19078,7 +19078,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13158&#34;&gt;Park Seung-gyu&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13158&#34;&gt;Park Seung-gyu&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -19119,7 +19119,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5451&#34;&gt;Park Gye-beom&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5451&#34;&gt;Park Gye-beom&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -19208,7 +19208,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13683&#34;&gt;David Buchanan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13683&#34;&gt;David Buchanan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -19246,7 +19246,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11919&#34;&gt;Choi Chae-heung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11919&#34;&gt;Choi Chae-heung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -19284,7 +19284,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13571&#34;&gt;Ben Lively&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13571&#34;&gt;Ben Lively&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -19322,7 +19322,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12619&#34;&gt;Won Tae-in&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12619&#34;&gt;Won Tae-in&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -19360,7 +19360,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1174&#34;&gt;Oh Seung-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1174&#34;&gt;Oh Seung-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 38
@@ -19398,7 +19398,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2497&#34;&gt;Woo Kyu-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2497&#34;&gt;Woo Kyu-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -19436,7 +19436,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4177&#34;&gt;Kim Dae-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4177&#34;&gt;Kim Dae-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -19474,7 +19474,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10722&#34;&gt;Choi Ji-gwang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10722&#34;&gt;Choi Ji-gwang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -19512,7 +19512,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1111&#34;&gt;Baek Jung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1111&#34;&gt;Baek Jung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -19550,7 +19550,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7873&#34;&gt;Hong Jung-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7873&#34;&gt;Hong Jung-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -19588,7 +19588,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12031&#34;&gt;Kim Yoon-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12031&#34;&gt;Kim Yoon-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 21
@@ -19626,7 +19626,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1195&#34;&gt;Yoon Sung-hwan&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1195&#34;&gt;Yoon Sung-hwan&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 39
@@ -19664,7 +19664,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4814&#34;&gt;Im Hyun-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4814&#34;&gt;Im Hyun-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -19702,7 +19702,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3736&#34;&gt;Noh Sung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3736&#34;&gt;Noh Sung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -19740,7 +19740,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/936&#34;&gt;Kwon Oh-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/936&#34;&gt;Kwon Oh-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 40
@@ -19778,7 +19778,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13704&#34;&gt;Heo Yoon-dong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13704&#34;&gt;Heo Yoon-dong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -19816,7 +19816,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6921&#34;&gt;Jang Pil-joon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6921&#34;&gt;Jang Pil-joon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -19854,7 +19854,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7824&#34;&gt;Jung In-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7824&#34;&gt;Jung In-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -19892,7 +19892,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3904&#34;&gt;Lee Sang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3904&#34;&gt;Lee Sang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -19930,7 +19930,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13718&#34;&gt;Hwang Dong-jae&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13718&#34;&gt;Hwang Dong-jae&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -19968,7 +19968,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4695&#34;&gt;Lee Seung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4695&#34;&gt;Lee Seung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -20006,7 +20006,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1153&#34;&gt;Shim Chang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1153&#34;&gt;Shim Chang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -20044,7 +20044,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13697&#34;&gt;Lee Seung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13697&#34;&gt;Lee Seung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20
@@ -20082,7 +20082,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4737&#34;&gt;Lee Jae-ik&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4737&#34;&gt;Lee Jae-ik&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -20120,7 +20120,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10715&#34;&gt;Jang Ji-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10715&#34;&gt;Jang Ji-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -20164,13 +20164,13 @@ WAR
     
     <item>
       <title>SK Wyverns</title>
-      <link>/teams/skwyverns/</link>
+      <link>https://kbofancystats.com/teams/skwyverns/</link>
       <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teams/skwyverns/</guid>
+      <guid>https://kbofancystats.com/teams/skwyverns/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://kbofancystats.com/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://kbofancystats.com/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; | &lt;a href=&#34;#batting&#34;&gt;Batting&lt;/a&gt; | &lt;a href=&#34;#pitching&#34;&gt;Pitching&lt;/a&gt; |&lt;/p&gt;
@@ -20224,7 +20224,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11366&#34;&gt;Jamie Romak&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11366&#34;&gt;Jamie Romak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -20265,7 +20265,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3162&#34;&gt;Choi Jeong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3162&#34;&gt;Choi Jeong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -20306,7 +20306,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3169&#34;&gt;Han Dong-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3169&#34;&gt;Han Dong-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -20347,7 +20347,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1335&#34;&gt;Chae Tae-in&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1335&#34;&gt;Chae Tae-in&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -20388,7 +20388,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2763&#34;&gt;Kim Kang-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2763&#34;&gt;Kim Kang-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 38
@@ -20429,7 +20429,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10764&#34;&gt;Park Sung-han&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10764&#34;&gt;Park Sung-han&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 22
@@ -20470,7 +20470,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5556&#34;&gt;Oh Tae-gon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5556&#34;&gt;Oh Tae-gon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -20511,7 +20511,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5752&#34;&gt;Choi Hang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5752&#34;&gt;Choi Hang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -20552,7 +20552,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13823&#34;&gt;Kim Sung-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13823&#34;&gt;Kim Sung-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 19
@@ -20593,7 +20593,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7005&#34;&gt;Oh Jun-hyeok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7005&#34;&gt;Oh Jun-hyeok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -20634,7 +20634,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14733&#34;&gt;Tyler White&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14733&#34;&gt;Tyler White&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 30
@@ -20675,7 +20675,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12829&#34;&gt;Kim Chang-pyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12829&#34;&gt;Kim Chang-pyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 20
@@ -20716,7 +20716,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13830&#34;&gt;Ryu Hyo-seung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13830&#34;&gt;Ryu Hyo-seung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 24
@@ -20757,7 +20757,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5584&#34;&gt;Yoo Seo-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5584&#34;&gt;Yoo Seo-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -20798,7 +20798,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2805&#34;&gt;Kim Sung-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2805&#34;&gt;Kim Sung-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -20839,7 +20839,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14425&#34;&gt;Lee Geo-yeon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14425&#34;&gt;Lee Geo-yeon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -20880,7 +20880,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3260&#34;&gt;Kim Min-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3260&#34;&gt;Kim Min-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -20921,7 +20921,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13844&#34;&gt;Choi Ji-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13844&#34;&gt;Choi Ji-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 23
@@ -20962,7 +20962,7 @@ CF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2812&#34;&gt;Kim Jae-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2812&#34;&gt;Kim Jae-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 33
@@ -21003,7 +21003,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13375&#34;&gt;Chae Hyun-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13375&#34;&gt;Chae Hyun-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -21044,7 +21044,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5878&#34;&gt;Kim Kyung-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5878&#34;&gt;Kim Kyung-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 25
@@ -21085,7 +21085,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9042&#34;&gt;Nam Tae-hyuk&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9042&#34;&gt;Nam Tae-hyuk&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 29
@@ -21126,7 +21126,7 @@ IF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3099&#34;&gt;Jeong Jin-gi&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3099&#34;&gt;Jeong Jin-gi&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -21167,7 +21167,7 @@ RF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1258&#34;&gt;Lee Heung-ryun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1258&#34;&gt;Lee Heung-ryun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -21208,7 +21208,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/306&#34;&gt;Yoon Suk-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/306&#34;&gt;Yoon Suk-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 35
@@ -21249,7 +21249,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/11744&#34;&gt;Choi Joon-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/11744&#34;&gt;Choi Joon-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 21
@@ -21290,7 +21290,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5850&#34;&gt;Ko Jong-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5850&#34;&gt;Ko Jong-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 31
@@ -21331,7 +21331,7 @@ LF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7488&#34;&gt;Lee Hyun-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7488&#34;&gt;Lee Hyun-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 28
@@ -21372,7 +21372,7 @@ C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2637&#34;&gt;Jeong Eui-yoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2637&#34;&gt;Jeong Eui-yoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 34
@@ -21413,7 +21413,7 @@ OF
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1286&#34;&gt;Jung Hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1286&#34;&gt;Jung Hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 26
@@ -21454,7 +21454,7 @@ SS
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3029&#34;&gt;Lee Jae-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3029&#34;&gt;Lee Jae-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
@@ -21543,7 +21543,7 @@ WAR
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2847&#34;&gt;Moon Seung-won&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2847&#34;&gt;Moon Seung-won&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 31
@@ -21581,7 +21581,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7425&#34;&gt;Park Jong-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7425&#34;&gt;Park Jong-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -21619,7 +21619,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13858&#34;&gt;Ricardo Pinto&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13858&#34;&gt;Ricardo Pinto&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -21657,7 +21657,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8769&#34;&gt;Lee Geon-wook&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8769&#34;&gt;Lee Geon-wook&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -21695,7 +21695,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4345&#34;&gt;Park Min-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4345&#34;&gt;Park Min-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -21733,7 +21733,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13851&#34;&gt;Nick Kingham&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13851&#34;&gt;Nick Kingham&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 29
@@ -21771,7 +21771,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2917&#34;&gt;Park Hee-soo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2917&#34;&gt;Park Hee-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 37
@@ -21809,7 +21809,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/1678&#34;&gt;Lee Tae-yang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/1678&#34;&gt;Lee Tae-yang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -21847,7 +21847,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13837&#34;&gt;Oh Won-seok&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/13837&#34;&gt;Oh Won-seok&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 19
@@ -21885,7 +21885,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2980&#34;&gt;Yoon Hee-sang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2980&#34;&gt;Yoon Hee-sang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 35
@@ -21923,7 +21923,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12871&#34;&gt;Ha Jae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12871&#34;&gt;Ha Jae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -21961,7 +21961,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/5836&#34;&gt;Kang Ji-kwang&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/5836&#34;&gt;Kang Ji-kwang&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -21999,7 +21999,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4478&#34;&gt;Seo Dong-min&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4478&#34;&gt;Seo Dong-min&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -22037,7 +22037,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4926&#34;&gt;Jo Young-woo&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4926&#34;&gt;Jo Young-woo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 25
@@ -22075,7 +22075,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/14418&#34;&gt;Yang Seon-ryul&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/14418&#34;&gt;Yang Seon-ryul&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -22113,7 +22113,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/4247&#34;&gt;Kim Jung-bin&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/4247&#34;&gt;Kim Jung-bin&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 26
@@ -22151,7 +22151,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10134&#34;&gt;Kim Chan-ho&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10134&#34;&gt;Kim Chan-ho&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 23
@@ -22189,7 +22189,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/10778&#34;&gt;Lee Won-jun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/10778&#34;&gt;Lee Won-jun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 22
@@ -22227,7 +22227,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7446&#34;&gt;Seo Jin-yong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7446&#34;&gt;Seo Jin-yong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 28
@@ -22265,7 +22265,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3295&#34;&gt;Kim Se-hyun&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/3295&#34;&gt;Kim Se-hyun&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 33
@@ -22303,7 +22303,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/7551&#34;&gt;Kim Taek-hyung&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/7551&#34;&gt;Kim Taek-hyung&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -22341,7 +22341,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8762&#34;&gt;Kim Tae-hoon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8762&#34;&gt;Kim Tae-hoon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 30
@@ -22379,7 +22379,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/9371&#34;&gt;Kim Joo-han&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/9371&#34;&gt;Kim Joo-han&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 27
@@ -22417,7 +22417,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/8874&#34;&gt;Jung Young-il&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/8874&#34;&gt;Jung Young-il&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 32
@@ -22455,7 +22455,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2455&#34;&gt;Shin Jae-woong&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/2455&#34;&gt;Shin Jae-woong&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 38
@@ -22493,7 +22493,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/6816&#34;&gt;Kim Ju-on&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/6816&#34;&gt;Kim Ju-on&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 24
@@ -22531,7 +22531,7 @@ WAR
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12857&#34;&gt;Baek Seung-geon&lt;/a&gt;
+&lt;a href=&#34;https://kbofancystats.com/players/12857&#34;&gt;Baek Seung-geon&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 20

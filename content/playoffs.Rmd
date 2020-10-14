@@ -10,5 +10,5 @@ suppressMessages(library(kableExtra))
 d <- suppressMessages(read_csv("~/Google Drive/KBO/playoffsims.csv"))
 teamstats <- suppressMessages(read_csv("~/Google Drive/KBO/teamstats.csv"))
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
-kable(d, align = "lcccccc") %>% add_header_above(c("2020 Playoffs" = 2, "Finish Likelihood" = 5)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T) %>% column_spec(2, border_right = T)
+kable(d, align = "lcccccc") %>% add_header_above(c("2020 Playoffs" = 2, "Finish Likelihood" = 5)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T) %>% column_spec(3, border_left = T, bold = T)
 ```

@@ -1,10 +1,10 @@
 ---
 title: Jo Han-min | 조한민
-subtitle: Hanwha Eagles | SS
+subtitle: Hanwha Eagles | IF
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 d <- subset(d, Code == "13228", select = c(-Name, -KName, -Position, -Code, -Url))
 d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")

@@ -13,6 +13,6 @@ color = "white"
 | :---: | --- | --- | ------- | -- |
 | 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 7.08 |
 | 2 | [**Dan Straily**](/players/13648) | [Lotte Giants](/teams/LotteGiants) | RHP | 6.49 |
-| 3 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 5.56 |
-| 4 | [**Raul Alcántara**](/players/12997) | [Doosan Bears](/teams/DoosanBears) | RHP | 5.45 |
-| 5 | [**Choi Hyung-woo**](/players/1349) | [Kia Tigers](/teams/KiaTigers) | OF | 5.41 |
+| 3 | [**Choi Hyung-woo**](/players/1349) | [Kia Tigers](/teams/KiaTigers) | OF | 5.73 |
+| 4 | [**Raul Alcántara**](/players/12997) | [Doosan Bears](/teams/DoosanBears) | RHP | 5.56 |
+| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 5.56 |

@@ -94,7 +94,7 @@ Out
 113.5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.31
+4.29
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -126,10 +126,10 @@ Out
 1541
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-114.5
+114.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.92
+4.89
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 100%
@@ -161,10 +161,10 @@ Out
 1540
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-109.9
+109.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.54
+4.52
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -196,10 +196,10 @@ Out
 1538
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-105.8
+105.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.82
+4.80
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -234,7 +234,7 @@ Out
 104.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.57
+4.56
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -266,10 +266,10 @@ Out
 1487
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-97.1
+96.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.62
+4.63
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -301,10 +301,10 @@ Out
 1486
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-100.5
+100.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-4.49
+4.51
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -339,7 +339,7 @@ Out
 86.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-5.05
+5.04
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -374,7 +374,7 @@ Out
 86.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;border-right:1px solid;&#34;&gt;
-5.49
+5.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0%
@@ -10098,7 +10098,7 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.08
+7.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10138,7 +10138,7 @@ RHP
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.89
+6.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10218,32 +10218,12 @@ SS
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.10
+5.15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.09
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
@@ -10258,7 +10238,27 @@ RF
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.05
+5.09
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.97
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10328,7 +10328,7 @@ WAR
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-7.08
+7.11
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10348,7 +10348,7 @@ RF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.89
+6.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10388,32 +10388,12 @@ SS
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.10
+5.15
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 5
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-5.09
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
@@ -10428,7 +10408,27 @@ RF
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5.05
+5.09
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.97
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10476,6 +10476,26 @@ RF
 9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+C
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.45
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/11366&#34;&gt;Jamie Romak&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -10489,26 +10509,6 @@ RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 4.45
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-33
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4.28
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -10558,7 +10558,7 @@ wRC+
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-172.2
+171.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10578,7 +10578,7 @@ RF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-158.7
+159.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10598,7 +10598,7 @@ OF
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-150.4
+147.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10618,7 +10618,7 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-144.6
+146.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10638,7 +10638,7 @@ C
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-144.6
+143.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10666,19 +10666,19 @@ RF
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/117&#34;&gt;Kim Hyun-soo&lt;/a&gt;
+&lt;a href=&#34;/players/12514&#34;&gt;José Miguel Fernández&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/LGTwins&#34;&gt;LG Twins&lt;/a&gt;
+&lt;a href=&#34;/teams/DoosanBears&#34;&gt;Doosan Bears&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-LF
+1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-141.1
+140.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10706,19 +10706,19 @@ SS
 9
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/12514&#34;&gt;José Miguel Fernández&lt;/a&gt;
+&lt;a href=&#34;/players/117&#34;&gt;Kim Hyun-soo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/DoosanBears&#34;&gt;Doosan Bears&lt;/a&gt;
+&lt;a href=&#34;/teams/LGTwins&#34;&gt;LG Twins&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1B
+LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-140.4
+140.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10788,7 +10788,7 @@ OPS
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.108
+1.106
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10808,32 +10808,12 @@ RF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-1.019
+1.023
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-31
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.995
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
@@ -10848,32 +10828,32 @@ RF
 C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.991
+1.000
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-5
+4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
+&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
+&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.956
+0.982
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-6
+5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13795&#34;&gt;Roberto Ramos&lt;/a&gt;
@@ -10889,6 +10869,26 @@ RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 0.954
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.953
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -10928,7 +10928,7 @@ RF
 1B
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.939
+0.937
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11018,7 +11018,7 @@ ISO
 RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.336
+0.337
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11046,19 +11046,19 @@ RF
 3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
+&lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 &lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-31
+33
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-RF
+C
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.272
+0.274
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11086,19 +11086,19 @@ RF
 5
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/215&#34;&gt;Yang Eui-ji&lt;/a&gt;
+&lt;a href=&#34;/players/3729&#34;&gt;Na Sung-bum&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 &lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-33
+31
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-C
+RF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.267
+0.268
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11126,26 +11126,6 @@ C
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RF
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-0.255
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13900&#34;&gt;Aaron Altherr&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -11158,7 +11138,27 @@ RF
 CF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.251
+0.255
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/13529&#34;&gt;Preston Tucker&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RF
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.250
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11178,7 +11178,7 @@ CF
 OF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.236
+0.237
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11198,7 +11198,7 @@ OF
 LF
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-0.226
+0.224
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -11328,7 +11328,7 @@ LHP
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-4.06
+4.30
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11356,26 +11356,6 @@ RHP
 7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-32
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-LHP
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.84
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13928&#34;&gt;Odrisamer Despaigne&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -11388,12 +11368,52 @@ LHP
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.82
+3.91
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/13613&#34;&gt;Chris Flexen&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/DoosanBears&#34;&gt;Doosan Bears&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RHP
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.90
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2091&#34;&gt;Yang Hyun-jong&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+LHP
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.85
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/13683&#34;&gt;David Buchanan&lt;/a&gt;
@@ -11409,26 +11429,6 @@ RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 3.55
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-10
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13613&#34;&gt;Chris Flexen&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/DoosanBears&#34;&gt;Doosan Bears&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-26
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RHP
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-3.48
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -11466,26 +11466,6 @@ FIP
 1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/13760&#34;&gt;Aaron Brooks&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-30
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RHP
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2.72
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/7698&#34;&gt;Koo Chang-mo&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -11496,6 +11476,26 @@ RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 LHP
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.72
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/13760&#34;&gt;Aaron Brooks&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/KiaTigers&#34;&gt;Kia Tigers&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 2.72
@@ -11518,7 +11518,7 @@ LHP
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-2.89
+2.75
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11638,7 +11638,7 @@ RHP
 LHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.83
+3.82
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11646,19 +11646,19 @@ LHP
 10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2658&#34;&gt;Jung Chan-heon&lt;/a&gt;
+&lt;a href=&#34;/players/12920&#34;&gt;Drew Rucinski&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/LGTwins&#34;&gt;LG Twins&lt;/a&gt;
+&lt;a href=&#34;/teams/NCDinos&#34;&gt;NC Dinos&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-30
+32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-3.92
+3.84
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -11728,7 +11728,7 @@ LHP
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-9.98
+10.18
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11796,6 +11796,26 @@ RHP
 6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
+&lt;a href=&#34;/players/2609&#34;&gt;Lim Chan-gyu&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;/teams/LGTwins&#34;&gt;LG Twins&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+RHP
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8.41
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
 &lt;a href=&#34;/players/12997&#34;&gt;Raul Alcántara&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
@@ -11809,26 +11829,6 @@ RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
 8.35
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-7
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;font-weight: bold;&#34;&gt;
-&lt;a href=&#34;/players/2609&#34;&gt;Lim Chan-gyu&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;/teams/LGTwins&#34;&gt;LG Twins&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-28
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-RHP
-&lt;/td&gt;
-&lt;td style=&#34;text-align:right;&#34;&gt;
-8.31
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -11848,7 +11848,7 @@ RHP
 RHP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:right;&#34;&gt;
-8.02
+8.24
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;

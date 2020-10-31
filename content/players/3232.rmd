@@ -1,10 +1,10 @@
 ---
 title: Kim Dae-yu | 김대유
-subtitle: LG Twins | P
+subtitle: LG Twins | LHP
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
-library(kableExtra)
+suppressMessages(library(kableExtra))
 d <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
 d <- subset(d, Code == "3232", select = c(-Name, -KName, -Position, -Code, -Url))
 d <- subset(d, Year > 2013)

@@ -2,7 +2,7 @@
 
 widget = "blank"
 headless = true 
-active = true 
+active = false 
 weight = 5 
 title = "2020 Elo Ratings"
 subtitle = "Click Image for Predictions"

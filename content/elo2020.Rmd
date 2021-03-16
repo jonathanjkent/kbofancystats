@@ -8,13 +8,19 @@ suppressMessages(library(dplyr))
 suppressMessages(library(readr))
 suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
+suppressMessages(library(stringr))
 tenteam <- suppressMessages(read_csv("~/Google Drive/KBO/elohistory.csv"))
-tenteam <- tenteam %>% subset(Date > as.Date("2020-01-01"))
+tenteam <- tenteam %>% subset(str_sub(Date, 1, 4) == 2020)
 tenteam$Team <- as.factor(tenteam$Team)
-rank <- suppressMessages(read_csv("~/Google Drive/KBO/currentelos.csv"))
-levels <- rank$Team
+
+current.elos <- tenteam %>%
+  group_by(Team) %>% 
+  arrange(desc(Date)) %>% 
+  slice(1) %>% select(-Date) %>% 
+  arrange(desc(Elo))
+levels <- current.elos$Team
 tenteam$Team <- factor(tenteam$Team, levels = levels)
-plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team)) + theme_minimal()
+plot <- ggplot(tenteam, aes(Date, Elo, color = Team)) + geom_line() + theme_minimal()
 plot2 <- ggplotly(plot, width=875, height=600)
 plot2 <- config(plot2, displayModeBar = FALSE)
 plot2

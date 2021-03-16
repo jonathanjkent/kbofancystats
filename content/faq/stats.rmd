@@ -3,6 +3,7 @@ date: "2020-03-02"
 title: What do these fancy stats mean?
 summary: "WAR? wRC+? FIP?"
 ---
+
 Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they are calculated, and the cutting edge of baseball analytics, we recommend [FanGraphs' library](https://library.fangraphs.com/). Are you just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the [quartiles](#quartiles) at the end.
 
 **Stats** | [BABIP](#babip) | [BB% & SO%](#bbso) | [BB/9, K/9 & HR/9](#bbkhr) | [ISO](#iso) | [FIP](#fip) | [OPS](#ops) | [wRC+](#wrc) | [WAR](#war) |
@@ -41,7 +42,7 @@ For pitchers, we include rate stats for each of the "three true outcomes," the n
 
 Yeah alright, but how many WAR is good? What does a big slugger's ISO look like? Should I be concerned about our shortstop's strikeout rate? Unfortunately, interpretation often isn't so straightforward, but hopefully these tables help contextualize the fancy stats. We've left out wRC+, which has its context built in.
 
-**2019 Qualified Batters**
+**2020 Qualified Batters**
 ```{r pressure, echo=F,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(knitr)
@@ -52,8 +53,8 @@ setwd("~/Google Drive/KBO")
 quants <- c(0,.25,.5,.75,1)
 batters <- read_csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read_csv("~/Google Drive/KBO/pitchers_simple.csv")
-batters <- batters %>% subset(Year == "2019") %>% subset(PA > 446) %>% select(BABIP, BBpct, SOpct, ISO, OPS, WAR)
-pitchers <- pitchers %>% subset(Year == "2019") %>% subset(IP2 > 144) %>% select(BABIP, BB9, SO9, HR9, FIP, WAR)
+batters <- batters %>% subset(Year == "2020") %>% subset(PA > 446) %>% select(BABIP, BBpct, SOpct, ISO, OPS, WAR)
+pitchers <- pitchers %>% subset(Year == "2020") %>% subset(IP2 > 144) %>% select(BABIP, BB9, SO9, HR9, FIP, WAR)
 
 bat.quarts <- as.data.frame(sapply(batters, quantile, probs = quants))
 
@@ -94,7 +95,7 @@ kable(bat.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), f
   column_spec(1, bold = T, border_right = F)
 ```
 
-**2019 Qualified Pitchers**
+**2020 Qualified Pitchers**
 ```{r, echo=F,warning=FALSE,message=FALSE}
 kable(pit.quarts) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%
   column_spec(1, bold = T, border_right = F)

@@ -3,6 +3,7 @@ date: "2020-03-03"
 title: What is KBO Fancy Stats?
 summary: "And what are fancy stats?"
 ---
+
 "Fancy stats" is the tongue-in-cheek term hockey fans used to describe the first wave of advanced stats in the sport, which took traditional stats from box scores and repurposed them to better understand what was happening on the ice. In particular, these new stats helped reveal whether player or team performance was replicable or just a product of hot streaks or luck. This site does something similar for Korean baseball. While analytics in Major League Baseball (and hockey) have grown far beyond box score stats, we don't have access to radar- or video-based data for the KBO. So instead we make the most of traditional data to try and understand what has happened in the KBO [to-date](/teams) and what is most likely to [happen next](/elo). KBO Fancy Stats is a project of a PhD student at Universitat Pompeu Fabra in Barcelona. It is no coincidence that the site launched in April 2020, during the COVID-19 quarantine in Catalonia.
 
 ### Data Sources

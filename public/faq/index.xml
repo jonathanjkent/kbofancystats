@@ -37,6 +37,7 @@
       <guid>/faq/stats/</guid>
       <description>
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;p&gt;Here are brief descriptions of the stats used on this site. For more about the origin of these measures, how they are calculated, and the cutting edge of baseball analytics, we recommend &lt;a href=&#34;https://library.fangraphs.com/&#34;&gt;FanGraphs’ library&lt;/a&gt;. Are you just trying to figure out what is an elite wRC+ or a middling K/9? Skip ahead to the &lt;a href=&#34;#quartiles&#34;&gt;quartiles&lt;/a&gt; at the end.&lt;/p&gt;
@@ -79,7 +80,7 @@
 &lt;div id=&#34;quartiles&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Quartiles&lt;/h3&gt;
 &lt;p&gt;Yeah alright, but how many WAR is good? What does a big slugger’s ISO look like? Should I be concerned about our shortstop’s strikeout rate? Unfortunately, interpretation often isn’t so straightforward, but hopefully these tables help contextualize the fancy stats. We’ve left out wRC+, which has its context built in.&lt;/p&gt;
-&lt;strong&gt;2019 Qualified Batters&lt;/strong&gt;
+&lt;strong&gt;2020 Qualified Batters&lt;/strong&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -109,19 +110,19 @@ Highest
 BABIP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.252
+0.265
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.302
+0.305
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.316
+0.324
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.336
+0.347
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.392
+0.396
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -129,19 +130,19 @@ BABIP
 BB%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.5
+6.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-7.6
+8.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-9.3
+9.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-11
+11.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-15.3
+16.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -149,19 +150,19 @@ BB%
 SO%
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.8
+5.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-11.7
+10.7
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-14.1
+16.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-17.4
+17.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-23.9
+27.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -169,16 +170,16 @@ SO%
 ISO
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.026
+0.037
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0.090
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.126
+0.158
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.178
+0.203
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 0.280
@@ -189,19 +190,19 @@ ISO
 OPS
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.588
+0.544
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.718
+0.759
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.771
+0.828
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.84
+0.901
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.012
+1.097
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -209,24 +210,24 @@ OPS
 WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
--0.52
+-1.58
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.58
+1.79
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-2.48
+2.66
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-4.05
+4.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-6.14
+7.09
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;strong&gt;2019 Qualified Pitchers&lt;/strong&gt;
+&lt;strong&gt;2020 Qualified Pitchers&lt;/strong&gt;
 &lt;table class=&#34;table table-striped table-hover&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -259,16 +260,16 @@ BABIP
 0.143
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.283
+0.287
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.311
+0.318
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.345
+0.347
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.615
+0.643
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -279,16 +280,16 @@ BB/9
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-2.4
+3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.6
+4.2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.2
+6.1
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-18
+21.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -299,16 +300,16 @@ SO/9
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.2
+5.3
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-6.3
+6.8
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-7.9
+8.4
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-13.5
+12.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -319,13 +320,13 @@ HR/9
 0
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.3
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
 0.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.1
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+1.6
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
 1.0
@@ -336,19 +337,19 @@ HR/9
 FIP
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-1.35
+2.48
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-3.63
+4.32
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-4.35
+5.22
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.16
+6.39
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-19.85
+15.04
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -356,19 +357,19 @@ FIP
 WAR
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
--1.21
+-1.14
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
--0.11
+-0.18
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.11
+0.03
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-0.66
+0.47
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-5.97
+6.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -392,7 +393,7 @@ WAR
 
 
 &lt;p&gt;Physics professor Arpad Elo invented Elo ratings to rank chess players, but Elo is now used for all manner of competitions. His simple but effective system sets the average player or team at 1500 and then adds or subtracts from this rating after each matchup depending on each team’s initial rating and the so-called K-factor which determines how many points are up for grabs in each game. In leagues like the NFL, where there are few but highly-meaningful games, the K-factor is high. In the 144-game KBO season, the K-factor is much lower. We set the K at 4 points and then make adjustments for home field advantage and margin of victory. After each season, we regress each team’s rating by 25%. In other words, we expect that the best teams from 2019 probably won’t be quite as good this year, the worst teams probably won’t be so bad, and the average teams will probably be about the same. That’s the starting point for the season, at least. You can see Elo ratings calculated after every game since 2013—the start of the ten team era—&lt;a href=&#34;/elohistory&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Elo ratings can also be used to make predictions about future matchups. We calculate the likelihood that each team will win every upcoming matchup and then simulate the season 100,000 times using the Monte Carlo method of drawing random numbers. The result is the series of final standings probabilities found &lt;a href=&#34;/elo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Elo ratings can also be used to make predictions about future matchups. We calculate the likelihood that each team will win every upcoming matchup and then simulate the season 20,000 times using the Monte Carlo method of drawing random numbers. The result is the series of final standings probabilities found &lt;a href=&#34;/elo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

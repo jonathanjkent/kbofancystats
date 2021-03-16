@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 2
-title = "WAR Leaders"
+title = "2020 WAR Leaders"
 [design.spacing]
 padding = ["50px", "25%", "0px", "25%"]
 [design.background]

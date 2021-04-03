@@ -10,7 +10,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
 suppressMessages(library(stringr))
 tenteam <- suppressMessages(read_csv("~/Google Drive/KBO/elohistory.csv"))
-tenteam <- tenteam %>% subset(str_sub(Date, 1, 4) == 2020)
+tenteam <- tenteam %>% subset(str_sub(Date, 1, 4) == 2021)
 tenteam$Team <- as.factor(tenteam$Team)
 
 current.elos <- tenteam %>%

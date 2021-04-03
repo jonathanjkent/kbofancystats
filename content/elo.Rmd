@@ -4,7 +4,7 @@ title: 'Elo Ratings'
 subtitle: Current Ratings, Predictions & Team Stats
 ---
 
-**Progression Charts** | [2020 Season](/elo2020/) | [Daily Ratings Since 2013](/elohistory/) |
+**Progression Charts** | [2021 Season](/elo2021/) | [Daily Ratings Since 2013](/elohistory/) |
 <br>
 
 ```{r, echo=F,warning=FALSE,message=FALSE}
@@ -14,7 +14,7 @@ suppressMessages(library(kableExtra))
 d <- suppressMessages(read_csv("~/Google Drive/KBO/predictions.csv"))
 teamstats <- suppressMessages(read_csv("~/Google Drive/KBO/teamstats.csv"))
 d <- d %>% left_join(teamstats, by = "Team")
-d <- d %>% select(Rank, Team, Elo, wRCplus, FIP, everything())
+d <- d %>% select(Rank, Team, Elo, wRCplus, FIP, everything()) %>% arrange(desc(Elo))
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
 kable(d, digits = c(0,0,0,1,2,1,1,1,1,1,1), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
   add_header_above(c("Current Elos & 2020 Stats" = 5, "2021 Playoff Seed Likelihood (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)

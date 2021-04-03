@@ -2,9 +2,9 @@
 
 widget = "blank"
 headless = true 
-active = false 
+active = true 
 weight = 5 
-title = "2020 Elo Ratings"
+title = "2021 Elo Ratings"
 subtitle = "Click Image for Predictions"
 [design.background]
 color = "white"

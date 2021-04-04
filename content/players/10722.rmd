@@ -1,5 +1,5 @@
 ---
-title: Choi Ji-gwang | 최지광
+title: Choi Ji-guang | 최지광
 subtitle: Samsung Lions | RHP
 summary: "Career Stats"
 ---
@@ -12,4 +12,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), row.names = FALSE, col.names = c("Season","Age","Team","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/1531-Choi-Jigwang-Samsung-Lions)
+**More** | [myKBO Page](https://mykbostats.com/players/1531-Choi-Jiguang-Samsung-Lions)

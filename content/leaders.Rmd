@@ -1,6 +1,6 @@
 ---
 date: "2020-03-31"
-title: 'KBO Leaders, 2020 Season'
+title: 'KBO Leaders, 2021 Season'
 ---
 
 **Overall** | [WAR](#war) | **Batters** | [WAR](#warbat) | [wRC+](#wrcplus) | [OPS](#ops) | [ISO](#iso) | **Pitchers** | [WAR](#warpit) | [FIP](#fip) | [K/9](#k9) |
@@ -18,10 +18,10 @@ batters <- read.csv("~/Google Drive/KBO/batters_simple.csv")
 pitchers <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
 batters <- unique(batters) 
 pitchers <- unique(pitchers)
-batterswar <- batters %>% filter(Year == 2020) 
-pitcherswar <- pitchers %>% filter(Year == 2020)
-batters <- batters %>% filter(Year == 2020) 
-pitchers <- pitchers %>% filter(Year == 2020)
+batterswar <- batters %>% filter(Year == 2021) 
+pitcherswar <- pitchers %>% filter(Year == 2021)
+batters <- batters %>% filter(Year == 2021) 
+pitchers <- pitchers %>% filter(Year == 2021)
 games <- max(batters$G)
 batters <- batters %>% subset(PA > (3.1*games))
 pitchers$IP <- as.numeric(pitchers$IP2)

@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 2
-title = "2020 WAR Leaders"
+title = "2021 WAR Leaders"
 [design.spacing]
 padding = ["50px", "25%", "0px", "25%"]
 [design.background]
@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Mel Rojas Jr.**](/players/11380) | [KT Wiz](/teams/KTWiz) | RF | 7.09 |
-| 2 | [**Dan Straily**](/players/13648) | [Lotte Giants](/teams/LotteGiants) | RHP | 6.80 |
-| 3 | [**Choi Hyung-woo**](/players/1349) | [Kia Tigers](/teams/KiaTigers) | OF | 6.11 |
-| 4 | [**Raul Alcántara**](/players/12997) | [Doosan Bears](/teams/DoosanBears) | RHP | 5.90 |
-| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 5.58 |
+| 1 | [**Choi Jeong**](/players/3162) | [SSG Landers](/teams/SSGLanders) | 3B | 0.26 |
+| 2 | [**Choi Joo-hwan**](/players/425) | [SSG Landers](/teams/SSGLanders) | 2B | 0.26 |
+| 3 | [**So Hyeong-jun**](/players/13935) | [KT Wiz](/teams/KTWiz) | RHP | 0.25 |
+| 4 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 0.25 |
+| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.25 |

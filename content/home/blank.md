@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 2
-title = "2021 WAR Leaders"
+title = "WAR Leaders"
 [design.spacing]
 padding = ["50px", "25%", "0px", "25%"]
 [design.background]
@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Choi Jeong**](/players/3162) | [SSG Landers](/teams/SSGLanders) | 3B | 0.26 |
-| 2 | [**Choi Joo-hwan**](/players/425) | [SSG Landers](/teams/SSGLanders) | 2B | 0.26 |
-| 3 | [**So Hyeong-jun**](/players/13935) | [KT Wiz](/teams/KTWiz) | RHP | 0.25 |
-| 4 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 0.25 |
-| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.25 |
+| 1 | [**Choi Joo-hwan**](/players/425) | [SSG Landers](/teams/SSGLanders) | IF | 0.34 |
+| 2 | [**Andrew Suarez**](/players/15013) | [LG Twins](/teams/LGTwins) | LHP | 0.30 |
+| 3 | [**Ryan Carpenter**](/players/14936) | [Hanwha Eagles](/teams/HanwhaEagles) | LHP | 0.30 |
+| 4 | [**Daniel Mengden**](/players/14964) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.29 |
+| 5 | [**Odrisamer Despaigne**](/players/13928) | [KT Wiz](/teams/KTWiz) | RHP | 0.28 |

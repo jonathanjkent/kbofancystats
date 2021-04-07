@@ -1,5 +1,5 @@
 ---
-title: Kim Ee-whan | 김이환
+title: Kim Yi-hwan | 김이환
 subtitle: Hanwha Eagles | RHP
 summary: "Career Stats"
 ---
@@ -12,4 +12,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), row.names = FALSE, col.names = c("Season","Age","Team","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/1807-Kim-Eewhan-Hanwha-Eagles)
+**More** | [myKBO Page](https://mykbostats.com/players/1807-Kim-Yihwan-Hanwha-Eagles)

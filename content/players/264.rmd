@@ -1,5 +1,5 @@
 ---
-title: Oh Hyun-taek | 오현택
+title: Oh Hyoun-taek | 오현택
 subtitle: Lotte Giants | RHP
 summary: "Career Stats"
 ---
@@ -12,4 +12,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), row.names = FALSE, col.names = c("Season","Age","Team","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/37-Oh-Hyuntaek-Lotte-Giants)
+**More** | [myKBO Page](https://mykbostats.com/players/37-Oh-Hyountaek-Lotte-Giants)

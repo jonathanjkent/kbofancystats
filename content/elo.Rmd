@@ -12,11 +12,11 @@ suppressMessages(library(dplyr))
 suppressMessages(library(readr))
 suppressMessages(library(kableExtra))
 d <- suppressMessages(read_csv("~/Google Drive/KBO/predictions.csv"))
-teamstats <- suppressMessages(read_csv("~/Google Drive/KBO/teamstats.csv"))
+teamstats <- suppressMessages(read_csv("~/Google Drive/KBO/teamstats21.csv"))
 d <- d %>% left_join(teamstats, by = "Team")
-d <- d %>% select(Rank, Team, Elo, wRCplus, FIP, everything()) %>% arrange(desc(Elo))
+d <- d %>% select(Rank, Team, Elo, wRCplus, FIP, everything()) %>% arrange(Rank)
 d$Team <- paste0("[", d$Team, "](/teams/", gsub(" ", "", d$Team), ")") 
 kable(d, digits = c(0,0,0,1,2,1,1,1,1,1,1), col.names = c("Rank","Team","Elo", "wRC+", "FIP", "1st","2nd","3rd","4th","5th","Out")) %>%
-  add_header_above(c("Current Elos & 2020 Stats" = 5, "2021 Playoff Seed Likelihood (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
+  add_header_above(c("Current Elos & 2021 Stats" = 5, "2021 Playoff Seed Likelihood (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(5, border_right = T)
 ```
 Projections based on 20,000 Monte Carlo simulations. See the [FAQ](https://www.kbofancystats.com/faq/eloratings/) for more details on Elo ratings.

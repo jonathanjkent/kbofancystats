@@ -13,6 +13,6 @@ color = "white"
 | :---: | --- | --- | ------- | -- |
 | 1 | [**Eric Jokisch**](/players/12885) | [Kiwoom Heroes](/teams/KiwoomHeroes) | LHP | 0.50 |
 | 2 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 0.50 |
-| 3 | [**Na Sung-bum**](/players/3729) | [NC Dinos](/teams/NCDinos) | RF | 0.47 |
-| 4 | [**Kim Sun-bin**](/players/1881) | [Kia Tigers](/teams/KiaTigers) | 2B | 0.47 |
-| 5 | [**Roh Si-hwan**](/players/12661) | [Hanwha Eagles](/teams/HanwhaEagles) | 3B | 0.44 |
+| 3 | [**Kim Sun-bin**](/players/1881) | [Kia Tigers](/teams/KiaTigers) | 2B | 0.50 |
+| 4 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 0.43 |
+| 5 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 0.43 |

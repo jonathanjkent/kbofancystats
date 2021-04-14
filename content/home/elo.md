@@ -5,7 +5,6 @@ headless = true
 active = true 
 weight = 5 
 title = "2021 Elo Ratings"
-subtitle = "Click Image for Predictions"
 [design.background]
 color = "white"
 [design.spacing]

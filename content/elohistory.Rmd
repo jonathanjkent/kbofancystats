@@ -11,7 +11,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
 tenteam <- suppressMessages(read_csv("~/Google Drive/KBO/elohistory.csv"))
 tenteam <- tenteam %>% suppressMessages(subset(Date > ISOdate(2013,1,1)))
-plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team)) + theme_minimal()
+plot <- ggplot() + geom_line(data = tenteam, aes(Date, Elo, color = Team)) + theme_minimal() + scale_color_brewer(palette="Paired")
 plot2 <- ggplotly(plot, width=875, height=600)
 plot2 <- config(plot2, displayModeBar = FALSE)
 plot2

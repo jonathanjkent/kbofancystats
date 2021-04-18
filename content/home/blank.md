@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.02 |
-| 2 | [**Koo Ja-wook**](/players/6753) | [Samsung Lions](/teams/SamsungLions) | RF | 0.89 |
-| 3 | [**Andrew Suarez**](/players/15013) | [LG Twins](/teams/LGTwins) | LHP | 0.81 |
-| 4 | [**Aaron Altherr**](/players/13900) | [NC Dinos](/teams/NCDinos) | CF | 0.76 |
-| 5 | [**Park Kun-woo**](/players/145) | [Doosan Bears](/teams/DoosanBears) | RF | 0.71 |
+| 1 | [**Koo Ja-wook**](/players/6753) | [Samsung Lions](/teams/SamsungLions) | RF | 1.08 |
+| 2 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.02 |
+| 3 | [**Won Tae-in**](/players/12619) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.01 |
+| 4 | [**Andrew Suarez**](/players/15013) | [LG Twins](/teams/LGTwins) | LHP | 0.81 |
+| 5 | [**Park Kun-woo**](/players/145) | [Doosan Bears](/teams/DoosanBears) | RF | 0.74 |

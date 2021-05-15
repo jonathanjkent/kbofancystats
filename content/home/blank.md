@@ -12,7 +12,7 @@ color = "white"
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
 | 1 | [**Won Tae-in**](/players/12619) | [Samsung Lions](/teams/SamsungLions) | RHP | 2.02 |
-| 2 | [**José Pirela**](/players/14880) | [Samsung Lions](/teams/SamsungLions) | LF | 1.67 |
-| 3 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 1.59 |
-| 4 | [**Aaron Brooks**](/players/13760) | [Kia Tigers](/teams/KiaTigers) | RHP | 1.50 |
-| 5 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.49 |
+| 2 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.76 |
+| 3 | [**José Pirela**](/players/14880) | [Samsung Lions](/teams/SamsungLions) | LF | 1.58 |
+| 4 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 1.55 |
+| 5 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 1.51 |

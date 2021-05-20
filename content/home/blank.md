@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 1.83 |
-| 2 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.76 |
-| 3 | [**Won Tae-in**](/players/12619) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.73 |
-| 4 | [**José Pirela**](/players/14880) | [Samsung Lions](/teams/SamsungLions) | LF | 1.70 |
-| 5 | [**Aaron Altherr**](/players/13900) | [NC Dinos](/teams/NCDinos) | CF | 1.66 |
+| 1 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | CF | 1.84 |
+| 2 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 1.83 |
+| 3 | [**Aaron Altherr**](/players/13900) | [NC Dinos](/teams/NCDinos) | CF | 1.78 |
+| 4 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.76 |
+| 5 | [**Won Tae-in**](/players/12619) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.73 |

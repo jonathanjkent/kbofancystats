@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 2.10 |
-| 2 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 1.96 |
-| 3 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | CF | 1.92 |
-| 4 | [**José Pirela**](/players/14880) | [Samsung Lions](/teams/SamsungLions) | LF | 1.88 |
-| 5 | [**Won Tae-in**](/players/12619) | [Samsung Lions](/teams/SamsungLions) | RHP | 1.77 |
+| 1 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 2.19 |
+| 2 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 2.12 |
+| 3 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 2.02 |
+| 4 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | CF | 1.92 |
+| 5 | [**Choi Jeong**](/players/3162) | [SSG Landers](/teams/SSGLanders) | 3B | 1.85 |

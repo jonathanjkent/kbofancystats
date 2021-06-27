@@ -1,5 +1,5 @@
 ---
-title: Kang Yoon-gu | 강윤구
+title: Kang Yoon-goo | 강윤구
 subtitle: NC Dinos | LHP
 summary: "Career Stats"
 ---
@@ -12,4 +12,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,1,1,1,1,3,2,2,2), row.names = FALSE, col.names = c("Season","Age","Team","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/457-Kang-Yoongu-NC-Dinos)
+**More** | [myKBO Page](https://mykbostats.com/players/457-Kang-Yoongoo-NC-Dinos)

@@ -1,5 +1,5 @@
 ---
-title: Song Seong-moon | 송성문
+title: Song Sung-mun | 송성문
 subtitle: Kiwoom Heroes | 1B
 summary: "Career Stats"
 ---
@@ -11,4 +11,4 @@ d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
 kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), row.names = FALSE, col.names = c("Season","Age","Team","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```
 <br>
-**More** | [myKBO Page](https://mykbostats.com/players/1084-Song-Seongmoon-Kiwoom-Heroes)
+**More** | [myKBO Page](https://mykbostats.com/players/1084-Song-Sungmun-Kiwoom-Heroes)

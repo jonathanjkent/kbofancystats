@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 4.45 |
-| 2 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 4.08 |
-| 3 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 3.62 |
-| 4 | [**Hong Chang-ki**](/players/9805) | [LG Twins](/teams/LGTwins) | CF | 3.56 |
-| 5 | [**Choi Jeong**](/players/3162) | [SSG Landers](/teams/SSGLanders) | 3B | 3.45 |
+| 1 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 4.42 |
+| 2 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 4.19 |
+| 3 | [**Hong Chang-ki**](/players/9805) | [LG Twins](/teams/LGTwins) | CF | 3.81 |
+| 4 | [**David Buchanan**](/players/13683) | [Samsung Lions](/teams/SamsungLions) | RHP | 3.62 |
+| 5 | [**Choi Jeong**](/players/3162) | [SSG Landers](/teams/SSGLanders) | 3B | 3.54 |

@@ -5,7 +5,7 @@ summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-d <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
+d <- readRDS("~/Google Drive/KBO/pitchers_simple.rds")
 d <- subset(d, Code == "2441", select = c(-Name, -KName, -Position, -Code, -Url))
 d <- subset(d, Year > 2013)
 d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")

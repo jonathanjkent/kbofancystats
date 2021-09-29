@@ -11,8 +11,8 @@ color = "white"
 +++
 | Rank | Name | Team | Position | WAR |
 | :---: | --- | --- | ------- | -- |
-| 1 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 4.96 |
-| 2 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 4.67 |
-| 3 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | CF | 4.65 |
-| 4 | [**Hong Chang-ki**](/players/9805) | [LG Twins](/teams/LGTwins) | CF | 4.64 |
+| 1 | [**Kang Baek-ho**](/players/11863) | [KT Wiz](/teams/KTWiz) | 1B | 4.95 |
+| 2 | [**Yang Eui-ji**](/players/215) | [NC Dinos](/teams/NCDinos) | C | 4.77 |
+| 3 | [**Hong Chang-ki**](/players/9805) | [LG Twins](/teams/LGTwins) | CF | 4.70 |
+| 4 | [**Lee Jung-hoo**](/players/10673) | [Kiwoom Heroes](/teams/KiwoomHeroes) | CF | 4.59 |
 | 5 | [**Ariel Miranda**](/players/14775) | [Doosan Bears](/teams/DoosanBears) | LHP | 4.18 |

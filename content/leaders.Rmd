@@ -29,7 +29,7 @@ d <- d[1:10,]
 d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId)
-kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","wRC+")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","wRC+")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### OPS {#ops}

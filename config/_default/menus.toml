@@ -19,6 +19,66 @@
   weight = 20
 
 [[main]]
+  parent = "Stats by Team"
+  name = "Doosan Bears"
+  url = "teams/doosanbears"
+  weight = 101
+
+[[main]]
+  parent = "Stats by Team"
+  name = "Hanwha Eagles"
+  url = "teams/hanwhaeagles"
+  weight = 102
+
+[[main]]
+  parent = "Stats by Team"
+  name = "Kia Tigers"
+  url = "teams/kiatigers"
+  weight = 103
+
+[[main]]
+  parent = "Stats by Team"
+  name = "Kiwoom Heroes"
+  url = "teams/kiwoomheroes"
+  weight = 104
+
+[[main]]
+  parent = "Stats by Team"
+  name = "KT Wiz"
+  url = "teams/ktwiz"
+  weight = 105
+
+[[main]]
+  parent = "Stats by Team"
+  name = "LG Twins"
+  url = "teams/lgtwins"
+  weight = 106
+
+[[main]]
+  parent = "Stats by Team"
+  name = "Lotte Giants"
+  url = "teams/lottegiants"
+  weight = 107
+
+[[main]]
+  parent = "Stats by Team"
+  name = "NC Dinos"
+  url = "teams/ncdinos"
+  weight = 108
+
+[[main]]
+  parent = "Stats by Team"
+  name = "Samsung Lions"
+  url = "teams/samsunglions"
+  weight = 109
+
+[[main]]
+  parent = "Stats by Team"
+  name = "SSG Landers"
+  url = "teams/ssglanders"
+  weight = 110
+
+[[main]]
   name = "Elo Ratings"
   url = "elo/"
   weight = 30

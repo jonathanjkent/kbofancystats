@@ -1,0 +1,14 @@
+---
+title: "Kim Tae-jin | 김태진"
+subtitle: "Kia Tigers | IF"
+summary: "Career Stats"
+---
+```{r , echo=F,warning=FALSE,message=FALSE}
+suppressMessages(library(kableExtra))
+code <- 973469
+d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
+d <- d[d$playerId == code,]
+vars <- c("season","age","batPa","batHr","batOps","batBBpct","batSOpct","ISO","batBABIP","wRCplus","batWAR")
+d <- na.omit(d[vars])
+kable(d, digits = c(0,0,0,0,3,1,1,3,3,1,2), row.names = F, col.names = c("Season","Age","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
+```

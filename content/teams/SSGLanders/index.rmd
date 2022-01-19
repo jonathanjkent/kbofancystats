@@ -1,39 +1,35 @@
 ---
 date: "2021-03-31"
-summary: 'WAR Leader | Choi Jeong, 3B: 5.08'
 title: 'SSG Landers'
-subtitle: 'Incheon | Current Elo: 1496 (7)'
+subtitle: 'Incheon'
+summary: 'Incheon'
 aliases:
     - /teams/SKWyverns
 image:
   preview_only: true
 ---
 **2021** | [Batting](#batting) | [Pitching](#pitching) | 
-**2020** | [Batting](https://www.kbofancystats.com/teams-2020/SSGLanders/#batting) | [Pitching](https://www.kbofancystats.com/teams-2020/SSGLanders/#pitching) | 
  
 ***
 ### 2021 Batting Stats {#batting}
-```{r pressure, echo=F,warning=FALSE,message=FALSE}
-suppressMessages(library(dplyr))
-suppressMessages(library(readr))
+```{r batters, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-batters <- suppressMessages(read_csv("~/Google Drive/KBO/batters_simple.csv", col_types = cols(.default = "?", Year = "c", Age = "c")))
-batters <- batters[complete.cases(batters),]
-batters$Age <- as.numeric(batters$Age)
-d <- batters %>% filter(Team == "SSG Landers") %>% filter(Year == "2021") %>% select(-Team, -Year, -KName, -Url)
-d <- d[order(-d$WAR),]
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d <- d %>% select(-Code)
-kable(d, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), col.names = c("Name","Age","Pos","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>%column_spec(1, bold = T, border_right = F)
+d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
+d <- d[d$season == "2021" & d$TeamNameEng == "SSG Landers",]
+vars <- c("Name","position","age","batGs","batPa","batHr","batOps","batBBpct","batSOpct","ISO","batBABIP","wRCplus","batWAR")
+players <- na.omit(d[c(vars,"playerId")])
+players$Name <- paste0("[", players$Name, "](/players/", players$playerId, ")")
+players <- players[vars]
+players <- players[order(-players[,13]),]
+kable(players, digits = c(0,0,0,0,0,0,3,1,1,3,3,1,2), row.names = F, col.names = c("Name","Pos","Age","G","PA","HR","OPS","BB%","SO%","ISO","BABIP","wRC+","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
 ```
 ***
 ### 2021 Pitching Stats {#pitching}
-```{r, echo=F,warning=FALSE,message=FALSE}
-pitchers <- suppressMessages(read_csv("~/Google Drive/KBO/pitchers_simple.csv", col_types = cols(.default = "?", Year = "c", Age = "c")))
-pitchers <- pitchers[complete.cases(pitchers),]
-d <- pitchers %>% filter(Team == "SSG Landers") %>% filter(Year == "2021") %>% select(-Team, -Year, -KName, -Position, -Url)
-d <- d[order(-d$WAR),]
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d <- d %>% select(-Code)
-kable(d, digits = c(0,0,0,0,1,1,1,1,3,3,2,2), col.names = c("Name","Age","G","GS","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
+```{r pitchers, echo=F,warning=FALSE,message=FALSE}
+vars <- c("Name","age","pitGp","pitIp","K9","BB9","HR9","pitBABIP","pitEra","FIP","pitWAR")
+players <- na.omit(d[c(vars,"playerId")])
+players$Name <- paste0("[", players$Name, "](/players/", players$playerId, ")")
+players <- players[vars]
+players <- players[order(-players[,11]),]
+kable(players, digits = c(0,0,0,1,1,1,1,3,3,2,2), row.names = F, col.names = c("Name","Age","G","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
 ```

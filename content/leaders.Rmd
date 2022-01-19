@@ -3,122 +3,81 @@ date: "2020-03-31"
 title: 'KBO Leaders, 2021 Season'
 ---
 
-**Overall** | [WAR](#war) | **Batters** | [WAR](#warbat) | [wRC+](#wrcplus) | [OPS](#ops) | [ISO](#iso) | **Pitchers** | [WAR](#warpit) | [FIP](#fip) | [K/9](#k9) |
+**Batters** | [WAR](#warbat) | [wRC+](#wrcplus) | [OPS](#ops) | [ISO](#iso) | 
 <br>
-**Season** | [2021](/leaders/) | [2020](/leaders-2020) | [2019](/leaders-2019) | [2018](/leaders-2018/) | [2017](/leaders-2017) | [2016](/leaders-2016) | [2015](/leaders-2015) | [2014](/leaders-2014)
+**Pitchers** | [WAR](#warpit) | [FIP](#fip) | [K/9](#k9) |
 
 
-***
-### WAR, Overall {#war}
-```{r, echo=F,warning=FALSE,message=FALSE}
-suppressMessages(library(dplyr))
-suppressMessages(library(readr))
-suppressMessages(library(kableExtra))
-batters <- read.csv("~/Google Drive/KBO/batters_simple.csv")
-pitchers <- read.csv("~/Google Drive/KBO/pitchers_simple.csv")
-batters <- unique(batters) 
-pitchers <- unique(pitchers)
-batterswar <- batters %>% filter(Year == 2021) 
-pitcherswar <- pitchers %>% filter(Year == 2021)
-batters <- batters %>% filter(Year == 2021) 
-pitchers <- pitchers %>% filter(Year == 2021)
-games <- max(batters$G)
-batters <- batters %>% subset(PA > (3.1*games))
-pitchers$IP <- as.numeric(pitchers$IP2)
-pitchers <- pitchers %>% subset(IP > (games*.5))
-batwar <- batterswar %>% select(Code,Name,Team,Age,Position,WAR)
-pitwar <- pitcherswar %>% select(Code,Name,Team,Age,Position,WAR)
-d <- rbind(batwar,pitwar)
-d <- d %>% arrange(desc(WAR))
-d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, WAR)
-kable(d, digits = c(0,0,0,0,0,2), col.names = c("Rank","Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
-```
 ***
 ### WAR, Batters {#warbat}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- batterswar %>% select(Code,Name,Team,Age,Position,WAR) %>% arrange(desc(WAR))
+suppressMessages(library(dplyr))
+suppressMessages(library(kableExtra))
+stats <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds") %>% filter(season == 2021)
+d <- stats %>% filter(batPa > 100) %>% select(playerId,Name,TeamNameEng,age,position,batWAR) %>% arrange(desc(batWAR))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, WAR)
-kable(d, digits = c(0,0,0,0,0,2), col.names = c("Rank","Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### wRC+ {#wrcplus}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- batters %>% select(Code,Name,Team,Age,Position,wRCplus) %>% arrange(desc(wRCplus))
+d <- stats %>% filter(batPa > 100) %>% select(playerId,Name,TeamNameEng,age,position,wRCplus) %>% arrange(desc(wRCplus))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, wRCplus)
-kable(d, digits = c(0,0,0,0,0,1), col.names = c("Rank","Name","Team","Age","Pos","wRC+")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","wRC+")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### OPS {#ops}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- batters %>% select(Code,Name,Team,Age,Position,OPS) %>% arrange(desc(OPS))
+d <- stats %>% filter(batPa > 100) %>% select(playerId,Name,TeamNameEng,age,position,batOps) %>% arrange(desc(batOps))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, OPS)
-kable(d, digits = c(0,0,0,0,0,3), col.names = c("Rank","Name","Team","Age","Pos","OPS")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","OPS")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### ISO {#iso}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- batters %>% select(Code,Name,Team,Age,Position,ISO) %>% arrange(desc(ISO))
+d <- stats %>% filter(batPa > 100) %>% select(playerId,Name,TeamNameEng,age,position,ISO) %>% arrange(desc(ISO))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, ISO)
-kable(d, digits = c(0,0,0,0,0,3), col.names = c("Rank","Name","Team","Age","Pos","ISO")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","ISO")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### WAR, Pitchers {#warpit}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- pitcherswar %>% select(Code,Name,Team,Age,Position,WAR) %>% arrange(desc(WAR))
+d <- stats %>% filter(pitIp2 > 150) %>% select(playerId,Name,TeamNameEng,age,position,pitWAR) %>% arrange(desc(pitWAR))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, WAR)
-kable(d, digits = c(0,0,0,0,0,2), col.names = c("Rank","Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### FIP {#fip}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- pitchers %>% select(Code,Name,Team,Age,Position,FIP) %>% arrange(FIP)
+d <- stats %>% filter(pitIp2 > 150) %>% select(playerId,Name,TeamNameEng,age,position,FIP) %>% arrange(desc(FIP))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, FIP)
-kable(d, digits = c(0,0,0,0,0,2), col.names = c("Rank","Name","Team","Age","Pos","FIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","FIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### K/9 {#k9}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- pitchers %>% select(Code,Name,Team,Age,Position,SO9) %>% arrange(desc(SO9))
+d <- stats %>% filter(pitIp2 > 150) %>% select(playerId,Name,TeamNameEng,age,position,K9) %>% arrange(desc(K9))
 d <- d[1:10,]
-names(d)[2] <- "Name"
-d$Name <- paste0("[", d$Name, "](/players/", d$Code, ")")
-d$Team <- paste0("[", d$Team, "](/teams/", gsub("[[:space:]]", "", d$Team), ")")
-d$Rank <- 1:10
-d <- d %>% select(Rank, Name, Team, Age,Position, SO9)
-kable(d, digits = c(0,0,0,0,0,2), col.names = c("Rank","Name","Team","Age","Pos","K/9")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
+d$Name <- paste0("[", d$Name, "](/players/", d$playerId, ")")
+d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
+d <- d %>% select(-playerId)
+kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","K/9")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)  %>% column_spec(2, bold = T, border_right = F)
 ```

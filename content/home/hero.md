@@ -38,4 +38,4 @@ hero_media = "kbo.png"
 
 
 +++
-Advanced analytics for the Korean Baseball Organization League. Stats since 2014 based on FanGraphs' methodology—plus Elo ratings and predictions—using data scraped from [MyKBOStats.com](https://mykbostats.com).
+Advanced analytics for the Korean Baseball Organization League. Stats based on FanGraphs' methodology—plus Elo ratings and predictions.

@@ -3,20 +3,11 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
-  url = ""
-  weight = 10
-
-[[main]]
-  name = "Leaders"
-  url = "leaders/"
-  weight = 15
 
 [[main]]
   name = "Stats by Team"
   url = "teams/"
-  weight = 20
+  weight = 10
 
 [[main]]
   parent = "Stats by Team"
@@ -78,15 +69,27 @@
   url = "teams/ssglanders"
   weight = 110
 
+
+[[main]]
+  name = "Compare Players"
+  url = "compare/"
+  weight = 20
+
+[[main]]
+  name = "Leaders"
+  url = "leaders/"
+  weight = 30
+
 [[main]]
   name = "Elo Ratings"
   url = "elo/"
-  weight = 30
+  weight = 40
+
 
 [[main]]
   name = "FAQ"
   url = "faq/"
-  weight = 40
+  weight = 50
 
 
 # Link to a PDF of your resume/CV from the menu.

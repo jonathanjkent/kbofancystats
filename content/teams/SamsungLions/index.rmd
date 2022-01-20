@@ -24,11 +24,11 @@ kable(players, digits = c(0,0,0,0,1,1,3,3,3,1,2), row.names = F, col.names = c("
 ***
 ### 2021 Pitching Stats {#pitching}
 ```{r pitchers, echo=F,warning=FALSE,message=FALSE}
-vars <- c("Name","age","pitIp","K9","BB9","HR9","pitBABIP","pitEra","FIP","pitWAR")
+vars <- c("Name","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")
 players <- na.omit(d[c(vars,"playerId")])
 players <- na.omit(d[c(vars,"playerId","playerNameKor")])
 players$Name <- paste0("[", players$Name," | ",players$playerNameKor, "](/players/", players$playerId, ")")
 players <- players[vars]
-players <- players[order(-players[,10]),]
-kable(players, digits = c(0,0,1,1,1,1,3,3,2,2), row.names = F, col.names = c("Name","Age","IP","K/9","BB/9","HR/9","BABIP","ERA","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
+players <- players[order(-players[,11]),]
+kable(players, digits = c(0,0,1,1,1,1,3,1,2,2,2), row.names = F, col.names = c("Name","Age","IP","K/9","BB/9","HR/9","BABIP","xGB%","xFIP","FIP","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
 ```

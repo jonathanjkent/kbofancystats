@@ -2,14 +2,14 @@
 
 widget = "blank"
 headless = true 
-active = false 
+active = true 
 weight = 5 
-title = "2021 Elo Ratings"
+title = "ALL-WAR TEAM"
 [design.background]
 color = "white"
 [design.spacing]
-padding = ["15px", "8%", "0px", "8%"]
+#padding = ["15px", "5%", "0px", "5%"]
 
 +++
 
-{{< figure library="true" src="elo.png" link="elo/" >}}
+{{< figure library="true" src="allwar.png" link="leaders/" class="h1">}}

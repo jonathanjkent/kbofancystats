@@ -5,7 +5,7 @@ title: 'KBO Leaders, 2021 Season'
 
 **Batters** | [WAR](#warbat) | [wRC+](#wrcplus) | [OPS](#ops) | [ISO](#iso) | 
 <br>
-**Pitchers** | [WAR](#warpit) | [FIP](#fip) | [K/9](#k9) |
+**Pitchers** | [WAR](#warpit) | [FIP](#fip) | [xFIP](#xfip) | [K/9](#k9) |
 <br>
 **Fielders** | [C](#c) | [1B](#first) | [2B](#second) | [2B](#second) | [3B](#third) | [SS](#ss) | [LF](#left) | [CF](#center) | [RF](#right) |
 
@@ -18,7 +18,7 @@ suppressMessages(library(kableExtra))
 stats <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds") %>% filter(season == max(season))
 limit <- max(stats$batGp, na.rm = T) * 1.5
 
-d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,batWAR) %>% arrange(desc(batWAR))
+d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,pos,batWAR) %>% arrange(desc(batWAR))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
@@ -28,7 +28,7 @@ kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age"
 ***
 ### wRC+ {#wrcplus}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,wRCplus) %>% arrange(desc(wRCplus))
+d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,pos,wRCplus) %>% arrange(desc(wRCplus))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
@@ -38,7 +38,7 @@ kable(d, digits = c(0,0,0,0,1), row.names = T, col.names = c("Name","Team","Age"
 ***
 ### OPS {#ops}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,batOps) %>% arrange(desc(batOps))
+d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,pos,batOps) %>% arrange(desc(batOps))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
@@ -48,7 +48,7 @@ kable(d, digits = c(0,0,0,0,3), row.names = T, col.names = c("Name","Team","Age"
 ***
 ### ISO {#iso}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,ISO) %>% arrange(desc(ISO))
+d <- stats %>% filter(batPa > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,pos,ISO) %>% arrange(desc(ISO))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")

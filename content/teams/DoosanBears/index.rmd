@@ -2,7 +2,7 @@
 date: "2022-01-23"
 title: 'Doosan Bears'
 subtitle: 'Seoul'
-summary: 'WAR Leader: Ariel Miranda (5.71)'
+summary: 'WAR Leader: Ariel Miranda (6.05)'
 image:
   preview_only: true
 ---
@@ -15,6 +15,7 @@ suppressMessages(library(kableExtra))
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$season == '2021' & d$TeamNameEng == 'Doosan Bears',]
 vars <- c("Name","pos","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
+d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
 players <- na.omit(d[c(vars,"playerId","playerNameKor")])
 players$Name <- paste0("[", players$Name," | ",players$playerNameKor, "](/players/", players$playerId, ")")
 players <- players[vars]

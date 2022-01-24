@@ -9,6 +9,7 @@ code <- 1631581
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
+d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
 d <- na.omit(d[vars])
 kable(d, digits = c(0,0,0,1,1,3,3,1,1,2), row.names = F, col.names = c("Season","Age","PA","BB%","SO%","ISO","BABIP","wRC+","SFR","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T)
 ```

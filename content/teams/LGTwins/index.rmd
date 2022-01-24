@@ -2,7 +2,7 @@
 date: "2022-01-23"
 title: 'LG Twins'
 subtitle: 'Seoul'
-summary: 'WAR Leader: Hong Chang-ki (7.82)'
+summary: 'WAR Leader: Hong Chang-ki (7.8)'
 image:
   preview_only: true
 ---
@@ -15,6 +15,7 @@ suppressMessages(library(kableExtra))
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$season == '2021' & d$TeamNameEng == 'LG Twins',]
 vars <- c("Name","pos","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
+d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
 players <- na.omit(d[c(vars,"playerId","playerNameKor")])
 players$Name <- paste0("[", players$Name," | ",players$playerNameKor, "](/players/", players$playerId, ")")
 players <- players[vars]

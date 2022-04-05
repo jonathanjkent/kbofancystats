@@ -1,6 +1,6 @@
 ---
 date: "2020-03-31"
-title: 'Elo Ratings, 2021 Season'
+title: 'Elo Ratings, 2022 Season'
 ---
 Click team names to remove or double-click to isolate. Drag with cursor to zoom.
 ```{r, echo=F,warning=FALSE,message=FALSE}
@@ -9,7 +9,7 @@ suppressMessages(library(plotly))
 suppressMessages(library(RColorBrewer))
 current <- readRDS("~/GoogleDrive/KBO/elo_current.rds")
 d <- readRDS("~/GoogleDrive/KBO/elo_history.rds")
-d <- d[d$date>as.Date("2021-01-01"),]
+d <- d[d$date>as.Date("2022-01-01"),]
 d$team <- factor(d$team, levels = current$team)
 
 plot <- ggplot(d, aes(date, elo, color = team)) + geom_line() + theme_minimal() + scale_color_brewer(palette="Paired")

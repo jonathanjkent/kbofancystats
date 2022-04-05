@@ -4,7 +4,7 @@ title: 'Elo Ratings'
 subtitle: Current Ratings, Predictions & Team Stats
 ---
 
-**Progression Charts** | [2021 Season](/eloseason/) | [Daily Ratings Since 2007](/elohistory/) |
+**Progression Charts** | [Current Season](/eloseason/) | [Daily Ratings Since 2007](/elohistory/) |
 <br>
 
 ```{r, echo=F,warning=FALSE,message=FALSE}

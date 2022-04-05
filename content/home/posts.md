@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "2021 Stats by Team"
+title = "Stats by Team"
 #subtitle = "Batting & Pitching Statistics"
 
 [content]

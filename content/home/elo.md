@@ -2,7 +2,7 @@
 
 widget = "blank"
 headless = true 
-active = false 
+active = true 
 weight = 5 
 title = "ALL-WAR TEAM"
 [design.background]

@@ -16,6 +16,7 @@ d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$season == '2022' & d$TeamNameEng == 'Hanwha Eagles',]
 vars <- c("Name","pos","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
 d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
+d$pos <- ifelse(is.na(d$pos),"DH",d$pos)
 players <- na.omit(d[c(vars,"playerId","playerNameKor")])
 players$Name <- paste0("[", players$Name," | ",players$playerNameKor, "](/players/", players$playerId, ")")
 players <- players[vars]

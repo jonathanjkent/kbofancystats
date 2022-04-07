@@ -1,11 +1,11 @@
 ---
-title: "Lee Myuong-ki | 이명기"
+title: "Lee Byung-gyu | 이병규"
 subtitle: "Kiwoom Heroes | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1662655
+code <- 1403558
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

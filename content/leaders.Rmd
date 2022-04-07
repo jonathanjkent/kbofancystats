@@ -58,42 +58,42 @@ kable(d, digits = c(0,0,0,0,3), row.names = T, col.names = c("Name","Team","Age"
 ***
 ### WAR, Pitchers {#warpit}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,pitWAR) %>% arrange(desc(pitWAR))
+d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,pitWAR) %>% arrange(desc(pitWAR))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId,-playerNameKor)
-kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
+kable(d, digits = c(0,0,0,2), row.names = T, col.names = c("Name","Team","Age","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### FIP {#fip}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,FIP) %>% arrange(FIP)
+d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,FIP) %>% arrange(FIP)
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId,-playerNameKor)
-kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","FIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
+kable(d, digits = c(0,0,0,2), row.names = T, col.names = c("Name","Team","Age","FIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### xFIP {#xfip}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,xFIP) %>% arrange(xFIP)
+d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,xFIP) %>% arrange(xFIP)
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId,-playerNameKor)
-kable(d, digits = c(0,0,0,0,2), row.names = T, col.names = c("Name","Team","Age","Pos","xFIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
+kable(d, digits = c(0,0,0,2), row.names = T, col.names = c("Name","Team","Age","xFIP")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### K/9 {#k9}
 ```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,position,K9) %>% arrange(desc(K9))
+d <- stats %>% filter(pitIp2 > limit) %>% select(playerId,playerNameKor,Name,TeamNameEng,age,K9) %>% arrange(desc(K9))
 d <- d[1:10,]
 d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId,-playerNameKor)
-kable(d, digits = c(0,0,0,0,1), row.names = T, col.names = c("Name","Team","Age","Pos","K/9")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
+kable(d, digits = c(0,0,0,1), row.names = T, col.names = c("Name","Team","Age","K/9")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### SFR (C) {#c}

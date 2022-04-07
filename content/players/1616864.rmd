@@ -1,11 +1,11 @@
 ---
-title: "Han Seung-hyuk | 한승혁"
-subtitle: "Kia Tigers | P"
+title: "Park Shin-zi | 박신지"
+subtitle: "Doosan Bears | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 154549
+code <- 1616864
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

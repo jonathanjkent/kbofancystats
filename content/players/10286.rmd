@@ -1,11 +1,11 @@
 ---
-title: "Choi Min-jun | 최민준"
+title: "Kim Kwang-hyun | 김광현"
 subtitle: "SSG Landers | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1616848
+code <- 10286
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

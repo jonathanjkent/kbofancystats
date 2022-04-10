@@ -1,11 +1,11 @@
 ---
-title: "Kim Hyun-soo | 김현수"
-subtitle: "Kia Tigers | P"
+title: "Glenn Sparkman | 스파크맨"
+subtitle: "Lotte Giants | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1631620
+code <- 1672574
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

@@ -1,11 +1,11 @@
 ---
-title: "An Sang-hyun | 안상현"
-subtitle: "SSG Landers | SS"
+title: "Choi Kyeung-mo | 최경모"
+subtitle: "SSG Landers | 3B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1216239
+code <- 1632202
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

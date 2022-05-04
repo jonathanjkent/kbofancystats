@@ -1,11 +1,11 @@
 ---
-title: "Kwon Hui-dong | 권희동"
-subtitle: "NC Dinos | DH"
+title: "Kim Dong-jin | 김동진"
+subtitle: "Samsung Lions | 2B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 799488
+code <- 1676574
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

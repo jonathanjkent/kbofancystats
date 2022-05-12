@@ -1,11 +1,11 @@
 ---
-title: "Kim In-hwan | 김인환"
-subtitle: "Hanwha Eagles | DH"
+title: "Im Seok-jin | 임석진"
+subtitle: "Kia Tigers | 3B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1218064
+code <- 1216235
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

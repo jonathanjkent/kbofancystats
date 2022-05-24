@@ -1,11 +1,11 @@
 ---
-title: "Bae Seong-geun | 배성근"
-subtitle: "Lotte Giants | 2B"
+title: "Lee Sung-gyu | 이성규"
+subtitle: "Samsung Lions | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 975064
+code <- 1216202
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

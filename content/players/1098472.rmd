@@ -1,11 +1,11 @@
 ---
-title: "Ra Won-tak | 나원탁"
-subtitle: "Lotte Giants | P"
+title: "Koo Chang-mo | 구창모"
+subtitle: "NC Dinos | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403031
+code <- 1098472
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

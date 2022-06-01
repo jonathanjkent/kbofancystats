@@ -1,11 +1,11 @@
 ---
-title: "Han Tae-yang | 한태양"
-subtitle: "Lotte Giants | 3B"
+title: "Yoon Dong-hee | 윤동희"
+subtitle: "Lotte Giants | 1B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1672576
+code <- 1681511
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

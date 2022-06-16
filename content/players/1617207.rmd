@@ -1,11 +1,11 @@
 ---
-title: "José Miguel Fernández | 페르난데스"
-subtitle: "Doosan Bears | 1B"
+title: "Cho Dae-hyun | 조대현"
+subtitle: "KT Wiz | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1631570
+code <- 1617207
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

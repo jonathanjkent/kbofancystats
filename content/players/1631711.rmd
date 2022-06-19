@@ -1,11 +1,11 @@
 ---
-title: "Moon Sung-ju | 문성주"
-subtitle: "LG Twins | LF"
+title: "Kim Min-su | 김민수"
+subtitle: "Lotte Giants | RF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1617181
+code <- 1631711
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

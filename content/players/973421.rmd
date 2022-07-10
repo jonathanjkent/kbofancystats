@@ -1,11 +1,11 @@
 ---
-title: "Cho Yong-ho | 조용호"
-subtitle: "KT Wiz | RF"
+title: "Ahn Seung-han | 안승한"
+subtitle: "Doosan Bears | C"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1101151
+code <- 973421
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

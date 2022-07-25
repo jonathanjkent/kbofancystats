@@ -1,11 +1,11 @@
 ---
-title: "Jang Jin-hyuk | 장진혁"
-subtitle: "Hanwha Eagles | LF"
+title: "Shin Beom-soo | 신범수"
+subtitle: "Kia Tigers | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1218058
+code <- 1216225
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

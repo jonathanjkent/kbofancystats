@@ -1,11 +1,11 @@
 ---
-title: "Cho Hyeong-woo | 조형우"
-subtitle: "SSG Landers | C"
+title: "Zachary Reks | 렉스"
+subtitle: "Lotte Giants | CF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1656221
+code <- 1724792
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

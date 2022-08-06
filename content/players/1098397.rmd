@@ -1,11 +1,11 @@
 ---
-title: "Shawn Morimando | 모리만도"
-subtitle: "SSG Landers | P"
+title: "Cho Mu-geun | 조무근"
+subtitle: "Lotte Giants | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1721538
+code <- 1098397
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

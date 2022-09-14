@@ -1,11 +1,11 @@
 ---
-title: "Kim Min-su | 김민수"
-subtitle: "Lotte Giants | 2B"
+title: "Yoo Sang-bin | 유상빈"
+subtitle: "Hanwha Eagles | RF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403034
+code <- 1805300
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

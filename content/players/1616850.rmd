@@ -1,11 +1,11 @@
 ---
-title: "Kim Ki-yeon | 김기연"
-subtitle: "LG Twins | C"
+title: "Jun Gyeong-won | 전경원"
+subtitle: "SSG Landers | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1218001
+code <- 1616850
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

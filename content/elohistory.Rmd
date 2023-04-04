@@ -8,7 +8,7 @@ suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
 d <- readRDS("~/GoogleDrive/KBO/elo_history.rds")
 d$team <- factor(d$team, levels = sort(unique(d$team)))
-plot <- ggplot() + geom_line(data = d, aes(date, elo, color = team)) + theme_minimal() + scale_color_brewer(palette="Paired")
+plot <- ggplot() + geom_line(data = d, aes(date, elo, color = team)) + theme_minimal() + scale_color_brewer(palette="Paired") %>% labs(y="Elo",x=NULL,color="Team")
 plot2 <- ggplotly(plot, width=875, height=600)
 plot2 <- config(plot2, displayModeBar = FALSE)
 plot2

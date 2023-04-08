@@ -1,11 +1,11 @@
 ---
-title: "Park Hae-min | 박해민"
-subtitle: "LG Twins | CF"
+title: "Joo Hyo-sang | 주효상"
+subtitle: "Kia Tigers | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 435395
+code <- 1216192
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

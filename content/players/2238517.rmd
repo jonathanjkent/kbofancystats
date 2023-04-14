@@ -1,11 +1,11 @@
 ---
-title: "Yoon Myung-june | 윤명준"
-subtitle: "Lotte Giants | P"
+title: "Kwak Do-gyu | 곽도규"
+subtitle: "Kia Tigers | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 433921
+code <- 2238517
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

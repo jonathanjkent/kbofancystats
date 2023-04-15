@@ -1,11 +1,11 @@
 ---
-title: "Jeong Bo-keun | 정보근"
-subtitle: "Lotte Giants | C"
+title: "Jeong Jun-young | 정준영"
+subtitle: "KT Wiz | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1617172
+code <- 2238520
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

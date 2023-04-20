@@ -1,11 +1,11 @@
 ---
-title: "Im Jun-seob | 임준섭"
-subtitle: "SSG Landers | P"
+title: "Kim Seo-hyeon | 김서현"
+subtitle: "Hanwha Eagles | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 435406
+code <- 2238516
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

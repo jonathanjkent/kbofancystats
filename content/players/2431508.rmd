@@ -1,11 +1,11 @@
 ---
-title: "Lee Chang-jin | 이창진"
-subtitle: "Kia Tigers | RF"
+title: "Kim Geon-ung | 김건웅"
+subtitle: "SSG Landers | 1B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 973457
+code <- 2431508
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

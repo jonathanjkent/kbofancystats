@@ -1,11 +1,11 @@
 ---
-title: "Choi Jun-woo | 최준우"
-subtitle: "SSG Landers | DH"
+title: "Kim Sang-min | 김상민"
+subtitle: "Samsung Lions | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1616849
+code <- 2443028
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

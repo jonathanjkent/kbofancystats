@@ -1,11 +1,11 @@
 ---
-title: "Lim Byeong-wuk | 임병욱"
-subtitle: "Kiwoom Heroes | RF"
+title: "Ju Seong-won | 주성원"
+subtitle: "Kiwoom Heroes | LF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 973450
+code <- 1631635
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

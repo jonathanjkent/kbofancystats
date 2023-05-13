@@ -1,11 +1,11 @@
 ---
-title: "Lee Jae-won | 이재원"
-subtitle: "LG Twins | LF"
+title: "Seo Dong-wook | 서동욱"
+subtitle: "Lotte Giants | C"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1617175
+code <- 2470362
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

@@ -1,11 +1,11 @@
 ---
-title: "Ji Si-wan | 지시완"
-subtitle: "Lotte Giants | C"
+title: "Park Min-suk | 박민석"
+subtitle: "KT Wiz | SS"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 975087
+code <- 1631600
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

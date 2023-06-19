@@ -1,11 +1,11 @@
 ---
-title: "Hong Seong-ho | 홍성호"
-subtitle: "Doosan Bears | RF"
+title: "Kim Chan-hyung | 김찬형"
+subtitle: "SSG Landers | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1216187
+code <- 1216240
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

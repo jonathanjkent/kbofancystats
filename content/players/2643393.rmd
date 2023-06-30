@@ -1,11 +1,11 @@
 ---
-title: "Choi Won-jun | 최원준"
-subtitle: "Doosan Bears | P"
+title: "Ian McKinney | 맥키니"
+subtitle: "Kiwoom Heroes | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403553
+code <- 2643393
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

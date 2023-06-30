@@ -1,11 +1,11 @@
 ---
-title: "Choi Won-jun | 최원준"
-subtitle: "Doosan Bears | P"
+title: "Lee Ki-soon | 이기순"
+subtitle: "SSG Landers | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403553
+code <- 1702187
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

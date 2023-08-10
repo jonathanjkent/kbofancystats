@@ -12,6 +12,6 @@ suppressMessages(library(kableExtra))
 d <- readRDS("~/GoogleDrive/KBO/standings_pred.rds")
 d$team <- paste0("[", d$team, "](/teams/", gsub(" ", "", tolower(d$team)), ")") 
 kable(d, digits = c(0,0,3,2,1,1,1,1,1,1,1), row.names = T, col.names = c("Team","Elo", "wOBA", "FIP","SFR", "1st","2nd","3rd","4th","5th","Out")) %>%
-  add_header_above(c("Current Elos & Stats" = 6, "2022 Playoff Seed Likelihood (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(6, border_right = T)
+  add_header_above(c("Current Elos & Stats" = 6, "Playoff Seed Likelihood (%)" = 6)) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T) %>% column_spec(6, border_right = T)
 ```
 Projections based on 20,000 Monte Carlo simulations. See the [FAQ](https://www.kbofancystats.com/faq/eloratings/) for more details on Elo ratings.

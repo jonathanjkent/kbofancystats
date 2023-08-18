@@ -1,11 +1,11 @@
 ---
-title: "Aaron Wilkerson | 윌커슨"
-subtitle: "Lotte Giants | P"
+title: "Tanner Tully | 태너"
+subtitle: "NC Dinos | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2749313
+code <- 2832310
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

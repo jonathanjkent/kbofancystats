@@ -1,11 +1,11 @@
 ---
-title: "Lee Jeong-hun | 이정훈"
-subtitle: "Lotte Giants | DH"
+title: "Kim Hyung-jun | 김형준"
+subtitle: "NC Dinos | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403043
+code <- 1616898
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

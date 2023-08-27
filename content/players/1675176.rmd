@@ -1,11 +1,11 @@
 ---
-title: "Ronnie Dawson | 도슨"
-subtitle: "Kiwoom Heroes | LF"
+title: "Kim Byeong-jun | 김병준"
+subtitle: "KT Wiz | CF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2753206
+code <- 1675176
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

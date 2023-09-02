@@ -1,11 +1,11 @@
 ---
-title: "Yoon Ho-sol | 윤호솔"
-subtitle: "LG Twins | P"
+title: "Kim Si-hyun | 김시현"
+subtitle: "Samsung Lions | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 799487
+code <- 1403032
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

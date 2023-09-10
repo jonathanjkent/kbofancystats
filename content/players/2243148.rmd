@@ -1,11 +1,11 @@
 ---
-title: "Park Dae-on | 박대온"
-subtitle: "NC Dinos | C"
+title: "Park Soo-jong | 박수종"
+subtitle: "Kiwoom Heroes | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 973542
+code <- 2243148
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

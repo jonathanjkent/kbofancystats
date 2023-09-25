@@ -1,11 +1,11 @@
 ---
-title: "Kim Dong-hyeok | 김동혁"
-subtitle: "Lotte Giants | RF"
+title: "Park Han-gyeol | 박한결"
+subtitle: "NC Dinos | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2929472
+code <- 2238578
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

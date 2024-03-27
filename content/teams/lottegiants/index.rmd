@@ -2,18 +2,18 @@
 date: "2022-01-23"
 title: 'Lotte Giants'
 subtitle: 'Busan'
-summary: 'WAR Leader: Jeon Jun-woo (5.73)'
+summary: 'WAR Leader: Víctor Reyes (0.22)'
 image:
   preview_only: true
 ---
 [Batting](#batting) | [Pitching](#pitching)
  
 ***
-### 2023 Batting Stats {#batting}
+### 2024 Batting Stats {#batting}
 ```{r batters, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
-d <- d[d$season == '2023' & d$TeamNameEng == 'Lotte Giants',]
+d <- d[d$season == '2024' & d$TeamNameEng == 'Lotte Giants',]
 vars <- c("Name","pos","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
 d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
 d$pos <- ifelse(is.na(d$pos),"DH",d$pos)
@@ -24,7 +24,7 @@ players <- players[order(-players[,11]),]
 kable(players, digits = c(0,0,0,0,1,1,3,3,1,1,2), row.names = F, col.names = c("Name","Pos","Age","PA","BB%","SO%","ISO","BABIP","wRC+","SFR","WAR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(1, bold = T, border_right = F)
 ```
 ***
-### 2023 Pitching Stats {#pitching}
+### 2024 Pitching Stats {#pitching}
 ```{r pitchers, echo=F,warning=FALSE,message=FALSE}
 vars <- c("Name","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")
 players <- na.omit(d[c(vars,"playerId")])

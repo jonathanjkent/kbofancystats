@@ -7,7 +7,7 @@ title: 'KBO Leaders, 2024 Season'
 <br>
 **Pitchers** | [WAR](#warpit) | [FIP](#fip) | [xFIP](#xfip) | [K/9](#k9) |
 <br>
-**Fielders** | [C](#c) | [1B](#first) | [2B](#second) | [2B](#second) | [3B](#third) | [SS](#ss) | [LF](#left) | [CF](#center) | [RF](#right) |
+**Fielders** | [1B](#first) | [2B](#second) | [2B](#second) | [3B](#third) | [SS](#ss) | [LF](#left) | [CF](#center) | [RF](#right) |
 
 
 ***
@@ -94,16 +94,6 @@ d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, "
 d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
 d <- d %>% select(-playerId,-playerNameKor)
 kable(d, digits = c(0,0,0,1), row.names = T, col.names = c("Name","Team","Age","K/9")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
-```
-***
-### SFR (C) {#c}
-```{r, echo=F,warning=FALSE,message=FALSE}
-d <- stats %>% filter(pos == "C") %>% select(playerId,playerNameKor,Name,TeamNameEng,age,SFR) %>% arrange(desc(SFR))
-d <- d[1:3,]
-d$Name <- paste0("[", d$Name," | ",d$playerNameKor, "](/players/", d$playerId, ")")
-d$TeamNameEng <- paste0("[", d$TeamNameEng, "](/teams/", gsub("[[:space:]]", "", tolower(d$TeamNameEng)), ")")
-d <- d %>% select(-playerId,-playerNameKor)
-kable(d, digits = c(0,0,0,1), row.names = T, col.names = c("Name","Team","Age","SFR")) %>% kable_styling(bootstrap_options = c("striped", "hover"), fixed_thead = T) %>% column_spec(2, bold = T, border_right = F)
 ```
 ***
 ### SFR (1B) {#first}

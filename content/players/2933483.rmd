@@ -1,11 +1,11 @@
 ---
-title: "Choi Sung-hoon | 최성훈"
-subtitle: "Samsung Lions | P"
+title: "James Naile | 네일"
+subtitle: "Kia Tigers | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 433913
+code <- 2933483
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

@@ -1,11 +1,11 @@
 ---
-title: "Kim Sa-yun | 김사윤"
-subtitle: "Kia Tigers | P"
+title: "Yook Chung-myoung | 육청명"
+subtitle: "KT Wiz | P"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 803019
+code <- 2933545
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","pitIp","K9","BB9","HR9","pitBABIP","xGBpct","xFIP","FIP","pitWAR")

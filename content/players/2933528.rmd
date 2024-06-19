@@ -1,11 +1,11 @@
 ---
-title: "Chae Eun-seong | 채은성"
-subtitle: "Hanwha Eagles | RF"
+title: "Kim Dae-won | 김대원"
+subtitle: "LG Twins | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 803041
+code <- 2933528
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

@@ -38,4 +38,4 @@ hero_media = "kbo.png"
 
 
 +++
-Advanced analytics for the Korean Baseball Organization League. Stats based on FanGraphs' methodology—plus Elo ratings and predictions.
+KBO Fancy Stats, by [Niche Analytics](https://nicheanalytics.org/), provides advanced stats for the Korean Baseball Organization League plus Elo ratings and predictions.

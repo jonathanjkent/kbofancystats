@@ -1,11 +1,11 @@
 ---
-title: "Chang Kyu-hyun | 장규현"
-subtitle: "Hanwha Eagles | DH"
+title: "Yeo Tong-keon | 여동건"
+subtitle: "Doosan Bears | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1656258
+code <- 2933514
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

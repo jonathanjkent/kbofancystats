@@ -1,11 +1,11 @@
 ---
-title: "Kang Tae-yul | 강태율"
-subtitle: "Lotte Giants | C"
+title: "Hyun Won-hoe | 현원회"
+subtitle: "SSG Landers | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1098431
+code <- 1652053
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

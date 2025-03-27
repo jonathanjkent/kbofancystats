@@ -13,7 +13,7 @@ image:
 ```{r batters, echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
-d <- d[d$season == '2024' & d$TeamNameEng == 'Hanwha Eagles',]
+d <- d[d$season == '2025' & d$TeamNameEng == 'Hanwha Eagles',]
 vars <- c("Name","pos","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
 d$SFR <- ifelse(is.na(d$SFR),"N/A",round(d$SFR,1))
 d$pos <- ifelse(is.na(d$pos),"DH",d$pos)

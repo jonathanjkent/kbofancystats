@@ -1,11 +1,11 @@
 ---
-title: "Oh Sun-woo | 오선우"
-subtitle: "Kia Tigers | DH"
+title: "Park Jun-soon | 박준순"
+subtitle: "Doosan Bears | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1631585
+code <- 2941640
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

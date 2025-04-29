@@ -1,11 +1,11 @@
 ---
-title: "Oh Sun-jin | 오선진"
-subtitle: "Kiwoom Heroes | SS"
+title: "Ryan McBroom | 맥브룸"
+subtitle: "SSG Landers | RF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 10351
+code <- 2942630
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

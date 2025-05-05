@@ -1,11 +1,11 @@
 ---
-title: "Kim Seok-hwan | 김석환"
-subtitle: "Kia Tigers | DH"
+title: "Jung Hae-won | 정해원"
+subtitle: "Kia Tigers | RF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1403041
+code <- 2238566
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

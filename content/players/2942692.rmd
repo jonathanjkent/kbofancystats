@@ -1,11 +1,11 @@
 ---
-title: "Víctor Reyes | 레이예스"
-subtitle: "Lotte Giants | LF"
+title: "Lee Seung-hyun | 이승현"
+subtitle: "Hanwha Eagles | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2933473
+code <- 2942692
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

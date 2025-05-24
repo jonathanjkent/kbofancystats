@@ -1,11 +1,11 @@
 ---
-title: "Park Seung-kyu | 박승규"
-subtitle: "Samsung Lions | RF"
+title: "Lee Min-jae | 이민재"
+subtitle: "Hanwha Eagles | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1641640
+code <- 2953272
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

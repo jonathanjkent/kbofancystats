@@ -1,11 +1,11 @@
 ---
-title: "Kim Dae-han | 김대한"
-subtitle: "Doosan Bears | DH"
+title: "Kim Jeong-ho | 김정호"
+subtitle: "NC Dinos | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1631580
+code <- 2953374
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

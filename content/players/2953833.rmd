@@ -1,11 +1,11 @@
 ---
-title: "Ju Seong-won | 주성원"
-subtitle: "Kiwoom Heroes | LF"
+title: "Ko Seung-wan | 고승완"
+subtitle: "NC Dinos | CF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1631635
+code <- 2953833
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

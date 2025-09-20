@@ -1,11 +1,11 @@
 ---
-title: "Kwon Kwang-min | 권광민"
-subtitle: "Hanwha Eagles | RF"
+title: "Park Kun-woo | 박건우"
+subtitle: "Lotte Giants | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 1672599
+code <- 2942191
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

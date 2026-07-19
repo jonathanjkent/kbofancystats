@@ -1,11 +1,11 @@
 ---
-title: "Lim Geun-woo | 임근우"
-subtitle: "SSG Landers | RF"
+title: "Yunior Severino | 세베리노"
+subtitle: "Doosan Bears | 1B"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2954631
+code <- 2963524
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

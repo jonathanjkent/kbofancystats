@@ -1,11 +1,11 @@
 ---
-title: "Bligh Madris | 마드리스"
-subtitle: "SSG Landers | LF"
+title: "Kim Han-hol | 김한홀"
+subtitle: "Lotte Giants | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2963760
+code <- 2961130
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

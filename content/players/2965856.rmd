@@ -1,11 +1,11 @@
 ---
-title: "Kim Dong-hyeok | 김동혁"
-subtitle: "Lotte Giants | CF"
+title: "Oh Si-hu | 오시후"
+subtitle: "SSG Landers | RF"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 2929472
+code <- 2965856
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")

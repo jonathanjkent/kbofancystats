@@ -1,11 +1,11 @@
 ---
-title: "Hwang Jae-gyun | 황재균"
-subtitle: "KT Wiz | DH"
+title: "Kim Geon | 김건"
+subtitle: "NC Dinos | DH"
 summary: "Career Stats"
 ---
 ```{r , echo=F,warning=FALSE,message=FALSE}
 suppressMessages(library(kableExtra))
-code <- 10142
+code <- 2961155
 d <- readRDS("~/GoogleDrive/KBO/kbo_stats.rds")
 d <- d[d$playerId == code,]
 vars <- c("season","age","batPa","batBBpct","batSOpct","ISO","batBABIP","wRCplus","SFR","batWAR")
